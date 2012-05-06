@@ -1,0 +1,79 @@
+Vanilla Frosting 3.0F for 1.13C by FearedBliss
+Released on Wednesday, July 13th, 2011
+-----------------------------------------------
+
+Overall Features:
+-----------------
+- Experience Ratio has been fixed to not diminish starting from level 70.
+* Meaning you will always get 100% off the monster experience.
+
+- Ladder Runewords are now enabled and can be used on Single Player & TCP/IP
+
+- Immunities are removed from the game, the difficulty retains their normal resistances, but resistances are capped at 75%.
+* Permits you to actually be able to solo Hell without HAVING to make dual builds. 
+* Lets you experiment with other build styles.
+* Puts the monsters and you at an even playing field.
+* Pets also have a maximum of 75% unless you increase it somehow. Fire Golem normally has 100% resistance, now it only has 75%, etc.
+
+- Fire/Cold/Light/Poison/Stoneskin enchanments are removed from the game. This is to prevent monsters from becoming immuned with the 50% to target resist that the enchantments provide.
+
+- You can now cube all 33 runes by placing 2x runes -> next rune.
+
+- You can now downgrade a rune by placing the rune + antidote -> previous rune.
+
+- All cube recipes are now completely unlocked (including tempered recipes).
+
+- All uniques are now enabled and available on non-ladder.
+
+- All map sizes (outside, and dungeons) are back to pre-1.10 style which means that they are the same size as normal. Small and comfortable.
+
+- Changed cows level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
+* The 1.10+ cows already gave you more experience than 1.09 cows, so me increasing the level requirement, will actually give you 9785 more experience per kill. 
+
+- You will now once again receive experience beyond 2 screens (like pre 1.10)
+
+- You can now run multiple clients of Diablo II for SP & TCP/IP purposes ONLY
+
+- Per rune drop rate has been increased by 10x. Even though Blizzard increased the chances, they were still a joke.
+* Don't be fooled, 10x isn't much compared to the actual percentages...
+
+(Before) Zod: .0193%
+(After) Zod: .1931%
+
+- The amount of Cows in the Moo Moo Farm has been increased by 2x.
+
+- Drop rates for the entire game have been re-done and improved. 
+* This doesn't mean you are going to find better item quality types (unique, set, rare, magic). It just means you have a better chance to a better item than junk.
+* The new drop rates also encourage players to kill regular monsters, and open chests more often to find items. A player shouldn't be forced to MF in order to find items. The items will also help you along your adventure.
+
+- All skills can now be used either on the left or right hand.
+
+- You can now find Essenses in all difficulties (For Respec/Token of Absolution - Andy, Meph, Diablo, Baal)
+
+- Difficulty penalties are now removed (Resistance, Exp, Life/Mana, Static Field)
+
+- Countess can now drop up to a Zod
+Note, Countess's drop rate has a 50/50 chance of either dropping an item and or a rune. If she decides to drop a rune, the normal rune calculations apply.
+
+Included Files:
+.\
+.\CHANGES.txt
+.\INSTALL.txt
+.\OVERVIEW.txt
+.\DropRates.ods
+.\RuneDropRates.ods
+.\MonStats_Level.ods
+.\D2Game.dll
+.\D2Gfx.dll
+.\data\global\excel\CubeMain.txt
+.\data\global\excel\DifficultyLevels.txt
+.\data\global\excel\Experience.txt
+.\data\global\excel\Levels.txt
+.\data\global\excel\LvlMaze.txt
+.\data\global\excel\MonStats.txt
+.\data\global\excel\MonUMod.txt
+.\data\global\excel\Runes.txt
+.\data\global\excel\Skills.txt
+.\data\global\excel\SuperUniques.txt
+.\data\global\excel\TreasureClassEx.txt
+.\data\global\excel\UniqueItems.txt

@@ -1,5 +1,5 @@
-Vanilla Frosting 3.7F for 1.13C by FearedBliss
-Released on Wednesday, July 20th, 2011
+Vanilla Frosting 3.8F for 1.13C by FearedBliss
+Released on Thursday, July 21th, 2011
 -----------------------------------------------
 
 Overall Features:
@@ -7,15 +7,7 @@ Overall Features:
 - Experience Ratio has been fixed to not diminish starting from level 70.
 * Meaning you will always get 100% off the monster experience.
 
-- Ladder Runewords are now enabled and can be used on Single Player & TCP/IP
-
-- Immunities are removed from the game, the difficulty retains their normal resistances, but resistances are capped at 75%.
-* Permits you to actually be able to solo Hell without HAVING to make dual builds. 
-* Lets you experiment with other build styles.
-* Puts the monsters and you at an even playing field.
-* Pets also have a maximum of 75% unless you increase it somehow. Fire Golem normally has 100% resistance, now it only has 75%, etc.
-
-- Fire/Cold/Light/Poison/Stoneskin enchanments are removed from the game. This is to prevent monsters from becoming immuned with the 50% to target resist that the enchantments provide.
+- Ladder Runewords are now enabled and can be used on Single Player.
 
 - You can now cube all 33 runes by placing 2x runes -> next rune.
 
@@ -28,16 +20,12 @@ Overall Features:
 - All map sizes (outside, and dungeons) are back to pre-1.10 style which means that they are the same size as normal. Small and comfortable.
 
 - Changed cows level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
-* The 1.10+ cows already gave you more experience than 1.09 cows, so me increasing the level requirement, will actually give you 9785 more experience per kill. 
 
-- You will now once again receive experience beyond 2 screens (like pre 1.10)
+- Shared Party Experience: You will now once again receive experience beyond 2 screens (like pre 1.10)
 
-- You can now run multiple clients of Diablo II for SP & TCP/IP purposes ONLY
+- The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
 
-- The amount of Cows in the Moo Moo Farm has been increased by 2x.
-
-- Drop rates for the entire game have been re-done and improved. 
-* The new drop rates encourage players to kill regular monsters, and open chests more often to find items. A player shouldn't be forced to MF in order to find items. The items will also help you along your adventure.
+- You can now run multiple clients of Diablo II
 
 - All skills can now be used either on the left or right hand.
 
@@ -46,44 +34,50 @@ Overall Features:
 - Countess can now drop up to a Zod
 Note, Countess's drop rate has a 50/50 chance of either dropping an item and or a rune. If she decides to drop a rune, the normal rune calculations apply.
 
-- Completely new experience table. The maximum level is now 100.
-* I tried to keep the experience linear, than exponential. The maximum experience is 1,000,000,000 = Lvl 100.
-* There is an Experience Table spreadsheet included in the modder's archive for any future modders.
+- Completely new experience table based off tenth level small exponential increases, closer to a linear scheme.
+* Meaning if normal D2 experience curve was 1.0, 2.0, 3.0, 4.0, it's now 1.1, 1.2, 1.3, 1.4.
+
+- The maximum level is now 100.
 
 - Gold will no longer drop. Most people probably pick up items and sell them rather than pick up 1 or 2 pieces of gold.
 
 - You can now redo the Cow Level even if you kill the king.
 
+- You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
+
+- Immunities are now breakable and maxed at 100%. Before monsters could have anywhere from 100% -> 180%+ which would make them impossible to break.
+
+- Drop rates for the entire game have been re-done and improved. 
+
 - The recipe to make the Cow Level is now just a Tome of Town Portal.
 
-- All skill delays have been removed.
-
-- You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
+- Throwing weapons stack size have been increased by 5x.
 
 Included Files:
 .\
 .\D2Game.dll
-.\D2Gfx.dll
-.\DropRates.ods
-.\ExperienceTable.ods
-.\MonStats_Level.ods
-.\RuneDropRates.ods
-.\NewRates.png
+.\D2gfx.dll
+.\other\DropRates.ods
+.\other\ExperienceTable.ods
+.\other\MonStats_Level.ods
+.\other\RuneDropRates.ods
+.\other\NewRates.png
+.\other\Old_3.71F_Rates.png
+.\other\ExperienceRatios.txt
+.\other\ExpGen_1.1.zip
+.\other\code edits\CowLevel.txt
+.\other\code edits\ExperienceBeyondTwoScreens.txt
+.\other\code edits\MaxPlayers.txt
+.\other\code edits\MultipleDiabloWindows.txt
 .\CHANGES.txt
 .\INSTALL.txt
 .\OVERVIEW.txt
 .\WHATIS.txt
-.\Code Edits\CowLevel.txt
-.\Code Edits\ExperienceBeyondTwoScreens.txt
-.\Code Edits\MultipleDiabloWindows.txt
 .\data\global\excel\CubeMain.txt
 .\data\global\excel\Experience.txt
-.\data\global\excel\Levels.txt
 .\data\global\excel\LvlMaze.txt
 .\data\global\excel\MonStats.txt
-.\data\global\excel\MonUMod.txt
 .\data\global\excel\Runes.txt
 .\data\global\excel\Skills.txt
 .\data\global\excel\TreasureClassEx.txt
 .\data\global\excel\UniqueItems.txt
-.\ExpGenerator.zip

@@ -1,6 +1,23 @@
-Vanilla Frosting 3.7F for 1.13C by FearedBliss
-Released on Wednesday, July 20th, 2011
+Vanilla Frosting 3.8F for 1.13C by FearedBliss
+Released on Saturday, July 23th, 2011
 -----------------------------------------------
+
+3.8F Changes:
+--------------
+In this patch I relooked at the mod completely and decided to bring it even more back to the normal Diablo experience.
+
+- Skill delays are back to normal.
+- Immunities are back in the game but are maxed at 100% so that they can be broken.
+- Redid the Experience Table again and increased the experience cap from 1,000,000,000 to 2,000,000,000. This affects all the values going down.
+- Monster experience throughout the entire game has increased to compensate for the new experience table.
+- In memory of Diablo 1, the maximum number of players in a game can only be 4. So make sure to pick your members wisely. In Single Player, you can still use the /players command up to 8.
+- The number of Cows in the Moo Moo Farm are back to normal.
+- Throwing weapons stack size have been increased by 5x.
+
+3.71F Changes:
+--------------
+- Included my the new version of my Experience Generator
+- Regerated the Experience Table with the Experience Generator so it's closer to my original vision.
 
 3.7F Changes:
 -------------

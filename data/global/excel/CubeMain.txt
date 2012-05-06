@@ -90,6 +90,35 @@ magic breastplate + jewel + rune 05 + perfect emerald -> safety body	1			100				
 magic amulet + jewel + rune 10 + perfect emerald -> safety amulet	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
 magic ring + jewel + rune 11 + perfect emerald -> safety ring	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
 magic spear + jewel + rune 12 + perfect emerald -> safety weapon	1			100					4	"spea,mag"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
+r07 + r10 + 1 perfect topaz + normal torso -> socketed torso	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
+r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
+r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
+r07 + r11 + 1 perfect ruby + normal shield -> socketed shield	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
+r02 + 1 chipped gem + low weapon -> normal weapon	1			100					3	"weap,low"	r02	gem0					"usetype,nor"																																																																																							0
+r01 + 1 chipped gem + low armor -> normal armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
+r08 + r12 + perfect emerald + basic unique weapon -> exceptional unique weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r07 + r13 + perfect diamond + basic unique armor -> exceptional unique armor	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1			100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1			100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r09 + r11 + perfect sapphire + basic rare weapon -> exceptional rare weapon	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r08 + r10 + perfect amethyst + basic rare armor -> exceptional rare armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r19 + r22 + perfect sapphire + exceptional rare weapon -> elite rare weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r18 + r21 + perfect amethyst + exceptional rare armor -> elite rare armor	1			100					4	"armo,exc,rar"	r18	r21	gpv				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r09 + weapon -> repair	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
+r08 + armor -> repair	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
+r09 + weapon + chipped gem -> repair + recharge	1			100					3	"weap,noe"	r09	gem0					"useitem,rep,rch,qty=255"																																																																																							0
+r08 + armor + flawed gem -> repair + recharge	1			100					3	"armo,noe"	r08	gem1					"useitem,rep,rch,qty=255"																																																																																							0
+r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	"any,sock"	r15	tsc					"useitem,uns"																																																																																							0
+r08 + jew + superior armor -> tempered armor	1			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
+r08 + jew + superior weapon -> tempered weapon	1			100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
+r08 + jew + magic ring -> tempered ring	1			100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
+r08 + jew + magic amulet -> tempered amulet	1			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
+r01 + gcv + tempered weapon -> +30-50 ar	1			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
+"3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
+Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
+Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+<--- RUNE UPGRADES --->																																																																																																								0
 2 rune 01 -> rune 02	1			100					2	"r01,qty=2"							r02																																																																																							0
 2 rune 02 -> rune 03	1			100					2	"r02,qty=2"							r03																																																																																							0
 2 rune 03 -> rune 04	1			100					2	"r03,qty=2"							r04																																																																																							0
@@ -122,34 +151,7 @@ magic spear + jewel + rune 12 + perfect emerald -> safety weapon	1			100					4	"
 2 rune 30 -> rune 31	1			100					2	"r30,qty=2"							r31																																																																																							0
 2 rune 31 -> rune 32	1			100					2	"r31,qty=2"							r32																																																																																							0
 2 rune 32 -> rune 33	1			100					2	"r32,qty=2"							r33																																																																																							0
-r07 + r10 + 1 perfect topaz + normal torso -> socketed torso	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
-r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
-r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
-r07 + r11 + 1 perfect ruby + normal shield -> socketed shield	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
-r02 + 1 chipped gem + low weapon -> normal weapon	1			100					3	"weap,low"	r02	gem0					"usetype,nor"																																																																																							0
-r01 + 1 chipped gem + low armor -> normal armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
-r08 + r12 + perfect emerald + basic unique weapon -> exceptional unique weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
-r07 + r13 + perfect diamond + basic unique armor -> exceptional unique armor	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
-r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1			100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1			100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r09 + r11 + perfect sapphire + basic rare weapon -> exceptional rare weapon	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
-r08 + r10 + perfect amethyst + basic rare armor -> exceptional rare armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
-r19 + r22 + perfect sapphire + exceptional rare weapon -> elite rare weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r18 + r21 + perfect amethyst + exceptional rare armor -> elite rare armor	1			100					4	"armo,exc,rar"	r18	r21	gpv				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r09 + weapon -> repair	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
-r08 + armor -> repair	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
-r09 + weapon + chipped gem -> repair + recharge	1			100					3	"weap,noe"	r09	gem0					"useitem,rep,rch,qty=255"																																																																																							0
-r08 + armor + flawed gem -> repair + recharge	1			100					3	"armo,noe"	r08	gem1					"useitem,rep,rch,qty=255"																																																																																							0
-r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	"any,sock"	r15	tsc					"useitem,uns"																																																																																							0
-r08 + jew + superior armor -> tempered armor	1			100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
-r08 + jew + superior weapon -> tempered weapon	1			100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
-r08 + jew + magic ring -> tempered ring	1			100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
-r08 + jew + magic amulet -> tempered amulet	1			100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
-r01 + gcv + tempered weapon -> +30-50 ar	1			100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
-"3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
-Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
-Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
-Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+<--- RUNE DOWNGRADES --->																																																																																																								0
 rune 33 + antidote -> rune 32	1			100					2	r33	yps						r32																																																																																							0
 rune 32 + antidote -> rune 31	1			100					2	r32	yps						r31																																																																																							0
 rune 31 + antidote -> rune 30	1			100					2	r31	yps						r30																																																																																							0

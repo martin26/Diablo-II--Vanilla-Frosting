@@ -1,5 +1,5 @@
-Vanilla Frosting 3.7F for 1.13C by FearedBliss
-Released on Wednesday, July 20th, 2011
+Vanilla Frosting 3.8F for 1.13C by FearedBliss
+Released on Saturday, July 23th, 2011
 -----------------------------------------------
 
 Installation:

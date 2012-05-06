@@ -1,11 +1,13 @@
-Vanilla Frosting 4.2.1 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Friday, December 23rd, 2011
+Vanilla Frosting 4.2.2 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Saturday, December 24th, 2011
 -----------------------------------------------
 
 Overall Features:
 -----------------
 - Experience Ratio has been fixed to not diminish starting from level 70.
 * Meaning you will always get 100% off the monster experience.
+
+- Experience received from killing monsters has been increased by 5x.
 
 - The maximum level is now 100.
 
@@ -17,7 +19,7 @@ Overall Features:
 
 - All map sizes (outside, and dungeons) are back to pre-1.10 style; which means that they are the same size as the normal difficulty. Small and comfortable.
 
-- Changed Hell Bovine (Cows) level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
+- Changed Hell Bovine (Cows) Monster Level back to 90 (1.09) from 81. Now you will be able to find higher Item Level drops.
 
 - The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
 * This includes the /players command as well.
@@ -26,7 +28,8 @@ Overall Features:
 
 - You can now run multiple clients of Diablo II
 
-- Token of Absolution is now sold at Akara (Nobody drops essences anymore)
+- Token of Absolution is now sold at Akara 
+* No monsters drop essences anymore.
 
 - Countess can now drop up to a Zod
 
@@ -35,8 +38,9 @@ Overall Features:
 - You can now use Thunder Storm, Battle Orders, Battle Command, and Shout in town.
 * No Teleport because of Act 2 (Teleporting into Palace).
 
-- The game is geared towards higher resistances rather than immunities. Max resistance for normal monster = 99. SuperUniques can go over.
+- The game is now geared towards higher resistances rather than immunities. Max resistance for monsters = 99.
 * Some monster modifiers have been removed to prevent immunities.
+** Let me know if some SuperUniques still become immuned to something.
 
 - Drop rates and ratios for the entire game have been improved. 
 
@@ -45,68 +49,7 @@ Overall Features:
 - Throwing weapons stack size have been increased by 5x.
 
 - All skills can now be used either on the left or right hand (Auras don't work on the left hand)
+** Let me know if any auras are shown on the left hand skills button.
 
 - All cube recipes are now completely unlocked (including tempered recipes).
-
-Included Files:
-.
-
-./Changes
-
-./Changes/data
-
-./Changes/data/global
-
-./Changes/data/global/excel
-
-./Changes/data/global/excel/CubeMain.txt
-
-./Changes/data/global/excel/Experience.txt
-
-./Changes/data/global/excel/ItemRatio.txt
-
-./Changes/data/global/excel/LvlMaze.txt
-
-./Changes/data/global/excel/Misc.txt
-
-./Changes/data/global/excel/MonStats.txt
-
-./Changes/data/global/excel/MonUMod.txt
-
-./Changes/data/global/excel/Runes.txt
-
-./Changes/data/global/excel/Skills.txt
-
-./Changes/data/global/excel/SuperUniques.txt
-
-./Changes/data/global/excel/TreasureClassEx.txt
-
-./Changes/data/global/excel/Weapons.txt
-
-./CHANGES.txt
-
-./D2Game.dll
-
-./D2Gfx.dll
-
-./INSTALL.txt
-
-./Modding
-
-./Modding/Code_Edits
-
-./Modding/Code_Edits/D2Game_Experience_Beyond_Two_Screens.txt
-
-./Modding/Code_Edits/D2Game_Max_Players.txt
-
-./Modding/Code_Edits/D2Game_Open_Cow_Level_Even_If_King_Killed.txt
-
-./Modding/Code_Edits/D2Gfx_Multiple_D2_Windows.txt
-
-./Modding/README.txt
-
-./OVERVIEW.txt
-
-./Patch_D2.mpq
-
-./WHATIS.txt
+** Let me know if Tempered Recipes work correctly on your end.

@@ -1,6 +1,12 @@
-Vanilla Frosting 4.2.1 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Friday, December 23rd, 2011
+Vanilla Frosting 4.2.2 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Saturday, December 24th, 2011
 -----------------------------------------------
+
+4.2.2 Changes:
+------------
+- Fixed a few monsters that were still receiving immunities.
+- Added "Vanilla Frosting <VERSION#>" to Splash Screen and Main Menu Screen.
+- New 4 Player Based Player Status Screen [Invite/Hostile/Location].
 
 4.2.1 Changes:
 ------------

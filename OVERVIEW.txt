@@ -1,5 +1,5 @@
-Vanilla Frosting 4.2.3 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Thursday, December 29th, 2011
+Vanilla Frosting 4.2.4 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, February 3rd, 2012
 -----------------------------------------------
 
 Overall Features:

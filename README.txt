@@ -1,4 +1,4 @@
-D2 Enhanced 2.6b for 1.13 by FearedBliss
+(Codename) D2 Enhanced 2.7b for 1.13c by FearedBliss
 
 Put the data folder in the root of your Diablo II folder.
 
@@ -9,6 +9,27 @@ Add:
 to the end of your parameters list.
 
 Enjoy.
+
+---- 2.7b ----
+Major:
+- You will now once again receive experience beyond 2 screens (like pre 1.10)
+- You can now run multiple clients of Diablo II for Single Player - TCP/IP purposes ONLY
+
+Minor:
+- Rune drop rate chances have been increased by 10x. Even though Blizzard increased the chances, they were still a joke.
+Default drop rates and New drop rate spreadsheet/charts are included in the zip.
+Don't be fooled, 10x isn't much compared to the actual percentages..
+
+(Before) Zod: .0193%
+(After) Zod: .1931%
+
+- All bosses drops have been increased... __slightly___
+
+New Files:
+.\
+.\D2Game.dll
+.\D2Gfx.dll
+.\data\global\excel\TreasureClassEx.txt
 
 ---- 2.6b ----
 Major:

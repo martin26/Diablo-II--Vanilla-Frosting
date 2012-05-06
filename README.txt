@@ -1,5 +1,9 @@
-(Codename) D2 Enhanced 2.7b for 1.13c by FearedBliss
+Vanilla Frosting 1.00F for 1.13C by FearedBliss
+Released on Friday, July 8th, 2011
+-----------------------------------------------
 
+Installation:
+-------------
 Put the data folder in the root of your Diablo II folder.
 
 Add:
@@ -10,43 +14,28 @@ to the end of your parameters list.
 
 Enjoy.
 
----- 2.7b ----
-Major:
-- You will now once again receive experience beyond 2 screens (like pre 1.10)
-- You can now run multiple clients of Diablo II for Single Player - TCP/IP purposes ONLY
+Uninstallation:
+Remove the data folder from your Diablo II folder.
 
-Minor:
-- Rune drop rate chances have been increased by 10x. Even though Blizzard increased the chances, they were still a joke.
-Default drop rates and New drop rate spreadsheet/charts are included in the zip.
-Don't be fooled, 10x isn't much compared to the actual percentages..
+Remove -direct -txt from the end of your parameters list.
 
-(Before) Zod: .0193%
-(After) Zod: .1931%
+Changes/Enhancements to Vanilla Diablo II 1.13C:
+------------------------------------------------
+- Experience Ratio has been fixed to not diminish starting from level 70.
+Meaning you will always get 100% off the monster experience.
 
-- All bosses drops have been increased... __slightly___
+- Ladder Runewords are now enabled and can be used on Single Player & TCP/IP
 
-New Files:
-.\
-.\D2Game.dll
-.\D2Gfx.dll
-.\data\global\excel\TreasureClassEx.txt
+- Immunities in all difficulties are now the same as Normal.
+This permits people to actually be able to solo Hell without HAVING to make horrible dual builds. This also lets you experiment with other build styles as well.
 
----- 2.6b ----
-Major:
-- Fixed a critical bug in the MonStats.txt file which might have affected resistances, but also other values. This caused the game to crash in Act 4 Hell Forge.
+- You can now cube all 33 runes by placing 2x runes -> next rune.
 
-Minor:
-- Fixed recipe names for downgrades
+- All recipes are now unlocked for non-ladder players as well. (Doesn't really affect anyone since this is for SP & TCP/IP.
 
----- 2.5b ----
-- Immunities in all difficulties are now the same as normal.
+- All map sizes (outside, and dungeons) are back to pre-1.10 style which means that they are the same size as normal. Small and comfortable.
 
----- 2.1b ----
-- Fixed some rune recipes from r10 - r18 that weren't working
-
----- 2.0b ----
-Changes:
-- Changed cows level back to 90 (1.09) from 81. Now you will be able to find better drops.
+- Changed cows level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
 The 1.10+ cows already gave you more experience than 1.09 cows, so me increasing the level requirement, will actually give you 9785 more experience per kill. 
 The only reason I can see from the slowing down of hell cows for leveling in 1.10+ is that the exp ratio was nerfed.
 
@@ -71,48 +60,111 @@ Level: 60/75/99
 1619522-303809 = 1315713 more experience in nightmare 1.13 baal
 4536276-777763 = 3758513 more experience in hell 1.13 baal
 
-- You can now cube all 33 runes by placing 2x runes -> next rune.
+- You will now once again receive experience beyond 2 screens (like pre 1.10)
 
-- Added 32 new recipes which are used for downgrading runes.
-1x Rune + Antidote* = 1x Previous Rune
+- You can now run multiple clients of Diablo II for Single Player - TCP/IP purposes ONLY
 
-*The antidote is used as a security check so you don't by mistake click the transmute button with a single rune in the cube, and downgrade it.
+- Rune drop rate chances have been increased by 10x. Even though Blizzard increased the chances, they were still a joke.
+Default drop rates and New drop rate spreadsheet/charts are included in the zip.
+Don't be fooled, 10x isn't much compared to the actual percentages..
 
-- All recipes are now unlocked for non-ladder players as well. (Doesn't really affect anyone since this is for SP & TCP/IP.
+(Before) Zod: .0193%
+(After) Zod: .1931%
 
-- All map sizes (outside, and dungeons) are back to 1.07 style which means that they are the same size as normal. Small and comfortable.
+- The amount of Cows in the Moo Moo Farm has been increased by 2x.
 
-- 4x amount of cows in the Moo Moo Farm in all difficulties (Too much? ;D)
+- Bosses, Mini-Bosses, and Cows drop rates have been increased by 3x.
+A table has been included so you can see all the calculations and percentages. You can also edit the spreadsheet to find different rates at different values.
 
----- 1.5b ----
-Changes:
-- Experience Ratio has been fixed to not diminish starting from level 70.
-Meaning you will always get 100% off the monster experience.
+The game organizes items into different piles. Like Junk pile, Good Pile, etc. Note, that there are also more calculations involved than these raw values.
+Boss - Regular % to drop something in the Good pile - New Rate
 
-- Immunities have been re-added to the game but the maximum immunity percentage is now 100%.
-Meaning that if the monster is immune to something, it will still be immune, but you can actually break the immunity.
+Andariel - 
+Normal: 4.4776% - 12.3288%
+Nightmare: 4.4776% - 12.3288%
+Hell: 4.4118% - 11.8421%
+Essence: 1.4706% - 3.9474%
 
-- Changed rune colors according to their rarerity.
-Common: Orange (Default)
-Semi-rare: Yellow (rare)
-Rare: Gold (Unique)
+Duriel -
+Normal: 4.4776% - 12.3288%
+Nightmare: 4.4776% - 12.3288%
+Hell: 4.3478% - 11.8421%
+Essence: 2.8986% - 3.9474%
 
-- Removed gem requirements in rune recipes.
-If 3x rune + 1x gem = next rune, now it's 3x rune = next rune.
+Mephisto -
+Normal: 3.7500% - 10.4651%
+Nightmare: 3.7500% - 10.4651%
+Hell: 3.7500% - 10.1124%
+Essence: 1.2346% - 3.3708%
 
-- Starting from Thul, you only need 2x rune to make the next rune.
+Diablo -
+Normal: 3.7500% - 10.4651%
+Nightmare: 3.7500% - 10.4651%
+Hell: 3.7037% - 10.1124%
+Essence: 1.2346% - 3.3708%
 
-...
-3x Ort -> 1x Thul
-2x Thul -> 1x Amn
-2x Amn -> 1x Sol
-...
+Baal -
+Normal: 3.7500% - 10.4651%
+Nightmare: 3.7500% - 10.4651%
+Hell: 3.7037% - 10.1124%
+Essence: 1.2346% - 3.3708%
 
----- 1.0b ----
-Changes:
-- Experience Ratio has been fixed to not diminish starting from level 70.
-Meaning you will always get 100% off the monster experience.
+Cow - 
+Normal: 1.8750% - 5.4217%
+Nightmare: 1.8750% - 5.4217%
+Hell: 1.8750% - 5.4217%
 
-- Ladder Runewords are now enabled and can be used on Single Player & TCP/IP
+Izual -
+Normal: 5.0000% - 13.6364%
+Nightmare: 5.0000% - 13.6364%
+Hell: 5.0000% - 13.6364%
 
-- Immunities have been removed from the game
+Radament -
+Normal: 4.4776% - 12.3288%
+Nightmare: 4.4776% - 12.3288%
+Hell: 4.4776% - 12.3288%
+
+Council -
+Normal: 5.4545% - 14.7541%
+Nightmare: 5.4545% - 14.7541%
+Hell: 5.4545% - 14.7541%
+
+Hephasto - 
+Normal: 5.0000% - 13.6364%
+Nightmare: 5.0000% - 13.6364%
+Hell: 5.0000% - 13.6364%
+
+Nihlathak -
+Normal: 5.0000% - 13.6364%
+Nightmare: 5.0000% - 13.6364%
+Hell: 4.9180% - 13.0435%
+Key: 1.6393% - 4.3478%
+
+Summoner -
+Normal: 5.4545% - 14.7541%
+Nightmare: 5.4545% - 14.7541%
+Hell: 5.3571% - 14.0625%
+Key: 1.7857% - 4.6875%
+
+Countess -
+Normal: 4.4776% - 12.3288%
+Nightmare: 4.4776% - 12.3288%
+Hell: 4.4118% - 11.8421%
+Key: 1.4706% - 3.9474%
+
+- Countess can now drop up to a Zod
+Note, Countess's drop rate has a 50/50 chance of either dropping an item and or a rune. If she decides to drop a rune, the normal rune calculations apply.
+
+Included Files:
+.\
+.\README.txt
+.\D2Game.dll
+.\D2Gfx.dll
+.\BossDropRate.ods
+.\RuneDropRate.ods
+.\data\global\excel\CubeMain.txt
+.\data\global\excel\Experience.txt
+.\data\global\excel\Levels.txt
+.\data\global\excel\LvlMaze.txt
+.\data\global\excel\MonStats.txt
+.\data\global\excel\TreasureClassEx.txt

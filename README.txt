@@ -1,4 +1,4 @@
-Vanilla Frosting 2.00F for 1.13C by FearedBliss
+Vanilla Frosting 2.01F for 1.13C by FearedBliss
 Released on Monday, July 11th, 2011
 -----------------------------------------------
 
@@ -21,6 +21,10 @@ Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'D
 
 Remove -direct -txt from the end of your parameters list.
 
+2.01F Changes:
+--------------
+- All skills can now be used either on left or right hand.
+
 2.00F Changes:
 --------------
 - All cube recipes are now completely unlocked (including tempered recipes).
@@ -35,10 +39,10 @@ Remove -direct -txt from the end of your parameters list.
 This doesn't mean you are going to find better item quality types (unique,set,rare,magic). It just means you have a better chance to a better item than junk.
 The new drop rates also encourage players to kill regular monsters, and open chests more often to find items. A player shouldn't be forced to MF in order to find items. The items will also help you along your adventure.
 
-- Resistances for each back have been set back to normal for each difficulty, but the maximum resistance in the game is now 75%. This puts the monsters and the characters at an even playing field.
+- Resistances for each difficulty has been set back to their respective values, but the maximum resistance in the game is now 75%. This puts the monsters and the characters at an even playing field.
 Also note, that your pets also have a maximum of 75% unless you increase it somehow. Fire Golem normally has 100% resistance, now it only has 75%, etc.
 
-Changes/Enhancements to Vanilla Diablo II 1.13C:
+Changes/Enhancements to Vanilla Diablo II 1.13C - 1.00F:
 ------------------------------------------------
 - Experience Ratio has been fixed to not diminish starting from level 70.
 Meaning you will always get 100% off the monster experience.
@@ -58,27 +62,6 @@ This permits people to actually be able to solo Hell without HAVING to make horr
 The 1.10+ cows already gave you more experience than 1.09 cows, so me increasing the level requirement, will actually give you 9785 more experience per kill. 
 The only reason I can see from the slowing down of hell cows for leveling in 1.10+ is that the exp ratio was nerfed.
 
-- Did not increase experience of baal because you are already getting more experience of baal in 1.13 then in 1.09.
-Notes after checking baal in vanilla 1.09 and vanilla 1.13:
-
-Level: 60/75/95
-
-1.09
-297964 exp normal
-303809 exp night
-777763 exp hell
-
-1.13
-
-Level: 60/75/99
-216862 exp normal
-1619522 exp night
-4536276 exp hell
-
-216862-29794 = -81102 less experience in normal 1.13 baal
-1619522-303809 = 1315713 more experience in nightmare 1.13 baal
-4536276-777763 = 3758513 more experience in hell 1.13 baal
-
 - You will now once again receive experience beyond 2 screens (like pre 1.10)
 
 - You can now run multiple clients of Diablo II for Single Player - TCP/IP purposes ONLY
@@ -93,83 +76,6 @@ Don't be fooled, 10x isn't much compared to the actual percentages..
 - The amount of Cows in the Moo Moo Farm has been increased by 2x.
 
 - Bosses, Mini-Bosses, and Cows drop rates have been increased by 3x.
-A table has been included so you can see all the calculations and percentages. You can also edit the spreadsheet to find different rates at different values.
-
-The game organizes items into different piles. Like Junk pile, Good Pile, etc. Note, that there are also more calculations involved than these raw values.
-Boss - Regular % to drop something in the Good pile - New Rate
-
-Andariel - 
-Normal: 4.4776% - 12.3288%
-Nightmare: 4.4776% - 12.3288%
-Hell: 4.4118% - 11.8421%
-Essence: 1.4706% - 3.9474%
-
-Duriel -
-Normal: 4.4776% - 12.3288%
-Nightmare: 4.4776% - 12.3288%
-Hell: 4.3478% - 11.8421%
-Essence: 2.8986% - 3.9474%
-
-Mephisto -
-Normal: 3.7500% - 10.4651%
-Nightmare: 3.7500% - 10.4651%
-Hell: 3.7500% - 10.1124%
-Essence: 1.2346% - 3.3708%
-
-Diablo -
-Normal: 3.7500% - 10.4651%
-Nightmare: 3.7500% - 10.4651%
-Hell: 3.7037% - 10.1124%
-Essence: 1.2346% - 3.3708%
-
-Baal -
-Normal: 3.7500% - 10.4651%
-Nightmare: 3.7500% - 10.4651%
-Hell: 3.7037% - 10.1124%
-Essence: 1.2346% - 3.3708%
-
-Cow - 
-Normal: 1.8750% - 5.4217%
-Nightmare: 1.8750% - 5.4217%
-Hell: 1.8750% - 5.4217%
-
-Izual -
-Normal: 5.0000% - 13.6364%
-Nightmare: 5.0000% - 13.6364%
-Hell: 5.0000% - 13.6364%
-
-Radament -
-Normal: 4.4776% - 12.3288%
-Nightmare: 4.4776% - 12.3288%
-Hell: 4.4776% - 12.3288%
-
-Council -
-Normal: 5.4545% - 14.7541%
-Nightmare: 5.4545% - 14.7541%
-Hell: 5.4545% - 14.7541%
-
-Hephasto - 
-Normal: 5.0000% - 13.6364%
-Nightmare: 5.0000% - 13.6364%
-Hell: 5.0000% - 13.6364%
-
-Nihlathak -
-Normal: 5.0000% - 13.6364%
-Nightmare: 5.0000% - 13.6364%
-Hell: 4.9180% - 13.0435%
-Key: 1.6393% - 4.3478%
-
-Summoner -
-Normal: 5.4545% - 14.7541%
-Nightmare: 5.4545% - 14.7541%
-Hell: 5.3571% - 14.0625%
-Key: 1.7857% - 4.6875%
-
-Countess -
-Normal: 4.4776% - 12.3288%
-Nightmare: 4.4776% - 12.3288%
-Hell: 4.4118% - 11.8421%
-Key: 1.4706% - 3.9474%
 
 - Countess can now drop up to a Zod
 Note, Countess's drop rate has a 50/50 chance of either dropping an item and or a rune. If she decides to drop a rune, the normal rune calculations apply.
@@ -179,11 +85,12 @@ Included Files:
 .\README.txt
 .\D2Game.dll
 .\D2Gfx.dll
-.\BossDropRate.ods
-.\RuneDropRate.ods
 .\data\global\excel\CubeMain.txt
+.\data\global\excel\DifficultyLevels.txt
 .\data\global\excel\Experience.txt
 .\data\global\excel\Levels.txt
 .\data\global\excel\LvlMaze.txt
 .\data\global\excel\MonStats.txt
+.\data\global\excel\Skills.txt
 .\data\global\excel\TreasureClassEx.txt
+.\data\global\excel\UniqueItems.txt

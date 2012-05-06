@@ -1,0 +1,19 @@
+VERSION: 1.13d
+
+CODE:
+
+000D528F   83BD 8C000000 08 CMP DWORD PTR SS:[EBP+8C],8
+000E5D4D   83BD 8C000000 08 CMP DWORD PTR SS:[EBP+8C],8
+
+WHAT TO DO:
+Change the second operands to 4.
+
+HOW TO FIND THE OFFSET:
+
+When you search for the command: CMP DWORD PTR SS:[EBP+8C],8 
+there will only be two of them in D2Game.dll.
+
+1.13d Offsets: D528F, E5D4D
+1.13c Offsets: 4A9CD, CADDF
+1.12 Offsets: 6424F, EBD3D
+

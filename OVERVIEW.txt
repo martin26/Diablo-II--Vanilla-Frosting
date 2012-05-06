@@ -1,5 +1,5 @@
-Vanilla Frosting 4.1 for 1.13c by FearedBliss
-Released on Friday, August 5th, 2011
+Vanilla Frosting 4.2.1 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, December 23rd, 2011
 -----------------------------------------------
 
 Overall Features:
@@ -15,29 +15,25 @@ Overall Features:
 
 - You can now downgrade a rune by placing the rune + antidote -> previous rune.
 
-- All cube recipes are now completely unlocked (including tempered recipes).
+- All map sizes (outside, and dungeons) are back to pre-1.10 style; which means that they are the same size as the normal difficulty. Small and comfortable.
 
-- All uniques are now enabled and available on non-ladder.
+- Changed Hell Bovine (Cows) level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
 
-- All map sizes (outside, and dungeons) are back to pre-1.10 style which means that they are the same size as normal. Small and comfortable.
-
-- Changed cows level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
+- The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
+* This includes the /players command as well.
 
 - Shared Party Experience: You will now once again receive experience beyond 2 screens (pre-1.10)
 
-- The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
-
 - You can now run multiple clients of Diablo II
 
-- All skills can now be used either on the left or right hand (Auras don't work on the left hand)
-
-- Token of Absolution is now sold at Akara (Essenses have been removed)
+- Token of Absolution is now sold at Akara (Nobody drops essences anymore)
 
 - Countess can now drop up to a Zod
 
 - You can now redo the Cow Level even if you kill the king.
 
-- You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
+- You can now use Thunder Storm, Battle Orders, Battle Command, and Shout in town.
+* No Teleport because of Act 2 (Teleporting into Palace).
 
 - The game is geared towards higher resistances rather than immunities. Max resistance for normal monster = 99. SuperUniques can go over.
 * Some monster modifiers have been removed to prevent immunities.
@@ -48,27 +44,69 @@ Overall Features:
 
 - Throwing weapons stack size have been increased by 5x.
 
-- Skill timers have been removed (pre-1.07).
+- All skills can now be used either on the left or right hand (Auras don't work on the left hand)
+
+- All cube recipes are now completely unlocked (including tempered recipes).
 
 Included Files:
-.\
-.\D2Game.dll
-.\D2gfx.dll
-.\Patch_D2.mpq
-.\CHANGES.txt
-.\INSTALL.txt
-.\OVERVIEW.txt
-.\WHATIS.txt
-.\changes\data\global\excel\CubeMain.txt
-.\changes\data\global\excel\Experience.txt
-.\changes\data\global\excel\ItemRatio.txt
-.\changes\data\global\excel\LvlMaze.txt
-.\changes\data\global\excel\Misc.txt
-.\changes\data\global\excel\MonStats.txt
-.\changes\data\global\excel\MonUMod.txt
-.\changes\data\global\excel\Runes.txt
-.\changes\data\global\excel\Skills.txt
-.\changes\data\global\excel\SuperUniques.txt
-.\changes\data\global\excel\TreasureClassEx.txt
-.\changes\data\global\excel\UniqueItems.txt
-.\changes\data\global\excel\Weapons.txt
+.
+
+./Changes
+
+./Changes/data
+
+./Changes/data/global
+
+./Changes/data/global/excel
+
+./Changes/data/global/excel/CubeMain.txt
+
+./Changes/data/global/excel/Experience.txt
+
+./Changes/data/global/excel/ItemRatio.txt
+
+./Changes/data/global/excel/LvlMaze.txt
+
+./Changes/data/global/excel/Misc.txt
+
+./Changes/data/global/excel/MonStats.txt
+
+./Changes/data/global/excel/MonUMod.txt
+
+./Changes/data/global/excel/Runes.txt
+
+./Changes/data/global/excel/Skills.txt
+
+./Changes/data/global/excel/SuperUniques.txt
+
+./Changes/data/global/excel/TreasureClassEx.txt
+
+./Changes/data/global/excel/Weapons.txt
+
+./CHANGES.txt
+
+./D2Game.dll
+
+./D2Gfx.dll
+
+./INSTALL.txt
+
+./Modding
+
+./Modding/Code_Edits
+
+./Modding/Code_Edits/D2Game_Experience_Beyond_Two_Screens.txt
+
+./Modding/Code_Edits/D2Game_Max_Players.txt
+
+./Modding/Code_Edits/D2Game_Open_Cow_Level_Even_If_King_Killed.txt
+
+./Modding/Code_Edits/D2Gfx_Multiple_D2_Windows.txt
+
+./Modding/README.txt
+
+./OVERVIEW.txt
+
+./Patch_D2.mpq
+
+./WHATIS.txt

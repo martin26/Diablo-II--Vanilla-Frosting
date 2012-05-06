@@ -1,0 +1,22 @@
+VERSION: 1.13d
+
+CODE:
+
+00087EFA   3D 00190000      CMP EAX,1900
+00087EFF   77 53            JA SHORT 00087F54
+
+WHAT TO DO:
+
+NOP both of them.
+
+HOW TO FIND OFFSET:
+
+When you search for the Binary String: 3D 00190000
+
+The first appearance of it will be the solution. Modify the first appearance, and the value right next to the appeareance.
+
+1.13d Offsets: 87EFA, 87EFF
+1.13c Offsets: DAFCA, DAFCF
+1.12 Offsets: 784BA, 784BF
+
+

@@ -1,0 +1,43 @@
+VERSION: 1.13d
+
+CODE: 
+
+D2Client.dll
+
+000B1F73   83F8 01          CMP EAX,1
+000B1F76   7E 4C            JLE SHORT 000B1FC4
+000B1F78   83F8 08          CMP EAX,8                 <<<
+000B1F7B   8BF0             MOV ESI,EAX
+000B1F7D   7C 05            JL SHORT 000B1F84
+000B1F7F   BE 08000000      MOV ESI,8                 <<<
+000B1F84   8BCE             MOV ECX,ESI
+000B1F86   E8 D1AFF5FF      CALL 0000CF5C
+
+D2Game.dll
+
+000992D0   85C9             TEST ECX,ECX
+000992D2   7C 0B            JL SHORT 000992DF
+000992D4   83F9 08          CMP ECX,8             <<<
+000992D7   7F 06            JG SHORT 000992DF
+
+WHAT TO DO:
+Change the second operands to 4
+
+HOW TO FIND THE OFFSET:
+
+kidpaddle94 explains it here:
+http://phrozenkeep.hugelaser.com/forum/viewtopic.php?p=459078#p459078
+
+1.13d Offset for D2Client.dll: B1F78, B1F7F
+1.13d Offset for D2Game.dll: 992D4
+
+
+
+
+
+
+
+
+
+
+

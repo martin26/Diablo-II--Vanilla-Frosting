@@ -1,0 +1,17 @@
+VERSION: 1.13d
+
+CODE:
+
+0000B6B0   74 45            JE SHORT 0000B6F7
+
+WHAT TO DO:
+
+Change 74 45 to EB 45, which will become JMP SHORT 0000B6F7
+
+HOW TO FIND THE OFFSET:
+
+I've noticed that when you search for the Binary String: 74 45
+
+You will encounter a few 74 65, and then you will find one 74 45. The first 74 45 that you find, is the one.
+
+1.13d Offset: B6B0

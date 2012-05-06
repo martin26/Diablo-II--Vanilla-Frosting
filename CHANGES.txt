@@ -1,6 +1,19 @@
-Vanilla Frosting 4.1 for 1.13c by FearedBliss
-Released on Friday, August 5th, 2011
+Vanilla Frosting 4.2.1 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, December 23rd, 2011
 -----------------------------------------------
+
+4.2.1 Changes:
+------------
+- /players command now only works up to 4. Before it worked up to 8, even though their could only be 4 human players total.
+
+4.2.0 Changes:
+------------
+- Updated Mod to 1.13d (Primarily the .dlls)
+- Added Modding folder with useful information for moders. 
+* Moders should download the older versions (Modder's Edition) if they want some extra tools (Spreadsheets for calculating percentages of game items, etc).
+- Skill timers are back to normal
+- UniqueItems.txt is back to normal (Some uniques are not available on non-ladder, doesn't affect Single Player people).
+- Teleport cannot be used in town anymore.
 
 4.1 Changes:
 ------------

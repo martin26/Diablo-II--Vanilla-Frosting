@@ -1,16 +1,20 @@
-Vanilla Frosting 4.1 for 1.13c by FearedBliss
-Released on Friday, August 5th, 2011
+Vanilla Frosting 4.2.1 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, December 23rd, 2011
 -----------------------------------------------
 
 D2Game.dll {
 	- Cow Level even after kill was killed
 	- Experience beyond two screens
 	- Maximum players in a game is 4.
+	- /players only up to 4
 }
 
 D2gfx.dll 
 	- Multiple Diablo II Windows
-	
+
+D2Client.dll
+	- /players only up to 4
+
 CubeMain.txt - Cube Recipes
 Experience.txt - Experience Table
 ItemRatio.txt - Item Drop Ratios (Divisors, etc)
@@ -22,5 +26,4 @@ Runes.txt - Runewords
 Skills.txt - Skill related information, left-right handed only, timers, etc
 SuperUniques.txt - Modifiers applied to certain SuperUniques
 TreasureClassEx.txt - Drop Rates and what Monsters can drop, how many items, what quality items, etc
-UniqueItems.txt - Unique Items in the game that can only be active on SP, Ladder.
 Weapons.txt - Stacks

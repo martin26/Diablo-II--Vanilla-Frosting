@@ -1,0 +1,5 @@
+000085BF   74 45            JE SHORT 00008606
+
+1.13 Offset for Cow Portal Check: 85BF
+
+Change 74 45 to EB 45, which is JMP SHORT 00008606

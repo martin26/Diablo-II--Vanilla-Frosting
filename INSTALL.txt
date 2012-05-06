@@ -1,5 +1,5 @@
-Vanilla Frosting 3.9F for 1.13C by FearedBliss
-Released on Thursday, July 28th, 2011
+Vanilla Frosting 3.71F for 1.13C by FearedBliss
+Released on Thursday, July 21th, 2011
 -----------------------------------------------
 
 Installation:
@@ -8,7 +8,11 @@ Make sure to backup your current Diablo II directory before installing. A simple
 
 Extract the files to the root of your Diablo II folder, replacing any existing files.
 
+Add -direct -txt to the end of your Diablo II shortcut.
+
 Enjoy.
 
 Uninstallation:
 Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'Diablo II'.
+
+Remove -direct -txt to the end of your Diablo II shortcut.

@@ -1,0 +1,6 @@
+000DAFCA   3D 00190000      CMP EAX,1900
+000DAFCF   77 53            JA SHORT 000DB024
+
+1.13 Offset for Experience Beyond Two Screens Check: DAFCA and DAFCF
+
+NOP both of them.

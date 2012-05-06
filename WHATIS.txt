@@ -1,11 +1,10 @@
-Vanilla Frosting 3.9F for 1.13C by FearedBliss
-Released on Thursday, July 28th, 2011
+Vanilla Frosting 3.71F for 1.13C by FearedBliss
+Released on Thursday, July 21th, 2011
 -----------------------------------------------
 
 D2Game.dll {
 	- Cow Level even after kill was killed
 	- Experience beyond two screens
-	- Maximum players in a game is 4.
 }
 
 D2gfx.dll 
@@ -13,10 +12,12 @@ D2gfx.dll
 	
 CubeMain.txt - Cube Recipes
 Experience.txt - Experience Table
+Levels.txt - Room Population, Locations of .ds1 files (maps, etc)
 LvlMaze.txt - Room Sizes
 MonStats.txt - Monster Stats like HP, Exp, Immunities
+MonUMod.txt - Unique monster modifiers
 Runes.txt - Runewords
-Skills.txt - Skill related information, left-right handed only, timers, etc
+Skills.txt - Skill related information, skill delays, synergies, left-right handed only, etc
+SuperUniques.txt - Contains information regarding Super Uniques
 TreasureClassEx.txt - Drop Rates and what Monsters can drop, how many items, what quality items, etc
 UniqueItems.txt - Unique Items in the game, and items that can only be active on SP, Ladder.
-Weapons.txt - Stacks

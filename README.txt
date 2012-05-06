@@ -1,10 +1,12 @@
-Vanilla Frosting 1.00F for 1.13C by FearedBliss
-Released on Friday, July 8th, 2011
+Vanilla Frosting 2.00F for 1.13C by FearedBliss
+Released on Monday, July 11th, 2011
 -----------------------------------------------
 
 Installation:
 -------------
-Put the data folder in the root of your Diablo II folder.
+Make sure to backup your current Diablo II directory before installing. A simple copy/paste of your current Diablo II folder will do.
+
+Extract the files to the root of your Diablo II folder, replacing any existing files.
 
 Add:
 
@@ -15,9 +17,26 @@ to the end of your parameters list.
 Enjoy.
 
 Uninstallation:
-Remove the data folder from your Diablo II folder.
+Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'Diablo II'.
 
 Remove -direct -txt from the end of your parameters list.
+
+2.00F Changes:
+--------------
+- All cube recipes are now completely unlocked (including tempered recipes).
+
+- Rune downgrade recipes have been removed.
+
+- All uniques are now enabled and available on non-ladder (Doesn't really affect Single Player/TCP-IP since you already have them)
+
+- Difficulty penalties are now removed (Resistance, Exp, Life/Mana, Static Field)
+
+- Drop rates for the entire game have been re-done and improved. 
+This doesn't mean you are going to find better item quality types (unique,set,rare,magic). It just means you have a better chance to a better item than junk.
+The new drop rates also encourage players to kill regular monsters, and open chests more often to find items. A player shouldn't be forced to MF in order to find items. The items will also help you along your adventure.
+
+- Resistances for each back have been set back to normal for each difficulty, but the maximum resistance in the game is now 75%. This puts the monsters and the characters at an even playing field.
+Also note, that your pets also have a maximum of 75% unless you increase it somehow. Fire Golem normally has 100% resistance, now it only has 75%, etc.
 
 Changes/Enhancements to Vanilla Diablo II 1.13C:
 ------------------------------------------------

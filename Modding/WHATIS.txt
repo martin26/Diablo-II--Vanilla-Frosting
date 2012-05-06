@@ -1,0 +1,31 @@
+Vanilla Frosting 4.5.0 for 1.13d 
+By Jonathan Vasquez (FearedBliss)
+Released on Sunday, May 6, 2012
+-----------------------------------------------
+
+D2Game.dll {
+	- Cow Level even after kill was killed
+	- Experience beyond two screens
+	- Maximum players in a game is 4.
+	- /players only up to 4
+}
+
+D2gfx.dll 
+	- Multiple Diablo II Windows
+
+D2Client.dll
+	- /players only up to 4
+
+CubeMain.txt - Cube Recipes (TP -> Cow Level)
+Experience.txt - Experience Table (Increase level to 100, ratio doesnt decrease after 70)
+ItemRatio.txt - Item Drop Ratios (Divisors, etc) divided by 2
+LvlMaze.txt - Room Sizes
+Misc.txt - Lysander sells TP/ID Books & Scrools
+MonStats.txt - Monster Stats (Cow level increased from 81 to 90, Exp doubled)
+Runes.txt - Runewords
+TreasureClassEx.txt - Drop Rates and what Monsters can drop
+
+
+
+
+

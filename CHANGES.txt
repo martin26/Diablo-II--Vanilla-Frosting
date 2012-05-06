@@ -1,6 +1,22 @@
-Vanilla Frosting 4.2.4 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Friday, February 3rd, 2012
+Vanilla Frosting 4.5.0 for 1.13d 
+By Jonathan Vasquez (FearedBliss)
+Released on Sunday, May 6, 2012
 -----------------------------------------------
+
+4.5.0 Changes
+------------
+This version focuses on bringing this some aspects of this mod back to regular Diablo II.
+
+- Weapon stack sizes are back to normal
+- Tempered Recipes are disabled (just like regular Diablo II)
+- You can no longer cube all 33 runes by placing 2x runes -> next rune.
+- You can no longer downgrade a rune by placing the rune + antidote -> previous rune.
+- Token of Absolution is not sold at Akara anymore. The bosses drop the essences again just like before.
+- The games resistances and immunities are back to regular Diablo II
+- You can no longer use Battle Orders, Battle Command, Shout, etc in town
+- The skill hand positions are now back to normal (Whatever is in the right hand goes there, left hand goes there).
+- Experience was lowered from 5x to 2x.
+- Drop Rates and Dividers have been improved (Back to Normal Diablo II drop rates + some slight modifications)
 
 4.2.4 Changes:
 ------------

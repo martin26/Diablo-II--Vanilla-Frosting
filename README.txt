@@ -1,5 +1,5 @@
-Vanilla Frosting 2.01F for 1.13C by FearedBliss
-Released on Monday, July 11th, 2011
+Vanilla Frosting 2.5F for 1.13C by FearedBliss
+Released on Tuesday, July 12th, 2011
 -----------------------------------------------
 
 Installation:
@@ -20,6 +20,12 @@ Uninstallation:
 Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'Diablo II'.
 
 Remove -direct -txt from the end of your parameters list.
+
+2.5F Changes:
+-------------
+- Fixed the super unique immunity bug. Some super uniques still had immunities when spawning with FE/CE/LE/MR/Physical Resistance (Stoneskin). These modifiers have now been disabled from the game.
+- Continued to improve and balance drop rates through out the entire game
+- You can now find Essenses in all difficulties (For Respec/Token of Absolution - Andy, Meph, Diablo, Baal)
 
 2.01F Changes:
 --------------
@@ -91,6 +97,8 @@ Included Files:
 .\data\global\excel\Levels.txt
 .\data\global\excel\LvlMaze.txt
 .\data\global\excel\MonStats.txt
+.\data\global\excel\MonUMod.txt
 .\data\global\excel\Skills.txt
+.\data\global\excel\SuperUniques.txt
 .\data\global\excel\TreasureClassEx.txt
 .\data\global\excel\UniqueItems.txt

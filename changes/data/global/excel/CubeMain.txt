@@ -118,7 +118,7 @@ r01 + gcv + tempered weapon -> +30-50 ar	1			100					3	"weap,tmp"	r01	gcv					us
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
-<--- RUNE UPGRADES --->																																																																																																								0
+Rune Upgrades																																																																																																								0
 2 rune 01 -> rune 02	1			100					2	"r01,qty=2"							r02																																																																																							0
 2 rune 02 -> rune 03	1			100					2	"r02,qty=2"							r03																																																																																							0
 2 rune 03 -> rune 04	1			100					2	"r03,qty=2"							r04																																																																																							0
@@ -151,7 +151,7 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 2 rune 30 -> rune 31	1			100					2	"r30,qty=2"							r31																																																																																							0
 2 rune 31 -> rune 32	1			100					2	"r31,qty=2"							r32																																																																																							0
 2 rune 32 -> rune 33	1			100					2	"r32,qty=2"							r33																																																																																							0
-<--- RUNE DOWNGRADES --->																																																																																																								0
+Rune Downgrades																																																																																																								0
 rune 33 + antidote -> rune 32	1			100					2	r33	yps						r32																																																																																							0
 rune 32 + antidote -> rune 31	1			100					2	r32	yps						r31																																																																																							0
 rune 31 + antidote -> rune 30	1			100					2	r31	yps						r30																																																																																							0

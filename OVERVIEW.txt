@@ -1,5 +1,5 @@
-Vanilla Frosting 3.8F for 1.13C by FearedBliss
-Released on Thursday, July 21th, 2011
+Vanilla Frosting 3.9F for 1.13C by FearedBliss
+Released on Thursday, July 28th, 2011
 -----------------------------------------------
 
 Overall Features:
@@ -27,7 +27,7 @@ Overall Features:
 
 - You can now run multiple clients of Diablo II
 
-- All skills can now be used either on the left or right hand.
+- All skills can now be used either on the left or right hand (Auras don't work on the left hand)
 
 - You can now find Essenses in all difficulties (For Respec/Token of Absolution - Andy, Meph, Diablo, Baal)
 
@@ -45,7 +45,7 @@ Note, Countess's drop rate has a 50/50 chance of either dropping an item and or 
 
 - You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
 
-- Immunities are now breakable and maxed at 100%. Before monsters could have anywhere from 100% -> 180%+ which would make them impossible to break.
+- The game is geared towards higher resistances rather than immunities. Max resistance for normal monster = 99. SuperUniques can go over.
 
 - Drop rates for the entire game have been re-done and improved. 
 
@@ -53,31 +53,22 @@ Note, Countess's drop rate has a 50/50 chance of either dropping an item and or 
 
 - Throwing weapons stack size have been increased by 5x.
 
+- Skill timers have been removed.
+
 Included Files:
 .\
 .\D2Game.dll
 .\D2gfx.dll
-.\other\DropRates.ods
-.\other\ExperienceTable.ods
-.\other\MonStats_Level.ods
-.\other\RuneDropRates.ods
-.\other\NewRates.png
-.\other\Old_3.71F_Rates.png
-.\other\ExperienceRatios.txt
-.\other\ExpGen_1.1.zip
-.\other\code edits\CowLevel.txt
-.\other\code edits\ExperienceBeyondTwoScreens.txt
-.\other\code edits\MaxPlayers.txt
-.\other\code edits\MultipleDiabloWindows.txt
+.\Patch_D2.mpq
 .\CHANGES.txt
 .\INSTALL.txt
 .\OVERVIEW.txt
 .\WHATIS.txt
-.\data\global\excel\CubeMain.txt
-.\data\global\excel\Experience.txt
-.\data\global\excel\LvlMaze.txt
-.\data\global\excel\MonStats.txt
-.\data\global\excel\Runes.txt
-.\data\global\excel\Skills.txt
-.\data\global\excel\TreasureClassEx.txt
-.\data\global\excel\UniqueItems.txt
+.\changes\data\global\excel\CubeMain.txt
+.\changes\data\global\excel\Experience.txt
+.\changes\data\global\excel\LvlMaze.txt
+.\changes\data\global\excel\MonStats.txt
+.\changes\data\global\excel\Runes.txt
+.\changes\data\global\excel\Skills.txt
+.\changes\data\global\excel\TreasureClassEx.txt
+.\changes\data\global\excel\UniqueItems.txt

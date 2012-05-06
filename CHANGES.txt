@@ -1,6 +1,11 @@
-Vanilla Frosting 3.0F for 1.13C by FearedBliss
-Released on Wednesday, July 13th, 2011
+Vanilla Frosting 3.5F Patch for 1.13C by FearedBliss
+Released on Tuesday, July 19th, 2011
 -----------------------------------------------
+
+3.5F Changes:
+-------------
+- Brand new drop system again, a lot of things were equalized, and so you have a much better chance of finding top level items and runes. Chests, Bosses, Mini-Bosses, Dead bodies also have improved with the new system.
+- Difficulty penalties have been restored. So don't die, and boost up your resistances!
 
 3.0F Changes:
 -------------

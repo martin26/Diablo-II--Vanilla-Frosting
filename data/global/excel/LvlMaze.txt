@@ -9,12 +9,12 @@ Act 1 - Cave 2 Treasure	13	1	1	1	24	24	0	1
 Act 1 - Cave 3 Treasure	14	1	1	1	24	24	0	1
 Act 1 - Cave 4 Treasure	15	1	1	1	24	24	0	1
 Act 1 - Cave 5 Treasure	16	1	1	1	24	24	0	1
-Act 1 - Crypt 1 A	18	12	24	36	8	8	500	1
-Act 1 - Crypt 2 A	19	12	24	36	8	8	500	1
-Act 1 - Crypt 3 A	21	6	12	24	8	8	500	1
-Act 1 - Crypt 3 B	22	6	12	20	8	8	500	1
-Act 1 - Crypt 3 C	23	6	12	16	8	8	500	1
-Act 1 - Crypt 3 D	24	6	12	12	8	8	500	1
+Act 1 - Crypt 1 A	18	12	12	12	8	8	500	1
+Act 1 - Crypt 2 A	19	12	12	12	8	8	500	1
+Act 1 - Crypt 3 A	21	6	6	6	8	8	500	1
+Act 1 - Crypt 3 B	22	6	6	6	8	8	500	1
+Act 1 - Crypt 3 C	23	6	6	6	8	8	500	1
+Act 1 - Crypt 3 D	24	6	6	6	8	8	500	1
 Act 1 - Crypt 3 E	25	6	6	6	8	8	500	1
 Act 1 - Barracks	28	10	10	10	10	14	500	1
 Act 1 - Jail 1	29	12	12	12	12	12	500	1
@@ -79,5 +79,5 @@ Act 5 - Baal 1	128	9	9	9	16	16	500	0
 Act 5 - Baal 1	129	9	9	9	16	16	500	0
 Act 5 - Baal 1	130	9	9	9	16	16	500	0
 Act 5 - Baal 1	132	9	9	9	16	16	500	0
-Act 5 - Pandemonium Run 1	133	12	24	36	8	8	500	0
+Act 5 - Pandemonium Run 1	133	12	12	12	8	8	500	0
 Act 5 - Pandemonium Run 3	135	3	3	3	24	24	500	0

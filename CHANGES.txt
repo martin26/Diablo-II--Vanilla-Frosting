@@ -1,6 +1,15 @@
-Vanilla Frosting 4.2.2 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Saturday, December 24th, 2011
+Vanilla Frosting 4.2.3 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Thursday, December 29th, 2011
 -----------------------------------------------
+
+4.2.3 Changes:
+------------
+- For whatever reason, Hell Maggot Queen retained her poison immunity. This has been fixed.
+- Lysander now sells TP/ID Books & Scrolls.
+- Lowered General Potion Drop Rate
+
+* There is still an unique monster running around the game with Magic Immunity. Last time I saw him, he was in Act 3 - Sewers (Kurast Bazaar).
+* Let me know where else this appears, screenshot if possible.
 
 4.2.2 Changes:
 ------------

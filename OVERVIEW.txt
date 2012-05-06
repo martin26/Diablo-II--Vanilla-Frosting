@@ -1,5 +1,5 @@
-Vanilla Frosting 4.2.2 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Saturday, December 24th, 2011
+Vanilla Frosting 4.2.3 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Thursday, December 29th, 2011
 -----------------------------------------------
 
 Overall Features:
@@ -53,3 +53,5 @@ Overall Features:
 
 - All cube recipes are now completely unlocked (including tempered recipes).
 ** Let me know if Tempered Recipes work correctly on your end.
+
+- Lysander now sells TP/ID Books & Scrolls.

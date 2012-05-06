@@ -1,5 +1,5 @@
-Vanilla Frosting 4.2.2 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Saturday, December 24th, 2011
+Vanilla Frosting 4.2.3 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Thursday, December 29th, 2011
 -----------------------------------------------
 
 D2Game.dll {
@@ -19,7 +19,7 @@ CubeMain.txt - Cube Recipes
 Experience.txt - Experience Table
 ItemRatio.txt - Item Drop Ratios (Divisors, etc)
 LvlMaze.txt - Room Sizes
-Misc.txt - Token of Absolution sold at Akara
+Misc.txt - Token of Absolution sold at Akara, Lysander sells TP/ID Books & Scrools
 MonStats.txt - Monster Stats like HP, Exp, Immunities
 MonUMod.txt - Monster Modifiers 8, 9, 17, 18, 23, 27, 28
 Runes.txt - Runewords

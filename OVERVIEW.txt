@@ -1,4 +1,4 @@
-Vanilla Frosting 3.5F Patch for 1.13C by FearedBliss
+Vanilla Frosting 3.6F for 1.13C by FearedBliss
 Released on Tuesday, July 19th, 2011
 -----------------------------------------------
 
@@ -46,24 +46,19 @@ Overall Features:
 - Countess can now drop up to a Zod
 Note, Countess's drop rate has a 50/50 chance of either dropping an item and or a rune. If she decides to drop a rune, the normal rune calculations apply.
 
+- Completely new experience table. The maximum level is now 100.
+* I tried to keep the experience linear, than exponential. The maximum experience is 1,000,000,000 = Lvl 100.
+* There is an Experience Table spreadsheet included in the archive for any future modders.
+
 Included Files:
 .\
+.\D2Game.dll
+.\D2Gfx.dll
+.\Patch_D2.mpq
 .\CHANGES.txt
 .\INSTALL.txt
 .\OVERVIEW.txt
 .\DropRates.ods
-.\RuneDropRates.ods
+.\ExperienceTable.ods
 .\MonStats_Level.ods
-.\D2Game.dll
-.\D2Gfx.dll
-.\data\global\excel\CubeMain.txt
-.\data\global\excel\Experience.txt
-.\data\global\excel\Levels.txt
-.\data\global\excel\LvlMaze.txt
-.\data\global\excel\MonStats.txt
-.\data\global\excel\MonUMod.txt
-.\data\global\excel\Runes.txt
-.\data\global\excel\Skills.txt
-.\data\global\excel\SuperUniques.txt
-.\data\global\excel\TreasureClassEx.txt
-.\data\global\excel\UniqueItems.txt
+.\RuneDropRates.ods

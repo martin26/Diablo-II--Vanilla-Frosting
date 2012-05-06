@@ -1,6 +1,12 @@
-Vanilla Frosting 3.5F Patch for 1.13C by FearedBliss
+Vanilla Frosting 3.6F for 1.13C by FearedBliss
 Released on Tuesday, July 19th, 2011
 -----------------------------------------------
+
+3.6F Changes:
+-------------
+- Completely new experience table. The maximum level is now 100.
+* I tried to keep the experience linear, than exponential. The maximum experience is 1,000,000,000 = Lvl 100.
+* There is an Experience Table spreadsheet included in the archive for any future modders.
 
 3.5F Changes:
 -------------

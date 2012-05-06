@@ -1,5 +1,5 @@
-Vanilla Frosting 4.2.0 for 1.13d by FearedBliss (Jonathan Vasquez)
-Released on Friday, December 23rd, 2011
+Vanilla Frosting 4.1 for 1.13c by FearedBliss
+Released on Friday, August 5th, 2011
 -----------------------------------------------
 
 D2Game.dll {
@@ -22,4 +22,5 @@ Runes.txt - Runewords
 Skills.txt - Skill related information, left-right handed only, timers, etc
 SuperUniques.txt - Modifiers applied to certain SuperUniques
 TreasureClassEx.txt - Drop Rates and what Monsters can drop, how many items, what quality items, etc
+UniqueItems.txt - Unique Items in the game that can only be active on SP, Ladder.
 Weapons.txt - Stacks

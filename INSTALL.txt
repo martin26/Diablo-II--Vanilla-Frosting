@@ -1,18 +1,16 @@
-Vanilla Frosting 3.71F for 1.13C by FearedBliss
-Released on Thursday, July 21th, 2011
+Vanilla Frosting 4.2.0 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, December 23rd, 2011
 -----------------------------------------------
 
 Installation:
 -------------
 Make sure to backup your current Diablo II directory before installing. A simple copy/paste of your current Diablo II folder will do.
 
-Extract the files to the root of your Diablo II folder, replacing any existing files.
+Extract the files to the root of your Diablo II folder, replacing any existing files. 
 
-Add -direct -txt to the end of your Diablo II shortcut.
+-> You specifically only need to copy and replace the Patch_D2.mpq, D2Game.dll, and D2Gfx.dll files.
 
 Enjoy.
 
 Uninstallation:
 Delete your Diablo II folder, and rename your old backup copy of Diablo II to 'Diablo II'.
-
-Remove -direct -txt to the end of your Diablo II shortcut.

@@ -1,6 +1,60 @@
-Vanilla Frosting 3.71F for 1.13C by FearedBliss
-Released on Thursday, July 21th, 2011
+Vanilla Frosting 4.2.0 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, December 23rd, 2011
 -----------------------------------------------
+
+4.2.0 Changes:
+------------
+- Updated Mod to 1.13d (Primarily the .dlls)
+- Added Modding folder with useful information for moders. 
+* Moders should download the older versions (Modder's Edition) if they want some extra tools (Spreadsheets for calculating percentages of game items, etc).
+- Skill timers are back to normal
+- UniqueItems.txt is back to normal (Some uniques are not available on non-ladder, doesn't affect Single Player people).
+- Teleport cannot be used in town anymore.
+
+4.1 Changes:
+------------
+- Created a brand new TreasureClassEx.txt (Drop Rates)
+* Gold drops back to normal
+* Junk group is back to normal
+* Chance to drop no items is back to normal
+* Hell Countess still drops up to Zod
+* Weapon/Equip/Bow/Armor is still equalized
+* Andariel/Duriel/Mephisto/Diablo/Baal don't drop essences anymore
+* Smith/Griswold Nightmare drop rates are still fixed
+
+- Drop ratios (Unique/Set/Rare/Magic) have been significantly improved (ItemRatio.txt)
+
+- Akara now sells Token of Absolution (Misc.txt)
+
+- Since the game caders to High Resistances vs Immunities, FE/CE/LE/Stoneskin/Magic Resistance/Spectral Hit/Poison Hit have been removed from the game (SuperUniques.txt, MonUMod.txt)
+
+4.0 Changes:
+-------------
+- Returned the Experience table to the regular 1.13 ones (The Level is still 100, and you still receive 100% of experience).
+- Rune drop rates have been further balanced
+
+3.9F Changes:
+-------------
+- Continued to balance drops
+- Skill delays have been removed again
+- The game is geared towards higher resistances rather than immunities. Max resistance for normal monster = 99. SuperUniques can go over.
+- Paladin auras have been removed from left hand because they wouldn't activate.
+- Experience cap has increased from 2,000,000,000 to 3,500,000,000.
+Other:
+- There will now only be one .zip file that contains both regular and modder's files.
+- Some files have been removed. D2Mods.com (PhrozenKeep) has all the information you need to mod.
+
+3.8F Changes:
+--------------
+In this patch I relooked at the mod completely and decided to bring it even more back to the normal Diablo experience.
+
+- Skill delays are back to normal.
+- Immunities are back in the game but are maxed at 100% so that they can be broken.
+- Redid the Experience Table again and increased the experience cap from 1,000,000,000 to 2,000,000,000. This affects all the values going down.
+- Monster experience throughout the entire game has increased to compensate for the new experience table.
+- In memory of Diablo 1, the maximum number of players in a game can only be 4. So make sure to pick your members wisely. In Single Player, you can still use the /players command up to 8.
+- The number of Cows in the Moo Moo Farm are back to normal.
+- Throwing weapons stack size have been increased by 5x.
 
 3.71F Changes:
 --------------

@@ -1,5 +1,5 @@
-Vanilla Frosting 3.71F for 1.13C by FearedBliss
-Released on Thursday, July 21th, 2011
+Vanilla Frosting 4.2.0 for 1.13d by FearedBliss (Jonathan Vasquez)
+Released on Friday, December 23rd, 2011
 -----------------------------------------------
 
 Overall Features:
@@ -7,83 +7,105 @@ Overall Features:
 - Experience Ratio has been fixed to not diminish starting from level 70.
 * Meaning you will always get 100% off the monster experience.
 
-- Ladder Runewords are now enabled and can be used on Single Player & TCP/IP
+- The maximum level is now 100.
 
-- Immunities are removed from the game, the difficulty retains their normal resistances, but resistances are capped at 75%.
-* Permits you to actually be able to solo Hell without HAVING to make dual builds. 
-* Lets you experiment with other build styles.
-* Puts the monsters and you at an even playing field.
-* Pets also have a maximum of 75% unless you increase it somehow. Fire Golem normally has 100% resistance, now it only has 75%, etc.
-
-- Fire/Cold/Light/Poison/Stoneskin enchanments are removed from the game. This is to prevent monsters from becoming immuned with the 50% to target resist that the enchantments provide.
+- Ladder Runewords are now enabled and can be used on Single Player.
 
 - You can now cube all 33 runes by placing 2x runes -> next rune.
 
 - You can now downgrade a rune by placing the rune + antidote -> previous rune.
 
-- All cube recipes are now completely unlocked (including tempered recipes).
+- All map sizes (outside, and dungeons) are back to pre-1.10 style; which means that they are the same size as the normal difficulty. Small and comfortable.
 
-- All uniques are now enabled and available on non-ladder.
+- Changed Hell Bovine (Cows) level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
 
-- All map sizes (outside, and dungeons) are back to pre-1.10 style which means that they are the same size as normal. Small and comfortable.
+- The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
 
-- Changed cows level back to 90 (1.09) from 81. Now you will be able to find higher iLvl drops.
-* The 1.10+ cows already gave you more experience than 1.09 cows, so me increasing the level requirement, will actually give you 9785 more experience per kill. 
+- Shared Party Experience: You will now once again receive experience beyond 2 screens (pre-1.10)
 
-- You will now once again receive experience beyond 2 screens (like pre 1.10)
+- You can now run multiple clients of Diablo II
 
-- You can now run multiple clients of Diablo II for SP & TCP/IP purposes ONLY
-
-- The amount of Cows in the Moo Moo Farm has been increased by 2x.
-
-- Drop rates for the entire game have been re-done and improved. 
-* The new drop rates encourage players to kill regular monsters, and open chests more often to find items. A player shouldn't be forced to MF in order to find items. The items will also help you along your adventure.
-
-- All skills can now be used either on the left or right hand.
-
-- You can now find Essenses in all difficulties (For Respec/Token of Absolution - Andy, Meph, Diablo, Baal)
+- Token of Absolution is now sold at Akara (Nobody drops essences anymore)
 
 - Countess can now drop up to a Zod
-Note, Countess's drop rate has a 50/50 chance of either dropping an item and or a rune. If she decides to drop a rune, the normal rune calculations apply.
-
-- Completely new experience table. The maximum level is now 100.
-* I tried to keep the experience linear, than exponential. The maximum experience is 1,000,000,000 = Lvl 100.
-* There is an Experience Table spreadsheet included in the modder's archive for any future modders.
-
-- Gold will no longer drop. Most people probably pick up items and sell them rather than pick up 1 or 2 pieces of gold.
 
 - You can now redo the Cow Level even if you kill the king.
 
+- You can now use Thunder Storm, Battle Orders, Battle Command, and Shout in town.
+* No Teleport because of Act 2 (Teleporting into Palace).
+
+- The game is geared towards higher resistances rather than immunities. Max resistance for normal monster = 99. SuperUniques can go over.
+* Some monster modifiers have been removed to prevent immunities.
+
+- Drop rates and ratios for the entire game have been improved. 
+
 - The recipe to make the Cow Level is now just a Tome of Town Portal.
 
-- All skill delays have been removed.
+- Throwing weapons stack size have been increased by 5x.
 
-- You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
+- All skills can now be used either on the left or right hand (Auras don't work on the left hand)
+
+- All cube recipes are now completely unlocked (including tempered recipes).
 
 Included Files:
-.\
-.\D2Game.dll
-.\D2Gfx.dll
-.\DropRates.ods
-.\ExperienceTable.ods
-.\MonStats_Level.ods
-.\RuneDropRates.ods
-.\NewRates.png
-.\CHANGES.txt
-.\INSTALL.txt
-.\OVERVIEW.txt
-.\WHATIS.txt
-.\Code Edits\CowLevel.txt
-.\Code Edits\ExperienceBeyondTwoScreens.txt
-.\Code Edits\MultipleDiabloWindows.txt
-.\data\global\excel\CubeMain.txt
-.\data\global\excel\Experience.txt
-.\data\global\excel\Levels.txt
-.\data\global\excel\LvlMaze.txt
-.\data\global\excel\MonStats.txt
-.\data\global\excel\MonUMod.txt
-.\data\global\excel\Runes.txt
-.\data\global\excel\Skills.txt
-.\data\global\excel\TreasureClassEx.txt
-.\data\global\excel\UniqueItems.txt
-.\ExpGenerator.zip
+.
+
+./Changes
+
+./Changes/data
+
+./Changes/data/global
+
+./Changes/data/global/excel
+
+./Changes/data/global/excel/CubeMain.txt
+
+./Changes/data/global/excel/Experience.txt
+
+./Changes/data/global/excel/ItemRatio.txt
+
+./Changes/data/global/excel/LvlMaze.txt
+
+./Changes/data/global/excel/Misc.txt
+
+./Changes/data/global/excel/MonStats.txt
+
+./Changes/data/global/excel/MonUMod.txt
+
+./Changes/data/global/excel/Runes.txt
+
+./Changes/data/global/excel/Skills.txt
+
+./Changes/data/global/excel/SuperUniques.txt
+
+./Changes/data/global/excel/TreasureClassEx.txt
+
+./Changes/data/global/excel/Weapons.txt
+
+./CHANGES.txt
+
+./D2Game.dll
+
+./D2Gfx.dll
+
+./INSTALL.txt
+
+./Modding
+
+./Modding/Code_Edits
+
+./Modding/Code_Edits/D2Game_Experience_Beyond_Two_Screens.txt
+
+./Modding/Code_Edits/D2Game_Max_Players.txt
+
+./Modding/Code_Edits/D2Game_Open_Cow_Level_Even_If_King_Killed.txt
+
+./Modding/Code_Edits/D2Gfx_Multiple_D2_Windows.txt
+
+./Modding/README.txt
+
+./OVERVIEW.txt
+
+./Patch_D2.mpq
+
+./WHATIS.txt

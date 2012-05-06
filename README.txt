@@ -1,4 +1,4 @@
-D2 Enhanced 2.0b for 1.13 by FearedBliss
+D2 Enhanced 2.1b for 1.13 by FearedBliss
 
 Put the data folder in the root of your Diablo II folder.
 
@@ -9,6 +9,9 @@ Add:
 to the end of your parameters list.
 
 Enjoy.
+
+---- 2.1b ----
+- Fixed some rune recipes from r10 - r18 that weren't working
 
 ---- 2.0b ----
 Changes:

@@ -1,4 +1,4 @@
-D2 Enhanced 1.5b for 1.13 by FearedBliss
+D2 Enhanced 2.0b for 1.13 by FearedBliss
 
 Put the data folder in the root of your Diablo II folder.
 
@@ -9,6 +9,46 @@ Add:
 to the end of your parameters list.
 
 Enjoy.
+
+---- 2.0b ----
+Changes:
+- Changed cows level back to 90 (1.09) from 81. Now you will be able to find better drops.
+The 1.10+ cows already gave you more experience than 1.09 cows, so me increasing the level requirement, will actually give you 9785 more experience per kill. 
+The only reason I can see from the slowing down of hell cows for leveling in 1.10+ is that the exp ratio was nerfed.
+
+- Did not increase experience of baal because you are already getting more experience of baal in 1.13 then in 1.09.
+Notes after checking baal in vanilla 1.09 and vanilla 1.13:
+
+Level: 60/75/95
+
+1.09
+297964 exp normal
+303809 exp night
+777763 exp hell
+
+1.13
+
+Level: 60/75/99
+216862 exp normal
+1619522 exp night
+4536276 exp hell
+
+216862-29794 = -81102 less experience in normal 1.13 baal
+1619522-303809 = 1315713 more experience in nightmare 1.13 baal
+4536276-777763 = 3758513 more experience in hell 1.13 baal
+
+- You can now cube all 33 runes by placing 2x runes -> next rune.
+
+- Added 32 new recipes which are used for downgrading runes.
+1x Rune + Antidote* = 1x Previous Rune
+
+*The antidote is used as a security check so you don't by mistake click the transmute button with a single rune in the cube, and downgrade it.
+
+- All recipes are now unlocked for non-ladder players as well. (Doesn't really affect anyone since this is for SP & TCP/IP.
+
+- All map sizes (outside, and dungeons) are back to 1.07 style which means that they are the same size as normal. Small and comfortable.
+
+- 4x amount of cows in the Moo Moo Farm in all difficulties (Too much? ;D)
 
 ---- 1.5b ----
 Changes:

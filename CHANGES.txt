@@ -1,6 +1,17 @@
-Vanilla Frosting 3.6F for 1.13C by FearedBliss
-Released on Tuesday, July 19th, 2011
+Vanilla Frosting 3.7F for 1.13C by FearedBliss
+Released on Wednesday, July 20th, 2011
 -----------------------------------------------
+
+3.7F Changes:
+-------------
+- Drop table has been heavily improved. You will now find a wider range of items. Before, the drops would be stuck around a specific point (consequetive Artic Furs dropping)
+- Gold will no longer drop. Most people probably pick up items and sell them rather than pick up 1 or 2 pieces of gold.
+- Runes are slightly harder to find
+- You can now redo the Cow Level even if you kill the king.
+- The recipe to make the Cow Level is now just a Tome of Town Portal.
+- Brand new Experience table
+- All skill delays have been removed.
+- You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
 
 3.6F Changes:
 -------------

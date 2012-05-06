@@ -1,5 +1,5 @@
-Vanilla Frosting 3.6F for 1.13C by FearedBliss
-Released on Tuesday, July 19th, 2011
+Vanilla Frosting 3.7F for 1.13C by FearedBliss
+Released on Wednesday, July 20th, 2011
 -----------------------------------------------
 
 Overall Features:
@@ -48,17 +48,42 @@ Note, Countess's drop rate has a 50/50 chance of either dropping an item and or 
 
 - Completely new experience table. The maximum level is now 100.
 * I tried to keep the experience linear, than exponential. The maximum experience is 1,000,000,000 = Lvl 100.
-* There is an Experience Table spreadsheet included in the archive for any future modders.
+* There is an Experience Table spreadsheet included in the modder's archive for any future modders.
+
+- Gold will no longer drop. Most people probably pick up items and sell them rather than pick up 1 or 2 pieces of gold.
+
+- You can now redo the Cow Level even if you kill the king.
+
+- The recipe to make the Cow Level is now just a Tome of Town Portal.
+
+- All skill delays have been removed.
+
+- You can now use Teleport, Thunder Storm, Battle Orders, Battle Command, and Shout in town.
 
 Included Files:
 .\
 .\D2Game.dll
 .\D2Gfx.dll
-.\Patch_D2.mpq
-.\CHANGES.txt
-.\INSTALL.txt
-.\OVERVIEW.txt
 .\DropRates.ods
 .\ExperienceTable.ods
 .\MonStats_Level.ods
 .\RuneDropRates.ods
+.\NewRates.png
+.\CHANGES.txt
+.\INSTALL.txt
+.\OVERVIEW.txt
+.\WHATIS.txt
+.\Code Edits\CowLevel.txt
+.\Code Edits\ExperienceBeyondTwoScreens.txt
+.\Code Edits\MultipleDiabloWindows.txt
+.\data\global\excel\CubeMain.txt
+.\data\global\excel\Experience.txt
+.\data\global\excel\Levels.txt
+.\data\global\excel\LvlMaze.txt
+.\data\global\excel\MonStats.txt
+.\data\global\excel\MonUMod.txt
+.\data\global\excel\Runes.txt
+.\data\global\excel\Skills.txt
+.\data\global\excel\TreasureClassEx.txt
+.\data\global\excel\UniqueItems.txt
+.\ExpGenerator.zip

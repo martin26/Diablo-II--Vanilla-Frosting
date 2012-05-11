@@ -5,6 +5,7 @@ http://phrozenkeep.hugelaser.com/
 Tools Used:
 WinMPQ 1.64
 AFJ Sheet Editor 0.6.1 Beta
+AFJ Table Edit 1.12 (1.11 has a bug that crashes program on save)
 OllyDbg 1.10
 LibreOffice
 Java Experience Generator - You can find this at my github: https://github.com/fearedbliss/Diablo-II-Java-Experience-Generator

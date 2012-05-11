@@ -1,7 +1,13 @@
-Vanilla Frosting 4.5.0 for 1.13d 
+Vanilla Frosting 4.5.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, May 6, 2012
+Released on Friday, May 11, 2012
 -----------------------------------------------
+
+4.5.1 Changes
+------------
+- Runes are now red
+- Changed the CubeMain.txt back to default settings (except 1 tp to cow level). 
+	* This basically restores the cube recipes so that some only work on ladder (Doesn't affect Single Player, only non-ladder).
 
 4.5.0 Changes
 ------------

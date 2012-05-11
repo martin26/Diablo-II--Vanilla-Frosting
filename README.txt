@@ -1,6 +1,6 @@
-Vanilla Frosting 4.5.0 for 1.13d 
+Vanilla Frosting 4.5.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, May 6, 2012
+Released on Friday, May 11, 2012
 -----------------------------------------------
 
 Features:
@@ -8,16 +8,17 @@ Features:
 - Experience Ratio has been fixed to not diminish starting from level 70.
 	* Meaning you will always get 100% off the monster experience.
 
+- The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
+	* This includes the /players command as well.
+
 - Experience received from killing monsters has been doubled.
+	* This also helps balance out the drop from 8 players to 4 players.
 
 - The maximum level is now 100.
 
 - Ladder Runewords are now enabled and can be used on Single Player.
 
 - All map sizes (outside, and dungeons) are back to pre-1.10 style; which means that they are the same size as the normal difficulty. Small and comfortable.
-
-- The number of players in a game decreased from 8 to 4 like Diablo 1 and Diablo 3. Select your members wisely.
-	* This includes the /players command as well.
 	
 - You can now run multiple clients of Diablo II.
 
@@ -33,8 +34,9 @@ Features:
 
 - Countess can now drop up to a Zod.
 
-- All cube recipes are now unlocked (excluding tempered recipes).
+- Runes are now colored red
 
 - Drop rates and ratios for the entire game have been improved. 
+
 
 

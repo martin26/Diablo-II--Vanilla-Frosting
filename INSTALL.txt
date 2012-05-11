@@ -1,6 +1,6 @@
-Vanilla Frosting 4.5.0 for 1.13d 
+Vanilla Frosting 4.5.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, May 6, 2012
+Released on Friday, May 11, 2012
 -----------------------------------------------
 
 Installation:
@@ -9,7 +9,7 @@ Make sure to backup your current Diablo II directory before installing. A simple
 
 Extract the files to the root of your Diablo II folder, replacing any existing files. 
 
--> You specifically only need to copy and replace the Patch_D2.mpq, D2Game.dll, and D2Gfx.dll files.
+-> You specifically only need to copy and replace the Patch_D2.mpq, D2Client.dll, D2Game.dll, and D2Gfx.dll files.
 
 Enjoy.
 

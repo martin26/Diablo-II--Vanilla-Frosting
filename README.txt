@@ -1,6 +1,6 @@
-Vanilla Frosting 4.5.1 for 1.13d 
+Vanilla Frosting 4.5.2 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Friday, May 11, 2012
+Released on Saturday, June 30, 2012
 -----------------------------------------------
 
 Features:
@@ -34,9 +34,4 @@ Features:
 
 - Countess can now drop up to a Zod.
 
-- Runes are now colored red
-
 - Drop rates and ratios for the entire game have been improved. 
-
-
-

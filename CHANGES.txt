@@ -1,7 +1,13 @@
-Vanilla Frosting 4.5.1 for 1.13d 
+Vanilla Frosting 4.5.2 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Friday, May 11, 2012
+Released on Saturday, June 30, 2012
 -----------------------------------------------
+
+4.5.2 Changes
+------------
+- The stash and cube sizes have now increased (You won't be able to use GoMule though).
+- The rune colors are back to the regular 1.13d (orange) color.
+- Rune drop rates improved
 
 4.5.1 Changes
 ------------

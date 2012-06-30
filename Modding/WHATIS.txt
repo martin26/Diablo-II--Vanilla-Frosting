@@ -1,6 +1,6 @@
-Vanilla Frosting 4.5.1 for 1.13d 
+Vanilla Frosting 4.5.2 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Friday, May 11, 2012
+Released on Saturday, June 30, 2012
 -----------------------------------------------
 
 D2Game.dll {
@@ -18,12 +18,14 @@ D2Client.dll
 
 CubeMain.txt - Cube Recipes (TP -> Cow Level)
 Experience.txt - Experience Table (Increase level to 100, ratio doesnt decrease after 70)
+Inventory.txt - Stash and Cube sizes increased
 ItemRatio.txt - Item Drop Ratios (Divisors, etc) divided by 2
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrools
 MonStats.txt - Monster Stats (Cow level increased from 81 to 90, Exp doubled)
 Runes.txt - Runewords
 TreasureClassEx.txt - Drop Rates and what Monsters can drop
+
 
 
 

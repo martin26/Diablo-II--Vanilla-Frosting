@@ -8,8 +8,8 @@ Released on Saturday, March 2, 2013
 - Drop Rates are now back to Stock (Regular drop rates)
 - Maximum Level is back to Stock (Level 99)
 - Countess rune drops are back to Stock (She doesn't drop up to Zod anymore, only up to Ist)
-* You can now cube all 33 runes by placing 2x runes -> next rune (again)
-* You can now downgrade a rune by placing the rune + antidote -> previous rune (again).
+- You can now cube all 33 runes by placing 2x runes -> next rune (again)
+- You can now downgrade a rune by placing the rune + antidote -> previous rune (again).
 
 4.5.2 Changes
 ------------

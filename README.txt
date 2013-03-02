@@ -1,6 +1,6 @@
-Vanilla Frosting 4.5.2 for 1.13d 
+Vanilla Frosting 4.6.0 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Saturday, June 30, 2012
+Released on Saturday, March 2, 2013
 -----------------------------------------------
 
 Features:
@@ -13,8 +13,8 @@ Features:
 
 - Experience received from killing monsters has been doubled.
 	* This also helps balance out the drop from 8 players to 4 players.
-
-- The maximum level is now 100.
+	* As a consequence but possibly a good thing, is that since you can't do /players 8 anymore, 
+	  the maximum amount of % added to monsters HP/AR/etc is /players 4.
 
 - Ladder Runewords are now enabled and can be used on Single Player.
 
@@ -32,6 +32,6 @@ Features:
 
 - Lysander now sells TP/ID Books & Scrolls.
 
-- Countess can now drop up to a Zod.
+- Smith now has proper nightmare loot table
+	* There was a typo that Blizzard had in regular D2. This has now been fixed in this patch.
 
-- Drop rates and ratios for the entire game have been improved. 

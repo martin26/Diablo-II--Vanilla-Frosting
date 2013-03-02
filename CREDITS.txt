@@ -2,4 +2,4 @@ Credits to PhrozenKeep for having a wonderful community filled with knowledge
 and resources. Without them none of this would be possible.
 
 Thanks to Hell Unleashed Mod for having the cube/stash.dc6, Inventory.txt
-files already made for me in their patch_d2.mpq :).
+files already made for me in their Patch_D2.mpq :).

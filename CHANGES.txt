@@ -1,7 +1,16 @@
-Vanilla Frosting 4.6.0 for 1.13d 
+Vanilla Frosting 4.6.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Saturday, March 2, 2013
+Released on Thursday, March 7, 2013
 -----------------------------------------------
+
+4.6.1 Changes
+------------
+- The game is back to the regular 8 player limit
+- The experience received from monster is back to 1x (Rather than being doubled).
+- You can no longer make the Cow Level if you kill the king (Back to normal).
+- The recipe to make Cow Level is back to normal (TP + Wirt's Leg)
+- You can no longer cube all 33 runes by placing 2x runes -> next rune.
+- You can no longer downgrade a rune by placing the rune + antidote -> previous rune.
 
 4.6.0 Changes
 ------------

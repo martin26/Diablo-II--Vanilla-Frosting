@@ -1,27 +1,24 @@
-Vanilla Frosting 4.6.0 for 1.13d 
+Vanilla Frosting 4.6.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Saturday, March 2, 2013
+Released on Thursday, March 7, 2013
 -----------------------------------------------
 
 D2Game.dll {
-	- Cow Level even after king was killed
 	- Experience beyond two screens
-	- Maximum players in a game is 4.
-	- /players only up to 4
 }
 
 D2gfx.dll 
 	- Multiple Diablo II Windows
 
 D2Client.dll
-	- /players only up to 4
+	- This is just the stock .dll. I included it so that people that are coming from previous Vanilla Frosting versions can easily
+	  revert to normal without having to reinstall or repatch Diablo II completely.
 
-CubeMain.txt - Cube Recipes (TP -> Cow Level, 2x Runes upgrade/downgrade)
-Experience.txt - Experience Table (Ratio doesnt decrease after 70)
+Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 Inventory.txt - Stash and Cube sizes increased
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
-MonStats.txt - Monster Stats (Cows' Level increased from 81 to 90, Games Exp Doubled)
+MonStats.txt - Monster Stats (Cows' Level increased from 81 to 90)
 Runes.txt - Runewords
 TreasureClassEx.txt - Smith now drops proper nightmare loot
 

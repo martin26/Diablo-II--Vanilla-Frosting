@@ -10,7 +10,6 @@ Released on Thursday, March 7, 2013
 │   └── data
 │       └── global
 │           ├── excel
-│           │   ├── CubeMain.txt
 │           │   ├── Experience.txt
 │           │   ├── Inventory.txt
 │           │   ├── LvlMaze.txt
@@ -22,26 +21,21 @@ Released on Thursday, March 7, 2013
 │               ├── FrontEnd
 │               │   ├── gameselectscreenEXP.dc6
 │               │   └── trademarkscreenEXP.dc6
-│               ├── MENU
-│               │   └── party.dc6
 │               └── PANEL
 │                   ├── TradeStash.dc6
 │                   └── supertransmogrifier.dc6
 ├── D2Client.dll
 ├── D2Game.dll
 ├── D2gfx.dll
+├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
 │   ├── Code_Edits
-│   │   ├── D2Client_D2Game_Max_Players_Command.txt
 │   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
-│   │   ├── D2Game_Max_Players_Join.txt
-│   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
 │   ├── GIMP Images
 │   │   ├── TradeStash.xcf
 │   │   ├── gameselectscreenEXP.xcf
-│   │   ├── party.xcf
 │   │   ├── supertransmogrifier.xcf
 │   │   └── trademarkscreenEXP.xcf
 │   ├── README.txt

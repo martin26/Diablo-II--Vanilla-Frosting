@@ -15,4 +15,5 @@ I've noticed that when you search for the Binary String: 74 45
 You will encounter a few 74 65, and then you will find one 74 45. The first 74 45 that you find, is the one.
 
 1.13d Offset: B6B0
-1.09d Offset: 447C (It's 74 47, instead of the 1.13d 74 45)
+1.09d Offset: 447C (It's 74 47, instead of the 1.13d 74 45) 6FA7447C
+

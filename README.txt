@@ -1,6 +1,6 @@
-Vanilla Frosting 4.6.1 for 1.13d 
+Vanilla Frosting 4.6.2 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, March 7, 2013
+Released on Sunday, March 10, 2013
 -----------------------------------------------
 
 Features:
@@ -20,8 +20,6 @@ Features:
 **** Major Changes ****
 
 - Ladder Runewords are now enabled and can be used on Single Player.
-
-- Increased Stash and Cube Size
 
 - You can now run multiple clients of Diablo II.
 

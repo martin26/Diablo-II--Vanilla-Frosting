@@ -1,5 +1,13 @@
 Credits to PhrozenKeep for having a wonderful community filled with knowledge
 and resources. Without them none of this would be possible.
 
-Thanks to Hell Unleashed Mod for having the cube/stash.dc6, Inventory.txt
-files already made for me in their Patch_D2.mpq :).
+Credits are also giving to Thyiad from the Diablo IncGamers Community for
+giving me ideas and suggestions on how to better improve this mod, and make it
+compatible with the ideas and philosophies of the SPF Community (Single Player Forum).
+
+The respective communities can be found below:
+
+PhrozenKeep: http://phrozenkeep.hugelaser.com/
+
+Diablo IncGamers: Single Player Forum (SPF): 
+http://diablo.incgamers.com/forums/forumdisplay.php?3-Single-Player-Forum

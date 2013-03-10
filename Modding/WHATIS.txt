@@ -1,6 +1,6 @@
-Vanilla Frosting 4.6.1 for 1.13d 
+Vanilla Frosting 4.6.2 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, March 7, 2013
+Released on Sunday, March 10, 2013
 -----------------------------------------------
 
 D2Game.dll {
@@ -15,7 +15,6 @@ D2Client.dll
 	  revert to normal without having to reinstall or repatch Diablo II completely.
 
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
-Inventory.txt - Stash and Cube sizes increased
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
 MonStats.txt - Monster Stats (Cows' Level increased from 81 to 90)

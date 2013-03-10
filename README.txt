@@ -30,4 +30,5 @@ Features:
 **** Bug Fixes ****
 
 - Smith now has proper nightmare loot table
-	* There was a typo that Blizzard had in regular D2. This has now been fixed in this patch.
+	* There was a typo that Blizzard had in regular D2 which made Smith drop Hell drops 
+	  in Nightmare instead of NM drops in NM. This has now been fixed in this patch.

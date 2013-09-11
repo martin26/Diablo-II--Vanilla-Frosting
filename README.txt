@@ -1,25 +1,21 @@
-Vanilla Frosting 4.6.2 for 1.13d 
+Vanilla Frosting 4.6.3 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, March 10, 2013
+Released on Wednesday, September 11, 2013
 -----------------------------------------------
 
 Features:
 -----------------
 
-**** Changes brought back from 1.09 ****
-
-- Experience Ratio has been fixed to not diminish starting from level 70.
-	* Meaning you will always get 100% off the monster experience.
-
-- Shared Party Experience: You will now once again receive experience beyond 2 screens.
-	
-- All map sizes are the same size on all difficulties.
-	
-- Changed Cows Monster Level back to 90 (1.09) from 81. Now you will be able to find higher Item Level drops.
-
 **** Major Changes ****
 
-- Ladder Runewords are now enabled and can be used on Single Player.
+- (From 1.09): Experience Ratio has been fixed to not diminish after level 70.
+	* Meaning you will always get 100% experience from the monster.
+
+- (From 1.09): Shared Party Experience: You will now once again receive experience beyond 2 screens.
+	
+- (From 1.09): All map sizes are the same size on all difficulties.
+	
+- Ladder Runewords are now enabled/unlocked and can be used on Single Player.
 
 - You can now run multiple clients of Diablo II.
 

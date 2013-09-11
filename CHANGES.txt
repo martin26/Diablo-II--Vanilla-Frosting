@@ -1,7 +1,11 @@
-Vanilla Frosting 4.6.2 for 1.13d 
+Vanilla Frosting 4.6.3 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, March 10, 2013
+Released on Wednesday, September 11, 2013
 -----------------------------------------------
+
+4.6.3 Changes
+------------
+- Cows level is now back to stock 1.10+ (Level 81 instead of 90).
 
 4.6.2 Changes
 ------------

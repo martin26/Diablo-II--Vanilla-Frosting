@@ -11,4 +11,4 @@ LibreOffice
 dc6con
 GIMP 2.8
 
-Font used for images is "Exocet"
+Font used for images is "Exocet" - http://diablo.svatopluk.com/original/

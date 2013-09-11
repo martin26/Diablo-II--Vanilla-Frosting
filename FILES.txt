@@ -1,6 +1,6 @@
-Vanilla Frosting 4.6.2 for 1.13d 
+﻿Vanilla Frosting 4.6.3 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Sunday, March 10, 2013
+Released on Wednesday, September 11, 2013
 -----------------------------------------------
 
 .
@@ -13,7 +13,6 @@ Released on Sunday, March 10, 2013
 │           │   ├── Experience.txt
 │           │   ├── LvlMaze.txt
 │           │   ├── Misc.txt
-│           │   ├── MonStats.txt
 │           │   ├── Runes.txt
 │           │   └── TreasureClassEx.txt
 │           └── ui
@@ -36,3 +35,5 @@ Released on Sunday, March 10, 2013
 │   └── WHATIS.txt
 ├── Patch_D2.mpq
 └── README.txt
+
+9 directories, 22 files

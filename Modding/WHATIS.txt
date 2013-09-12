@@ -1,6 +1,6 @@
-Vanilla Frosting 4.6.3 for 1.13d 
+Vanilla Frosting 4.6.4 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Wednesday, September 11, 2013
+Released on Thursday, September 12, 2013
 -----------------------------------------------
 
 D2Game.dll {
@@ -14,6 +14,7 @@ D2Client.dll
 	- This is just the stock .dll. I included it so that people that are coming from previous Vanilla Frosting versions can easily
 	  revert to normal without having to reinstall or repatch Diablo II completely.
 
+CubeMain.txt - Rune Upgrades/Downgrades
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls

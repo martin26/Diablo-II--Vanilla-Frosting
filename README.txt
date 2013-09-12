@@ -19,6 +19,10 @@ Features:
 
 - You can now run multiple clients of Diablo II.
 
+- You can now cube all 33 runes by placing 2x runes -> next rune.
+
+- You can now downgrade a rune by placing the rune + antidote -> previous rune.
+
 **** Minor Changes ****
 
 - Lysander now sells TP/ID Books & Scrolls.

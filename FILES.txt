@@ -10,6 +10,7 @@ Released on Thursday, September 12, 2013
 │   └── data
 │       └── global
 │           ├── excel
+│           │   ├── CubeMain.txt
 │           │   ├── Experience.txt
 │           │   ├── LvlMaze.txt
 │           │   ├── Misc.txt
@@ -36,4 +37,4 @@ Released on Thursday, September 12, 2013
 ├── Patch_D2.mpq
 └── README.txt
 
-9 directories, 22 files
+9 directories, 23 files

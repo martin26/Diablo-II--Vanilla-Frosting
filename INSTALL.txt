@@ -5,22 +5,19 @@ Released on Thursday, September 12, 2013
 
 Installation:
 -------------
-Make sure to backup your current Diablo II directory before installing. 
-A simple copy/paste of your current Diablo II folder will do.
+1. Make sure to backup your current Diablo II directory before installing. 
+   A simple copy/paste of your current Diablo II folder will do.
 
-Extract the files to the root of your Diablo II folder, replacing any existing 
-files. 
+2. Extract and replace the following files into your Diablo II directory:
 
--> You specifically only need to copy and replace:
+-> Patch_D2.mpq
+-> D2Game.dll
+-> D2gfx.dll
 
-- Patch_D2.mpq
-- D2Game.dll
-- D2Gfx.dll
+ * Only copy the D2Client.dll if you had a previous version of Vanilla Frosting.
+  > The D2Client.dll included in this release is just a stock D2Client.dll.
 
-* Only copy the D2Client.dll if you had a previous version of Vanilla Frosting.
-	* The D2Client.dll included in this release is just a stock D2Client.dll.
-
-Enjoy.
+3. Enjoy.
 
 Uninstallation:
 Delete your Diablo II folder, and rename your old backup copy of Diablo II 

@@ -1,7 +1,12 @@
-Vanilla Frosting 4.6.3 for 1.13d 
+Vanilla Frosting 4.6.4 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Wednesday, September 11, 2013
+Released on Thursday, September 12, 2013
 -----------------------------------------------
+
+4.6.4 Changes
+------------
+- You can now cube all 33 runes by placing 2x runes -> next rune (again)
+- You can now downgrade a rune by placing the rune + antidote -> previous rune (again).
 
 4.6.3 Changes
 ------------

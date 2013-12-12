@@ -1,6 +1,6 @@
-Vanilla Frosting 4.6.4 for 1.13d 
+Vanilla Frosting 5.0.0 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, September 12, 2013
+Released on Thursday, December 12, 2013
 -----------------------------------------------
 
 Installation:
@@ -13,9 +13,6 @@ Installation:
 -> Patch_D2.mpq
 -> D2Game.dll
 -> D2gfx.dll
-
- * Only copy the D2Client.dll if you had a previous version of Vanilla Frosting.
-  > The D2Client.dll included in this release is just a stock D2Client.dll.
 
 3. Enjoy.
 

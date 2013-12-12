@@ -6,14 +6,33 @@ CODE:
 
 WHAT TO DO:
 
-Change 74 45 to EB 45, which will become JMP SHORT 0000B6F7
+Change from JE SHORT 0000B6F7 -> JMP SHORT 0000B6F7
 
 HOW TO FIND THE OFFSET:
 
-I've noticed that when you search for the Binary String: 74 45
-
-You will encounter a few 74 65, and then you will find one 74 45. The first 74 45 that you find, is the one.
-
+1. Open OllyDbg
+2. File -> Open -> D2gfx.dll
+   A window will open up saying "Request to load DLL", press "Yes".
+   
+3. Press F9 to Run (It will switch from ntdll to the D2gfx space
+4. Right click the main thread window (The one with a C), Search for -> All referenced text strings
+5. Find the string that says: ASCII "Only one copy of Diablo II may run at a time." and double click it
+6. Scroll up a little bit until you find the first "JE SHORT", if you right click and click Analysis -> Analyse code, and then click the
+   "JE SHORT", you will see a line that goes from the JE SHORT to the CMP DWORD PTR DS all the way on the bottom... 
+   aka "If you only have one window open, then open the D2".
+   
+   Right now the value is JE which means "Jump if equal", we need to change it to "Jump no matter what". So we will change it from JE to JMP.
+7. Double click the JE SHORT, and when the assemble window comes up, change it from JE to JMP. You will notice that the number on the left will change from
+   74 to EB.
+8. Once you change it, let's save the new dll. Right click the window -> Copy to executable -> All modifications
+   You probably will get a window that says "Copy selection to executable file", press "Copy all"
+   
+   A new window will open up with a "D" at the top left. Right click the window and press "Save file" and save it. That's it. You now have a new Modified D2gfx.dll.
+   
+1.07 Offset : 445C
+1.08 Offset : 447C
+1.09d Offset: 447C
+1.10f Offset: 446A
+1.11b Offset: 84AF
+1.12a Offset: 894F
 1.13d Offset: B6B0
-1.09d Offset: 447C (It's 74 47, instead of the 1.13d 74 45)
-

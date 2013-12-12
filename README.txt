@@ -1,6 +1,6 @@
-Vanilla Frosting 4.6.4 for 1.13d 
+Vanilla Frosting 5.0.0 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, September 12, 2013
+Released on Thursday, December 12, 2013
 -----------------------------------------------
 
 Features:
@@ -15,6 +15,16 @@ Features:
 	
 - (From 1.09): All map sizes are the same size on all difficulties.
 	
+- (From 1.09): The cows are now back to level 90.
+
+- (From 1.09): The cows resistances are now equal to what they were in 1.09.
+
+- (From 1.09): Hell Mephisto is now back to level 90
+- (From 1.09): Hell Andariel is now back to level 78
+- (From 1.09): Nightmare Diablo is now back to level 70
+
+- (From 1.09): Act Bosses, Council Members, Countess, and Ancients have resistances similar to those in 1.09.
+
 - Ladder Runewords are now enabled/unlocked and can be used on Single Player.
 
 - You can now run multiple clients of Diablo II.
@@ -22,6 +32,19 @@ Features:
 - You can now cube all 33 runes by placing 2x runes -> next rune.
 
 - You can now downgrade a rune by placing the rune + antidote -> previous rune.
+
+- Runes are now colored based on their value range. This allows you to quickly detect the worth of the rune.
+	> Runes 1 - 11 (El-Amn) are Orange
+	> Runes 12 - 22 (Sol-Um) are Blue
+	> Runes 23 - 33 (Mal-Zod) are Purple
+	
+- The Countess can now drop up to Zod
+	
+- You can now open the Cow Level with just 1 Town Portal Book (No Leg Needed).
+
+- You can now open the Cow Level even if you kill the King.
+
+- Akara now sells the Token of Absolution, and Essences no longer drop from Act Bosses.
 
 **** Minor Changes ****
 

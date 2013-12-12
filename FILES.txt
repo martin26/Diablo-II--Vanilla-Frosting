@@ -1,6 +1,6 @@
-﻿Vanilla Frosting 4.6.4 for 1.13d 
+﻿Vanilla Frosting 5.0.0 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, September 12, 2013
+Released on Thursday, December 12, 2013
 -----------------------------------------------
 
 .
@@ -8,19 +8,24 @@ Released on Thursday, September 12, 2013
 ├── CREDITS.txt
 ├── Changes
 │   └── data
-│       └── global
-│           ├── excel
-│           │   ├── CubeMain.txt
-│           │   ├── Experience.txt
-│           │   ├── LvlMaze.txt
-│           │   ├── Misc.txt
-│           │   ├── Runes.txt
-│           │   └── TreasureClassEx.txt
-│           └── ui
-│               └── FrontEnd
-│                   ├── gameselectscreenEXP.dc6
-│                   └── trademarkscreenEXP.dc6
-├── D2Client.dll
+│       ├── global
+│       │   ├── excel
+│       │   │   ├── CubeMain.txt
+│       │   │   ├── Experience.txt
+│       │   │   ├── LvlMaze.txt
+│       │   │   ├── Misc.txt
+│       │   │   ├── MonStats.txt
+│       │   │   ├── Runes.txt
+│       │   │   └── TreasureClassEx.txt
+│       │   └── ui
+│       │       └── FrontEnd
+│       │           ├── gameselectscreenEXP.dc6
+│       │           └── trademarkscreenEXP.dc6
+│       └── local
+│           └── lng
+│               └── eng
+│                   ├── expansionstring.tbl
+│                   └── patchstring.tbl
 ├── D2Game.dll
 ├── D2gfx.dll
 ├── FILES.txt
@@ -28,6 +33,7 @@ Released on Thursday, September 12, 2013
 ├── Modding
 │   ├── Code_Edits
 │   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
+│   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
 │   ├── GIMP Images
 │   │   ├── gameselectscreenEXP.xcf
@@ -37,4 +43,4 @@ Released on Thursday, September 12, 2013
 ├── Patch_D2.mpq
 └── README.txt
 
-9 directories, 23 files
+12 directories, 26 files

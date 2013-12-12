@@ -1,23 +1,22 @@
-Vanilla Frosting 4.6.4 for 1.13d 
+Vanilla Frosting 5.0.0 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, September 12, 2013
+Released on Thursday, December 12, 2013
 -----------------------------------------------
 
-D2Game.dll {
+D2Game.dll:
+	- Ability to open Cow Level even if King was killed
 	- Experience beyond two screens
-}
 
-D2gfx.dll 
+D2gfx.dll:
 	- Multiple Diablo II Windows
-
-D2Client.dll
-	- This is just the stock .dll. I included it so that people that are coming from previous Vanilla Frosting versions can easily
-	  revert to normal without having to reinstall or repatch Diablo II completely.
-
-CubeMain.txt - Rune Upgrades/Downgrades
+	
+CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
-Misc.txt - Lysander sells TP/ID Books & Scrolls
+Misc.txt - Lysander sells TP/ID Books & Scrolls, Token of Absolution solid by Akara
+MonStats.txt - Monster level and Resistances
 Runes.txt - Runewords
-TreasureClassEx.txt - Smith now drops proper nightmare loot
+TreasureClassEx.txt - Smith now drops proper nightmare loot, Countess can drop up to Zod, Essences no longer drop
+
+expansionstring.tbl/patchstring.tbl - Colored Runes
 

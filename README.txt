@@ -1,4 +1,4 @@
-Vanilla Frosting 5.0.0 for 1.13d 
+Vanilla Frosting 5.0.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
 Released on Thursday, December 12, 2013
 -----------------------------------------------
@@ -22,6 +22,10 @@ Features:
 - (From 1.09): Hell Mephisto is now back to level 90
 - (From 1.09): Hell Andariel is now back to level 78
 - (From 1.09): Nightmare Diablo is now back to level 70
+- (From 1.09): Pindleskin is now back to level 70 in Nightmare, 90 in Hell, and has 1.09 resistances.
+- (From 1.09): Thresh Socket is now back to level 70 in Nightmare, 90 in Hell, and has 1.09 resistances.
+- (From 1.09): Shenk the Overseer is now back to level 66 in Nightmare, 90 in Hell, and has 1.09 resistances.
+- (From 1.09): Eldritch the Rectifier is now back to level 64 in Nightmare, 90 in Hell, and has 1.09 resistances.
 
 - (From 1.09): Act Bosses, Council Members, Countess, and Ancients have resistances similar to those in 1.09.
 
@@ -32,11 +36,6 @@ Features:
 - You can now cube all 33 runes by placing 2x runes -> next rune.
 
 - You can now downgrade a rune by placing the rune + antidote -> previous rune.
-
-- Runes are now colored based on their value range. This allows you to quickly detect the worth of the rune.
-	> Runes 1 - 11 (El-Amn) are Orange
-	> Runes 12 - 22 (Sol-Um) are Blue
-	> Runes 23 - 33 (Mal-Zod) are Purple
 	
 - The Countess can now drop up to Zod
 	

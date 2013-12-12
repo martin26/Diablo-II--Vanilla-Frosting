@@ -1,4 +1,4 @@
-﻿Vanilla Frosting 5.0.0 for 1.13d 
+﻿Vanilla Frosting 5.0.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
 Released on Thursday, December 12, 2013
 -----------------------------------------------
@@ -8,24 +8,19 @@ Released on Thursday, December 12, 2013
 ├── CREDITS.txt
 ├── Changes
 │   └── data
-│       ├── global
-│       │   ├── excel
-│       │   │   ├── CubeMain.txt
-│       │   │   ├── Experience.txt
-│       │   │   ├── LvlMaze.txt
-│       │   │   ├── Misc.txt
-│       │   │   ├── MonStats.txt
-│       │   │   ├── Runes.txt
-│       │   │   └── TreasureClassEx.txt
-│       │   └── ui
-│       │       └── FrontEnd
-│       │           ├── gameselectscreenEXP.dc6
-│       │           └── trademarkscreenEXP.dc6
-│       └── local
-│           └── lng
-│               └── eng
-│                   ├── expansionstring.tbl
-│                   └── patchstring.tbl
+│       └── global
+│           ├── excel
+│           │   ├── CubeMain.txt
+│           │   ├── Experience.txt
+│           │   ├── LvlMaze.txt
+│           │   ├── Misc.txt
+│           │   ├── MonStats.txt
+│           │   ├── Runes.txt
+│           │   └── TreasureClassEx.txt
+│           └── ui
+│               └── FrontEnd
+│                   ├── gameselectscreenEXP.dc6
+│                   └── trademarkscreenEXP.dc6
 ├── D2Game.dll
 ├── D2gfx.dll
 ├── FILES.txt
@@ -43,4 +38,4 @@ Released on Thursday, December 12, 2013
 ├── Patch_D2.mpq
 └── README.txt
 
-12 directories, 26 files
+9 directories, 24 files

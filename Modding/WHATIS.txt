@@ -1,4 +1,4 @@
-Vanilla Frosting 5.0.0 for 1.13d 
+Vanilla Frosting 5.0.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
 Released on Thursday, December 12, 2013
 -----------------------------------------------
@@ -17,6 +17,4 @@ Misc.txt - Lysander sells TP/ID Books & Scrolls, Token of Absolution solid by Ak
 MonStats.txt - Monster level and Resistances
 Runes.txt - Runewords
 TreasureClassEx.txt - Smith now drops proper nightmare loot, Countess can drop up to Zod, Essences no longer drop
-
-expansionstring.tbl/patchstring.tbl - Colored Runes
 

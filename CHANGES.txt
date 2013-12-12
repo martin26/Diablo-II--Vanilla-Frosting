@@ -1,7 +1,15 @@
-Vanilla Frosting 5.0.0 for 1.13d 
+Vanilla Frosting 5.0.1 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
 Released on Thursday, December 12, 2013
 -----------------------------------------------
+
+5.0.1 Changes
+------------
+- Rune colors are now back to normal
+- (From 1.09): Pindleskin is now back to level 70 in Nightmare, 90 in Hell, and has 1.09 resistances.
+- (From 1.09): Thresh Socket is now back to level 70 in Nightmare, 90 in Hell, and has 1.09 resistances.
+- (From 1.09): Shenk the Overseer is now back to level 66 in Nightmare, 90 in Hell, and has 1.09 resistances.
+- (From 1.09): Eldritch the Rectifier is now back to level 64 in Nightmare, 90 in Hell, and has 1.09 resistances.
 
 5.0.0 Changes
 ------------

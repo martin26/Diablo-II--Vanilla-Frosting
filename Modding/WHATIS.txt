@@ -1,6 +1,6 @@
-Vanilla Frosting 5.0.1 for 1.13d 
+Vanilla Frosting 5.1.0 for 1.13d 
 By Jonathan Vasquez (FearedBliss)
-Released on Thursday, December 12, 2013
+Released on Friday, December 20, 2013
 -----------------------------------------------
 
 D2Game.dll:
@@ -13,8 +13,8 @@ D2gfx.dll:
 CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
-Misc.txt - Lysander sells TP/ID Books & Scrolls, Token of Absolution solid by Akara
-MonStats.txt - Monster level and Resistances
+Misc.txt - Lysander sells TP/ID Books & Scrolls
+MonStats.txt - Cows and Act Bosses level and resistances
 Runes.txt - Runewords
-TreasureClassEx.txt - Smith now drops proper nightmare loot, Countess can drop up to Zod, Essences no longer drop
+TreasureClassEx.txt - Smith now drops proper nightmare loot, Countess can drop up to Zod, Essences can drop on all difficulties
 

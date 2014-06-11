@@ -1,41 +1,33 @@
-﻿Vanilla Frosting 5.1.0 for 1.13d 
-By Jonathan Vasquez (FearedBliss)
-Released on Friday, December 20, 2013
+Vanilla Frosting 5.2.0 for 1.13d
+By Jonathan Vasquez (fearedbliss)
+Released on Wednesday, June 11, 2014
 -----------------------------------------------
 
 .
-├── CHANGES.txt
-├── CREDITS.txt
 ├── Changes
 │   └── data
 │       └── global
-│           ├── excel
-│           │   ├── CubeMain.txt
-│           │   ├── Experience.txt
-│           │   ├── LvlMaze.txt
-│           │   ├── Misc.txt
-│           │   ├── MonStats.txt
-│           │   ├── Runes.txt
-│           │   └── TreasureClassEx.txt
-│           └── ui
-│               └── FrontEnd
-│                   ├── gameselectscreenEXP.dc6
-│                   └── trademarkscreenEXP.dc6
+│           └── excel
+│               ├── CubeMain.txt
+│               ├── Experience.txt
+│               ├── LvlMaze.txt
+│               ├── Misc.txt
+│               ├── MonStats.txt
+│               ├── Runes.txt
+│               └── TreasureClassEx.txt
+├── CHANGES.txt
+├── CREDITS.txt
 ├── D2Game.dll
 ├── D2gfx.dll
-├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
 │   ├── Code_Edits
 │   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
 │   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
-│   ├── GIMP Images
-│   │   ├── gameselectscreenEXP.xcf
-│   │   └── trademarkscreenEXP.xcf
 │   ├── README.txt
 │   └── WHATIS.txt
 ├── Patch_D2.mpq
 └── README.txt
 
-9 directories, 24 files
+6 directories, 19 files

@@ -1,6 +1,6 @@
-Vanilla Frosting 5.1.0 for 1.13d 
-By Jonathan Vasquez (FearedBliss)
-Released on Friday, December 20, 2013
+Vanilla Frosting 5.2.0 for 1.13d
+By Jonathan Vasquez (fearedbliss)
+Released on Wednesday, June 11, 2014
 -----------------------------------------------
 
 D2Game.dll:
@@ -14,7 +14,11 @@ CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
-MonStats.txt - Cows and Act Bosses level and resistances
+MonStats.txt - Cows, Act Bosses, Ancients Level/Resistances,
+               and Monster Resistances
 Runes.txt - Runewords
-TreasureClassEx.txt - Smith now drops proper nightmare loot, Countess can drop up to Zod, Essences can drop on all difficulties
-
+TreasureClassEx.txt - 
+        - Smith now drops proper nightmare loot, 
+        - Countess can drop up to Zod, 
+	- Essences can drop on all difficulties
+	- Keys no longer drop from Countess/Summoner/Nihlathak

@@ -1,11 +1,11 @@
-Vanilla Frosting 5.1.0 for 1.13d 
-By Jonathan Vasquez (FearedBliss)
-Released on Friday, December 20, 2013
+Vanilla Frosting 5.2.0 for 1.13d
+By Jonathan Vasquez (fearedbliss)
+Released on Wednesday, June 11, 2014
 -----------------------------------------------
 
 Installation:
 -------------
-1. Make sure to backup your current Diablo II directory before installing. 
+1. Backup your current Diablo II directory before installing. 
    A simple copy/paste of your current Diablo II folder will do.
 
 2. Extract and replace the following files into your Diablo II directory:

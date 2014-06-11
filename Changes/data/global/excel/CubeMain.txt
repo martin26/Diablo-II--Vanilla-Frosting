@@ -98,8 +98,8 @@ r02 + 1 chipped gem + low weapon -> normal weapon	1			100					3	"weap,low"	r02	g
 r01 + 1 chipped gem + low armor -> normal armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
 r08 + r12 + perfect emerald + basic unique weapon -> exceptional unique weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r07 + r13 + perfect diamond + basic unique armor -> exceptional unique armor	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
-r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
-r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1			100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1			100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
 r09 + r11 + perfect sapphire + basic rare weapon -> exceptional rare weapon	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r08 + r10 + perfect amethyst + basic rare armor -> exceptional rare armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
 r19 + r22 + perfect sapphire + exceptional rare weapon -> elite rare weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
@@ -132,45 +132,45 @@ Rune Upgrades																																																																			
 2 rune 11 -> rune 12	1			100					2	"r11,qty=2"							r12																																																																																							0
 2 rune 12 -> rune 13	1			100					2	"r12,qty=2"							r13																																																																																							0
 2 rune 13 -> rune 14	1			100					2	"r13,qty=2"							r14																																																																																							0
-2 rune 14 -> rune 15	1	1		100					2	"r14,qty=2"							r15																																																																																							0
-2 rune 15 -> rune 16	1	1		100					2	"r15,qty=2"							r16																																																																																							0
-2 rune 16 -> rune 17	1	1		100					2	"r16,qty=2"							r17																																																																																							0
-2 rune 17 -> rune 18	1	1		100					2	"r17,qty=2"							r18																																																																																							0
-2 rune 18 -> rune 19	1	1		100					2	"r18,qty=2"							r19																																																																																							0
-2 rune 19 -> rune 20	1	1		100					2	"r19,qty=2"							r20																																																																																							0
-2 rune 20 -> rune 21	1	1		100					2	"r20,qty=2"							r21																																																																																							0
-2 rune 21 -> rune 22	1	1		100					2	"r21,qty=2"							r22																																																																																							0
-2 rune 22 -> rune 23	1	1		100					2	"r22,qty=2"							r23																																																																																							0
-2 rune 23 -> rune 24	1	1		100					2	"r23,qty=2"							r24																																																																																							0
-2 rune 24 -> rune 25	1	1		100					2	"r24,qty=2"							r25																																																																																							0
-2 rune 25 -> rune 26	1	1		100					2	"r25,qty=2"							r26																																																																																							0
-2 rune 26 -> rune 27	1	1		100					2	"r26,qty=2"							r27																																																																																							0
-2 rune 27 -> rune 28	1	1		100					2	"r27,qty=2"							r28																																																																																							0
-2 rune 28 -> rune 29	1	1		100					2	"r28,qty=2"							r29																																																																																							0
-2 rune 29 -> rune 30	1	1		100					2	"r29,qty=2"							r30																																																																																							0
-2 rune 30 -> rune 31	1	1		100					2	"r30,qty=2"							r31																																																																																							0
-2 rune 31 -> rune 32	1	1		100					2	"r31,qty=2"							r32																																																																																							0
-2 rune 32 -> rune 33	1	1		100					2	"r32,qty=2"							r33																																																																																							0
+2 rune 14 -> rune 15	1			100					2	"r14,qty=2"							r15																																																																																							0
+2 rune 15 -> rune 16	1			100					2	"r15,qty=2"							r16																																																																																							0
+2 rune 16 -> rune 17	1			100					2	"r16,qty=2"							r17																																																																																							0
+2 rune 17 -> rune 18	1			100					2	"r17,qty=2"							r18																																																																																							0
+2 rune 18 -> rune 19	1			100					2	"r18,qty=2"							r19																																																																																							0
+2 rune 19 -> rune 20	1			100					2	"r19,qty=2"							r20																																																																																							0
+2 rune 20 -> rune 21	1			100					2	"r20,qty=2"							r21																																																																																							0
+2 rune 21 -> rune 22	1			100					2	"r21,qty=2"							r22																																																																																							0
+2 rune 22 -> rune 23	1			100					2	"r22,qty=2"							r23																																																																																							0
+2 rune 23 -> rune 24	1			100					2	"r23,qty=2"							r24																																																																																							0
+2 rune 24 -> rune 25	1			100					2	"r24,qty=2"							r25																																																																																							0
+2 rune 25 -> rune 26	1			100					2	"r25,qty=2"							r26																																																																																							0
+2 rune 26 -> rune 27	1			100					2	"r26,qty=2"							r27																																																																																							0
+2 rune 27 -> rune 28	1			100					2	"r27,qty=2"							r28																																																																																							0
+2 rune 28 -> rune 29	1			100					2	"r28,qty=2"							r29																																																																																							0
+2 rune 29 -> rune 30	1			100					2	"r29,qty=2"							r30																																																																																							0
+2 rune 30 -> rune 31	1			100					2	"r30,qty=2"							r31																																																																																							0
+2 rune 31 -> rune 32	1			100					2	"r31,qty=2"							r32																																																																																							0
+2 rune 32 -> rune 33	1			100					2	"r32,qty=2"							r33																																																																																							0
 Rune Downgrades																																																																																																								0
-rune 33 + antidote -> rune 32	1	1		100					2	r33	yps						r32																																																																																							0
-rune 32 + antidote -> rune 31	1	1		100					2	r32	yps						r31																																																																																							0
-rune 31 + antidote -> rune 30	1	1		100					2	r31	yps						r30																																																																																							0
-rune 30 + antidote -> rune 29	1	1		100					2	r30	yps						r29																																																																																							0
-rune 29 + antidote -> rune 28	1	1		100					2	r29	yps						r28																																																																																							0
-rune 28 + antidote -> rune 27	1	1		100					2	r28	yps						r27																																																																																							0
-rune 27 + antidote -> rune 26	1	1		100					2	r27	yps						r26																																																																																							0
-rune 26 + antidote -> rune 25	1	1		100					2	r26	yps						r25																																																																																							0
-rune 25 + antidote -> rune 24	1	1		100					2	r25	yps						r24																																																																																							0
-rune 24 + antidote -> rune 23	1	1		100					2	r24	yps						r23																																																																																							0
-rune 23 + antidote -> rune 22	1	1		100					2	r23	yps						r22																																																																																							0
-rune 22 + antidote -> rune 21	1	1		100					2	r22	yps						r21																																																																																							0
-rune 21 + antidote -> rune 20	1	1		100					2	r21	yps						r20																																																																																							0
-rune 20 + antidote -> rune 19	1	1		100					2	r20	yps						r19																																																																																							0
-rune 19 + antidote -> rune 18	1	1		100					2	r19	yps						r18																																																																																							0
-rune 18 + antidote -> rune 17	1	1		100					2	r18	yps						r17																																																																																							0
-rune 17 + antidote -> rune 16	1	1		100					2	r17	yps						r16																																																																																							0
-rune 16 + antidote -> rune 15	1	1		100					2	r16	yps						r15																																																																																							0
-rune 15 + antidote -> rune 14	1	1		100					2	r15	yps						r14																																																																																							0
+rune 33 + antidote -> rune 32	1			100					2	r33	yps						r32																																																																																							0
+rune 32 + antidote -> rune 31	1			100					2	r32	yps						r31																																																																																							0
+rune 31 + antidote -> rune 30	1			100					2	r31	yps						r30																																																																																							0
+rune 30 + antidote -> rune 29	1			100					2	r30	yps						r29																																																																																							0
+rune 29 + antidote -> rune 28	1			100					2	r29	yps						r28																																																																																							0
+rune 28 + antidote -> rune 27	1			100					2	r28	yps						r27																																																																																							0
+rune 27 + antidote -> rune 26	1			100					2	r27	yps						r26																																																																																							0
+rune 26 + antidote -> rune 25	1			100					2	r26	yps						r25																																																																																							0
+rune 25 + antidote -> rune 24	1			100					2	r25	yps						r24																																																																																							0
+rune 24 + antidote -> rune 23	1			100					2	r24	yps						r23																																																																																							0
+rune 23 + antidote -> rune 22	1			100					2	r23	yps						r22																																																																																							0
+rune 22 + antidote -> rune 21	1			100					2	r22	yps						r21																																																																																							0
+rune 21 + antidote -> rune 20	1			100					2	r21	yps						r20																																																																																							0
+rune 20 + antidote -> rune 19	1			100					2	r20	yps						r19																																																																																							0
+rune 19 + antidote -> rune 18	1			100					2	r19	yps						r18																																																																																							0
+rune 18 + antidote -> rune 17	1			100					2	r18	yps						r17																																																																																							0
+rune 17 + antidote -> rune 16	1			100					2	r17	yps						r16																																																																																							0
+rune 16 + antidote -> rune 15	1			100					2	r16	yps						r15																																																																																							0
+rune 15 + antidote -> rune 14	1			100					2	r15	yps						r14																																																																																							0
 rune 14 + antidote -> rune 13	1			100					2	r14	yps						r13																																																																																							0
 rune 13 + antidote -> rune 12	1			100					2	r13	yps						r12																																																																																							0
 rune 12 + antidote -> rune 11	1			100					2	r12	yps						r11																																																																																							0

@@ -1,8 +1,26 @@
-Vanilla Frosting 5.1.0 for 1.13d 
-By Jonathan Vasquez (FearedBliss)
-Released on Friday, December 20, 2013
+Vanilla Frosting 5.2.0 for 1.13d
+By Jonathan Vasquez (fearedbliss)
+Released on Wednesday, June 11, 2014
 -----------------------------------------------
 
+5.2.0 Changes
+------------
+- Monster levels and resistances have been restored to 1.13d defaults, and then all resistances
+  have been reduced to a maximum of 100 (Thus immunities that drop below 100 are broken).
+- The levels and resistances for the following bosses and monsters have been changed to those similar in 1.09:
+	- Andariel
+	- Duriel
+	- Mephisto
+	- Diablo
+	- Baal
+	- Ancients
+	- Cows
+- Removed the "Vanilla Frosting" label from the main screen
+- The following items no longer drop since they are useless on Single Player, and TCP/IP:
+	- Key of Terror from The Countess
+	- Key of Hate from the Summoner
+	- Key of Destruction from Nihlathak
+	
 5.1.0 Changes
 ------------
 - The following is back to vanilla: Pindleskin, Tresh Socket, Shenk the Overseer, Eldritch the Rectifier, Council Members, and Ancients.

@@ -1,6 +1,6 @@
-Vanilla Frosting 5.1.0 for 1.13d 
-By Jonathan Vasquez (FearedBliss)
-Released on Friday, December 20, 2013
+Vanilla Frosting 5.2.0 for 1.13d
+By Jonathan Vasquez (fearedbliss)
+Released on Wednesday, June 11, 2014
 -----------------------------------------------
 
 Features:
@@ -8,20 +8,22 @@ Features:
 
 **** Major Changes ****
 
-- (From 1.09): Experience ratio will not diminish after level 70 (meaning you will always get 100% experience from the monster).
-- (From 1.09): Shared Party Experience. You will now once again receive experience beyond 2 screens.
+- (From 1.09): Experience ratio will not diminish after level 70 
+              (meaning you will always get 100% experience from the monster).
+- (From 1.09): Shared Party Experience. You will now once again receive
+               experience beyond 2 screens.
 - (From 1.09): All map sizes are the same size on all difficulties.
-- (From 1.09): The cows and act bosses have levels and resistances similar to those in 1.09.
-
+- (From 1.09): Cows, Act Bosses, and Ancients have levels and resistances
+               similar to those in 1.09.
+- All immunities can now be broken. Monster resistances are capped at 100
+ (Excluding enchantments such as Fire, Cold, Lighting, and Stoneskin).
 - Ladder Runewords are now enabled on Single Player.
 - You can now run multiple clients of Diablo II.
 - You can now cube all 33 runes by placing 2x runes -> next rune.
 - You can now downgrade a rune by placing the rune + antidote -> previous rune.
-
-- The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell.
+- The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
 	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
 	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
-	
 - You can now open the Cow Level with just a town portal book (No leg needed).
 - You can now open the Cow Level even if you kill the King.
 - Essences for the Token of Absolution can now drop on all difficulties.
@@ -29,7 +31,8 @@ Features:
 **** Minor Changes ****
 
 - Lysander now sells TP/ID Books & Scrolls.
+- Summoner, Countess, and Nihlathak no longer drop Keys
 
 **** Bug Fixes ****
 
-- Smith now has proper nightmare loot table
+- Smith now has proper nightmare loot table.

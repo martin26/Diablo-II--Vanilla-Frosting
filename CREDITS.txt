@@ -1,8 +1,21 @@
 Credits to PhrozenKeep for having a wonderful community filled with knowledge
-and resources. Without them none of this would be possible.
+and resources. Without them none of this would be possible. I would like to acknowledge
+specific people in the PhrozenKeep community:
+
+- Credits to Nefarius since I used his 1.10f "Shield Block Fix" DLL to find what I
+  needed to look for when updating it to 1.13d.
+  
+- Credits to kidpaddle94 for providing 1.13c assembly for the following:
+  > Classic Whirlwind
+  > Hyperjoin
+  
+I just looked at their work, and found the new values for 1.13d.
+-----------------------------------------------
 
 Credits are also given to Thyiad from the Diablo IncGamers Community for
 her kindness and support.
+
+Credits to Pharphis for advice and feedback on several decisions I was planning to make.
 
 This mod is influenced by the SPF (Single Player Forum)'s ideas and philosophies.
 

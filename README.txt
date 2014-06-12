@@ -1,6 +1,6 @@
-Vanilla Frosting 5.2.0 for 1.13d
+Vanilla Frosting 5.3.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, June 11, 2014
+Released on Thursday, June 12, 2014
 -----------------------------------------------
 
 Features:
@@ -14,11 +14,17 @@ Features:
                experience beyond 2 screens.
 - (From 1.09): All map sizes are the same size on all difficulties.
 - (From 1.09): Cows, Act Bosses, and Ancients have levels and resistances
-               similar to those in 1.09.
+               similar to those in 1.09.    
+- (From Classic): Your shield block chance is equal to what is stated on the
+	shield. It is no longer based on character level and dexterity.
+- (From Classic): The barbarian's whirlwind skill is no longer dependent on
+	attack speed. It attacks at the traditional 4 fps.
+- You can now run multiple clients of Diablo II.
+- The amount of time required to join a TCP/IP game has been significantly
+  reduced! It takes about 1-2 seconds to join a LAN game.
+- Ladder Runewords are now enabled on Single Player.
 - All immunities can now be broken. Monster resistances are capped at 100
  (Excluding enchantments such as Fire, Cold, Lighting, and Stoneskin).
-- Ladder Runewords are now enabled on Single Player.
-- You can now run multiple clients of Diablo II.
 - You can now cube all 33 runes by placing 2x runes -> next rune.
 - You can now downgrade a rune by placing the rune + antidote -> previous rune.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell

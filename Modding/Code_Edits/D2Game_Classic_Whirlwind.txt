@@ -1,0 +1,44 @@
+VERSION: 1.13d
+
+CODE:
+
+000C14A0    C2 0800         RETN 8
+000C14A3    55              PUSH EBP
+000C14A4    8B6C24 0C       MOV EBP,DWORD PTR SS:[ESP+C]
+000C14A8    8B45 70         MOV EAX,DWORD PTR SS:[EBP+70]
+000C14AB    85C0            TEST EAX,EAX
+000C14AD    75 0A           JNZ SHORT 000C14B9                        <<<< NOP this (There will be two consecutive NOPs)
+000C14AF    5D              POP EBP
+000C14B0    B8 01000000     MOV EAX,1
+000C14B5    5F              POP EDI
+000C14B6    C2 0800         RETN 8
+000C14B9    8B7C24 10       MOV EDI,DWORD PTR SS:[ESP+10]
+
+WHAT TO DO:
+
+NOP the following line (There will be two consecutive NOPs):
+
+000C14AD    75 0A           JNZ SHORT 000C14B9
+
+Which will turn into:
+
+000C14AD    90              NOP
+000C14AE    90              NOP
+
+HOW TO FIND OFFSET:
+
+Search for the following code sequence:
+
+MOV R32,[R32+const]
+MOV R32,[R32+const]
+TEST R32,R32
+JNZ SHORT const
+POP R32
+MOV R32,1
+POP R32
+RETN 8
+
+There will only be one match.
+
+1.13d Offset: C14AD
+1.13c Offset (Thanks to kidpaddle94): 26E7D

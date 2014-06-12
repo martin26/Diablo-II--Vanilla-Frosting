@@ -1,6 +1,6 @@
-Vanilla Frosting 5.2.0 for 1.13d
+Vanilla Frosting 5.3.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, June 11, 2014
+Released on Thursday, June 12, 2014
 -----------------------------------------------
 
 .
@@ -17,17 +17,22 @@ Released on Wednesday, June 11, 2014
 │               └── TreasureClassEx.txt
 ├── CHANGES.txt
 ├── CREDITS.txt
+├── D2Client.dll
+├── D2Common.dll
 ├── D2Game.dll
 ├── D2gfx.dll
 ├── INSTALL.txt
 ├── Modding
 │   ├── Code_Edits
+│   │   ├── D2Client_Hyperjoin.txt
+│   │   ├── D2Common_Classic_Shield_Block.txt
+│   │   ├── D2Game_Classic_Whirlwind.txt
 │   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
 │   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
-│   ├── README.txt
+│   ├── RESOURCES.txt
 │   └── WHATIS.txt
 ├── Patch_D2.mpq
 └── README.txt
 
-6 directories, 19 files
+6 directories, 24 files

@@ -18,5 +18,3 @@ The first appearance of it will be the solution. Modify the first appearance, an
 1.13d Offsets: 87EFA, 87EFF
 1.13c Offsets: DAFCA, DAFCF
 1.12 Offsets: 784BA, 784BF
-
-

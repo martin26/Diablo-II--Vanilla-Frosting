@@ -1,6 +1,6 @@
-Vanilla Frosting 5.3.0 for 1.13d
+Vanilla Frosting 5.4.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, June 12, 2014
+Released on Sunday, June 15, 2014
 -----------------------------------------------
 
 Installation:
@@ -19,5 +19,5 @@ Installation:
 3. Enjoy.
 
 Uninstallation:
-Delete your Diablo II folder, and rename your old backup copy of Diablo II 
-to 'Diablo II'.
+Copy and Replace all the files in your Diablo II directory with the ones in
+the "Stock" folder.

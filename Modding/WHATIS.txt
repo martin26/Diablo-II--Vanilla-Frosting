@@ -1,12 +1,11 @@
-Vanilla Frosting 5.3.0 for 1.13d
+Vanilla Frosting 5.4.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, June 12, 2014
+Released on Sunday, June 15, 2014
 -----------------------------------------------
 
 D2Game.dll:
 	- Ability to open Cow Level even if King was killed
 	- Experience beyond two screens
-	- Classic Whirlwind
 
 D2gfx.dll:
 	- Multiple Diablo II Windows
@@ -14,15 +13,11 @@ D2gfx.dll:
 D2Client.dll:
 	- Hyperjoin (Enables extremely fast join times in TCP/IP)
 	
-D2Common.dll:
-	- Classic Shield Block
-	
 CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
-MonStats.txt - Cows, Act Bosses, Ancients Level/Resistances,
-               and Monster Resistances
+MonStats.txt - Cow Resistances
 Runes.txt - Runewords
 TreasureClassEx.txt - 
         - Smith now drops proper nightmare loot, 

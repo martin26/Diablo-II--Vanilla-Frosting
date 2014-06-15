@@ -2,11 +2,7 @@ Credits to PhrozenKeep for having a wonderful community filled with knowledge
 and resources. Without them none of this would be possible. I would like to acknowledge
 specific people in the PhrozenKeep community:
 
-- Credits to Nefarius since I used his 1.10f "Shield Block Fix" DLL to find what I
-  needed to look for when updating it to 1.13d.
-  
-- Credits to kidpaddle94 for providing 1.13c assembly for the following:
-  > Classic Whirlwind
+- Credits to kidpaddle94 for providing 1.13c assembly code for the following:
   > Hyperjoin
   
 I just looked at their work, and found the new values for 1.13d.

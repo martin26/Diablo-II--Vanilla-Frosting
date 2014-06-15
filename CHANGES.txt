@@ -1,7 +1,14 @@
-Vanilla Frosting 5.3.0 for 1.13d
+Vanilla Frosting 5.4.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, June 12, 2014
+Released on Sunday, June 15, 2014
 -----------------------------------------------
+
+5.4.0 Changes
+------------
+- Shield block is back to the default way in the Expansion
+- The barbarian's whirlwind is back to the default way in the Expansion
+- All monster immunities are back to their standard values.
+- All act bosses and ancients have the same levels and resistances as before (vanilla).
 
 5.3.0 Changes
 ------------

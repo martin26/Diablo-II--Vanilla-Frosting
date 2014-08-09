@@ -1,6 +1,6 @@
-Vanilla Frosting 5.4.0 for 1.13d
+Vanilla Frosting 5.4.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 15, 2014
+Released on Saturday, August 9, 2014
 -----------------------------------------------
 
 .
@@ -17,14 +17,12 @@ Released on Sunday, June 15, 2014
 │               └── TreasureClassEx.txt
 ├── CHANGES.txt
 ├── CREDITS.txt
-├── D2Client.dll
 ├── D2Game.dll
 ├── D2gfx.dll
 ├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
 │   ├── Code_Edits
-│   │   ├── D2Client_Hyperjoin.txt
 │   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
 │   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
@@ -39,4 +37,4 @@ Released on Sunday, June 15, 2014
     ├── D2gfx.dll
     └── Patch_D2.mpq
 
-7 directories, 27 files
+7 directories, 25 files

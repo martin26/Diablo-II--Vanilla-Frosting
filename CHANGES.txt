@@ -1,7 +1,12 @@
-Vanilla Frosting 5.4.0 for 1.13d
+Vanilla Frosting 5.4.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 15, 2014
+Released on Saturday, August 9, 2014
 -----------------------------------------------
+
+5.4.1 Changes
+------------
+- Hyperjoin has been removed since I've noticed a massive desync issue in
+  1.09's Hyperjoin. This issue could possibly also happen in 1.13.
 
 5.4.0 Changes
 ------------

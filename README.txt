@@ -1,6 +1,6 @@
-Vanilla Frosting 5.4.0 for 1.13d
+Vanilla Frosting 5.4.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 15, 2014
+Released on Saturday, August 9, 2014
 -----------------------------------------------
 
 Features:
@@ -25,11 +25,9 @@ Features:
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
 
-**** Improvements ****
+**** Client Enhancements ****
 
 - You can now run multiple instances of Diablo II.
-- The amount of time required to join a TCP/IP game has been significantly
-  reduced! It takes about 1-2 seconds to join a LAN game.
 
 **** Minor Changes ****
 

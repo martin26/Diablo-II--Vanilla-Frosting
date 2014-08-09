@@ -1,6 +1,6 @@
-Vanilla Frosting 5.4.0 for 1.13d
+Vanilla Frosting 5.4.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, June 15, 2014
+Released on Saturday, August 9, 2014
 -----------------------------------------------
 
 D2Game.dll:
@@ -9,9 +9,6 @@ D2Game.dll:
 
 D2gfx.dll:
 	- Multiple Diablo II Windows
-	
-D2Client.dll:
-	- Hyperjoin (Enables extremely fast join times in TCP/IP)
 	
 CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)

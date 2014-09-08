@@ -1,6 +1,6 @@
-Vanilla Frosting 5.4.1 for 1.13d
+Vanilla Frosting 5.5.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, August 9, 2014
+Released on Sunday, September 7, 2014
 -----------------------------------------------
 
 .
@@ -29,12 +29,6 @@ Released on Saturday, August 9, 2014
 │   ├── RESOURCES.txt
 │   └── WHATIS.txt
 ├── Patch_D2.mpq
-├── README.txt
-└── Stock
-    ├── D2Client.dll
-    ├── D2Common.dll
-    ├── D2Game.dll
-    ├── D2gfx.dll
-    └── Patch_D2.mpq
+└── README.txt
 
-7 directories, 25 files
+6 directories, 20 files

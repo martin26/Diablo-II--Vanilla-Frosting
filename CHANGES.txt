@@ -1,7 +1,19 @@
-Vanilla Frosting 5.4.1 for 1.13d
+Vanilla Frosting 5.5.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, August 9, 2014
+Released on Sunday, September 7, 2014
 -----------------------------------------------
+
+5.5.0 Changes
+------------
+- Improved rune drop rates
+- Monster resistances/immunities have been completed removed
+- Monsters will no longer have a chance to not drop anything
+- Monster experience has been doubled
+- Monster HP on /players 8 now equals their HP on /players 1.
+
+* This means that this mod is meant to be played on /players 8.
+So you get the benefits of having the maximum amount of items to drop
+but without having the monster's HP increase.
 
 5.4.1 Changes
 ------------

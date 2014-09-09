@@ -1,7 +1,14 @@
-Vanilla Frosting 5.5.0 for 1.13d
+Vanilla Frosting 5.5.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, September 7, 2014
+Released on Monday, September 8, 2014
 -----------------------------------------------
+
+5.5.1 Changes
+------------
+- Major improvements to rune drop rates
+	Runes 19+ have about 1% chance to drop
+	Runes below 19 have been equalized depending on their previous values.
+- Monsters will once again have a chance to not drop something
 
 5.5.0 Changes
 ------------

@@ -1,6 +1,6 @@
-Vanilla Frosting 5.5.1 for 1.13d
+Vanilla Frosting 5.5.2 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, September 8, 2014
+Released on Friday, September 12, 2014
 -----------------------------------------------
 
 .
@@ -27,8 +27,9 @@ Released on Monday, September 8, 2014
 │   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
 │   ├── RESOURCES.txt
+│   ├── Rune_Drop_Rates.ods
 │   └── WHATIS.txt
 ├── Patch_D2.mpq
 └── README.txt
 
-6 directories, 20 files
+6 directories, 21 files

@@ -1,6 +1,6 @@
-Vanilla Frosting 5.5.1 for 1.13d
+Vanilla Frosting 5.5.2 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, September 8, 2014
+Released on Friday, September 12, 2014
 -----------------------------------------------
 
 D2Game.dll:
@@ -14,7 +14,7 @@ CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
-MonStats.txt - Monster resistances, HP, and Experience
+MonStats.txt - Monster resistances and HP
 Runes.txt - Runewords
 TreasureClassEx.txt - 
     - Smith now drops proper nightmare loot, 

@@ -178,3 +178,9 @@ rune 11 + antidote -> rune 10	1			100					2	r11	yps						r10																				
 rune 10 + antidote -> rune 09	1			100					2	r10	yps						r09																																																																																							0
 rune 09 + antidote -> rune 08	1			100					2	r09	yps						r08																																																																																							0
 rune 08 + antidote -> rune 07	1			100					2	r08	yps						r07																																																																																							0
+rune 07 + antidote -> rune 06	1			100					2	r07	yps						r06																																																																																							0
+rune 06 + antidote -> rune 05	1			100					2	r06	yps						r05																																																																																							0
+rune 05 + antidote -> rune 04	1			100					2	r05	yps						r04																																																																																							0
+rune 04 + antidote -> rune 03	1			100					2	r04	yps						r03																																																																																							0
+rune 03 + antidote -> rune 02	1			100					2	r03	yps						r02																																																																																							0
+rune 02 + antidote -> rune 01	1			100					2	r02	yps						r01																																																																																							0

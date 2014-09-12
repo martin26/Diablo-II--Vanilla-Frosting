@@ -42,7 +42,6 @@ JNZ const
 There will be two instances of this, Look above the TEST EAX,EAX blocks and find one that has a E??+34. This will be the one you want to edit.
 Once you find that, just look at the offset for TEST EAX,EAX and you are done.
 
-TESTEAX ADDRESS - BASE ADDRESS = NEW OFFSET
 6FC2EBE8 - 6FC20000 = EBE8
 
 You can find the base address of D2Game.dll by pressing the E at the top of OllyDbg, and looking at the BASE column for D2Game.dll in the "Executable Modules" window.

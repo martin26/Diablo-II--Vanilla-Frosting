@@ -1,10 +1,7 @@
-Vanilla Frosting 5.5.1 for 1.13d
+Vanilla Frosting 5.5.2 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, September 8, 2014
+Released on Friday, September 12, 2014
 -----------------------------------------------
-
-Features:
------------------
 
 **** Back from 1.09 ****
 
@@ -25,7 +22,6 @@ Features:
 - Improved rune drop rates
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
-- Monster experience has been doubled.
 - Monster resistances/immunities have been removed.
 - Monster HP is the same between /players 8 and /players 1 which means that
   you should play on /players 8 so that you can get the maximum amount of item drops.

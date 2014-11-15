@@ -1,10 +1,14 @@
-Credits to PhrozenKeep for having a wonderful community filled with knowledge
+Credits to:
+
+- PhrozenKeep for having a wonderful community filled with knowledge
 and resources. Without them none of this would be possible.
   
-Credits are also given to Thyiad from the Diablo IncGamers Community for
-her kindness and support.
+- Thyiad from the Diablo IncGamers Community for her kindness and support.
 
-Credits to Pharphis for advice and feedback on several decisions I was planning to make.
+- Pharphis for advice and feedback on several decisions I was planning to make.
+
+- Hell Unleashed Mod for having the cube/stash/inventory dc6/txt
+  files already made for me in their Patch_D2.mpq :).
 
 The respective communities can be found below:
 
@@ -12,3 +16,5 @@ PhrozenKeep: http://phrozenkeep.hugelaser.com/
 
 Diablo IncGamers: Single Player Forum (SPF): 
 http://diablo.incgamers.com/forums/forumdisplay.php?3-Single-Player-Forum
+
+Hell Unleashed: http://www.arimyth.com/hell.htm

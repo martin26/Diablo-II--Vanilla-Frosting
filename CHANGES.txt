@@ -1,8 +1,20 @@
-Vanilla Frosting 5.5.2 for 1.13d
+Vanilla Frosting 5.6.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, September 12, 2014
+Released on Saturday, November 15, 2014
 -----------------------------------------------
 
+5.6.0 Changes
+------------
+- Increased the size of the stash and cube again in order to encourage
+  players to:
+  1. Balance the pros/cons of keeping an item
+  2. Keep the players actively engaged in their current games
+  3. Reduce frequency of having to leave the game to mule
+  4. Make VF independent from external applications (ATMA/GoMule)
+ 
+  * Note, this means VF is no longer compatible with external muling
+    applications like ATMA or GoMule.
+  
 5.5.2 Changes
 ------------
 - Fixed a bug where rune downgrades for below 8 weren't working.

@@ -1,6 +1,6 @@
-Vanilla Frosting 5.5.2 for 1.13d
+Vanilla Frosting 5.6.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, September 12, 2014
+Released on Saturday, November 15, 2014
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -13,6 +13,7 @@ Released on Friday, September 12, 2014
 **** New Changes ****
 
 - Ladder Runewords are now enabled on Single Player.
+- The size of the stash and cube have been increased.
 - Essences for the Token of Absolution can now drop on all difficulties.
 - You can now upgrade a rune by placing: 2x rune -> next rune (up to Zod)
 - You can now downgrade a rune by placing: rune + antidote -> previous rune.

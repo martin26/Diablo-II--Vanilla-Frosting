@@ -1,35 +1,42 @@
-Vanilla Frosting 5.5.2 for 1.13d
+Vanilla Frosting 5.6.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, September 12, 2014
+Released on Saturday, November 15, 2014
 -----------------------------------------------
 
 .
 ├── Changes
 │   └── data
 │       └── global
-│           └── excel
-│               ├── CubeMain.txt
-│               ├── Experience.txt
-│               ├── LvlMaze.txt
-│               ├── Misc.txt
-│               ├── MonStats.txt
-│               ├── Runes.txt
-│               └── TreasureClassEx.txt
+│           ├── excel
+│           │   ├── CubeMain.txt
+│           │   ├── Experience.txt
+│           │   ├── Inventory.txt
+│           │   ├── LvlMaze.txt
+│           │   ├── Misc.txt
+│           │   ├── MonStats.txt
+│           │   ├── Runes.txt
+│           │   └── TreasureClassEx.txt
+│           └── ui
+│               └── PANEL
+│                   ├── supertransmogrifier.dc6
+│                   └── TradeStash.dc6
 ├── CHANGES.txt
 ├── CREDITS.txt
 ├── D2Game.dll
 ├── D2gfx.dll
-├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
 │   ├── Code_Edits
 │   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
 │   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   └── D2Gfx_Multiple_D2_Windows.txt
+│   ├── GIMP Images
+│   │   ├── supertransmogrifier.xcf
+│   │   └── TradeStash.xcf
 │   ├── RESOURCES.txt
 │   ├── Rune_Drop_Rates.ods
 │   └── WHATIS.txt
 ├── Patch_D2.mpq
 └── README.txt
 
-6 directories, 21 files
+9 directories, 25 files

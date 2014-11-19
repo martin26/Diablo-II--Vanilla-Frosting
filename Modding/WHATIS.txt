@@ -1,6 +1,6 @@
-Vanilla Frosting 5.6.0 for 1.13d
+Vanilla Frosting 5.6.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, November 15, 2014
+Released on Wednesday, November 19, 2014
 -----------------------------------------------
 
 D2Game.dll:
@@ -20,6 +20,6 @@ Runes.txt - Runewords
 TreasureClassEx.txt - 
     - Smith now drops proper nightmare loot, 
     - Countess can drop up to Zod, 
-	- Essences can drop on all difficulties
+	- Essences no longer drop
 	- Keys no longer drop from Countess/Summoner/Nihlathak
 	- Improved rune drop rates

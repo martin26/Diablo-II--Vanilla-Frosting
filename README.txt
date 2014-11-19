@@ -1,6 +1,6 @@
-Vanilla Frosting 5.6.0 for 1.13d
+Vanilla Frosting 5.6.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, November 15, 2014
+Released on Wednesday, November 19, 2014
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -14,7 +14,6 @@ Released on Saturday, November 15, 2014
 
 - Ladder Runewords are now enabled on Single Player.
 - The size of the stash and cube have been increased.
-- Essences for the Token of Absolution can now drop on all difficulties.
 - You can now upgrade a rune by placing: 2x rune -> next rune (up to Zod)
 - You can now downgrade a rune by placing: rune + antidote -> previous rune.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
@@ -26,6 +25,8 @@ Released on Saturday, November 15, 2014
 - Monster resistances/immunities have been removed.
 - Monster HP is the same between /players 8 and /players 1 which means that
   you should play on /players 8 so that you can get the maximum amount of item drops.
+- Essences for the Token of Absolution no longer drop. You will only have the 3 respecs
+  provided by Akara. Use them wisely.
 
 **** Client Enhancements ****
 

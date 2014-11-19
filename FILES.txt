@@ -1,6 +1,6 @@
-Vanilla Frosting 5.6.0 for 1.13d
+Vanilla Frosting 5.6.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, November 15, 2014
+Released on Wednesday, November 19, 2014
 -----------------------------------------------
 
 .

@@ -1,4 +1,4 @@
-Vanilla Frosting 5.6.2 for 1.13d
+Vanilla Frosting 5.7.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
 Released on Saturday, January 10, 2015
 -----------------------------------------------
@@ -15,8 +15,6 @@ Released on Saturday, January 10, 2015
 - Ladder Runewords are now enabled on Single Player.
 - The size of the stash, cube, and inventory have been increased.
 - All characters start out with a Horadric Cube
-- You can now upgrade a rune by placing: 2x rune -> next rune (up to Zod)
-- You can now downgrade a rune by placing: rune + antidote -> previous rune.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
 	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
 	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
@@ -28,6 +26,12 @@ Released on Saturday, January 10, 2015
   you should play on /players 8 so that you can get the maximum amount of item drops.
 - Essences for the Token of Absolution no longer drop. You will only have the 3 respecs
   provided by Akara. Use them wisely.
+
+New Cube Recipes:
+- Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
+- Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
+- Make Item Ethereal: Non-ethereal destructible armor or weapon + Stamina Potion + Town Portal Scroll
+- Unsocket and Preserve Gems/Runes and Item: Any weapon or Armor + Hel Rune + Antidote + Town Portal Scroll
 
 **** Client Enhancements ****
 

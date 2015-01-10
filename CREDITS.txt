@@ -11,7 +11,7 @@ and resources. Without them none of this would be possible.
   files already made for me in their Patch_D2.mpq :).
 
 - Sheer_Cold for the Inventory specific part of the increased space and
-for the horadric cube at character creation.
+for the horadric cube at character creation and some cube recipes.
 
 The respective communities can be found below:
 

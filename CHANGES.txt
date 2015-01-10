@@ -1,8 +1,14 @@
-Vanilla Frosting 5.6.2 for 1.13d
+Vanilla Frosting 5.7.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
 Released on Saturday, January 10, 2015
 -----------------------------------------------
 
+5.7.0 Changes
+------------
+- 4 New Cube Recipes (Weapon and Armor are each a recipe):
+	Non-ethereal destructible armor or weapon + Stamina Potion + Town Portal Scroll = Makes the item Ethereal
+	Any weapon or Armor + Hel Rune + Antidote + Town Portal Scroll = Unsockets Item and keeps both gems/runes and the item (Preserve)
+	
 5.6.2 Changes
 ------------
 - The inventory space has now been increased.

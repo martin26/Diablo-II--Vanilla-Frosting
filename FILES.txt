@@ -1,6 +1,6 @@
-Vanilla Frosting 5.6.1 for 1.13d
+Vanilla Frosting 5.6.2 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, November 19, 2014
+Released on Saturday, January 10, 2015
 -----------------------------------------------
 
 .
@@ -8,6 +8,7 @@ Released on Wednesday, November 19, 2014
 │   └── data
 │       └── global
 │           ├── excel
+│           │   ├── CharStats.txt
 │           │   ├── CubeMain.txt
 │           │   ├── Experience.txt
 │           │   ├── Inventory.txt
@@ -18,12 +19,14 @@ Released on Wednesday, November 19, 2014
 │           │   └── TreasureClassEx.txt
 │           └── ui
 │               └── PANEL
+│                   ├── invchar6.dc6
 │                   ├── supertransmogrifier.dc6
 │                   └── TradeStash.dc6
 ├── CHANGES.txt
 ├── CREDITS.txt
 ├── D2Game.dll
 ├── D2gfx.dll
+├── FILES.txt
 ├── INSTALL.txt
 ├── Modding
 │   ├── Code_Edits
@@ -39,4 +42,4 @@ Released on Wednesday, November 19, 2014
 ├── Patch_D2.mpq
 └── README.txt
 
-9 directories, 25 files
+9 directories, 28 files

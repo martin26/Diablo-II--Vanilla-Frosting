@@ -7,8 +7,11 @@ and resources. Without them none of this would be possible.
 
 - Pharphis for advice and feedback on several decisions I was planning to make.
 
-- Hell Unleashed Mod for having the cube/stash/inventory dc6/txt
+- Hell Unleashed Mod for having the cube/stash dc6/txt
   files already made for me in their Patch_D2.mpq :).
+
+- Sheer_Cold for the Inventory specific part of the increased space and
+for the horadric cube at character creation.
 
 The respective communities can be found below:
 
@@ -18,3 +21,4 @@ Diablo IncGamers: Single Player Forum (SPF):
 http://diablo.incgamers.com/forums/forumdisplay.php?3-Single-Player-Forum
 
 Hell Unleashed: http://www.arimyth.com/hell.htm
+Sheer_Cold's Perfect Drop Mod: http://www.moddb.com/mods/perfect-drop-mod-104/

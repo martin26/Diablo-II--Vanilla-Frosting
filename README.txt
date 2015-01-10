@@ -1,6 +1,6 @@
-Vanilla Frosting 5.6.1 for 1.13d
+Vanilla Frosting 5.6.2 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, November 19, 2014
+Released on Saturday, January 10, 2015
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -13,7 +13,8 @@ Released on Wednesday, November 19, 2014
 **** New Changes ****
 
 - Ladder Runewords are now enabled on Single Player.
-- The size of the stash and cube have been increased.
+- The size of the stash, cube, and inventory have been increased.
+- All characters start out with a Horadric Cube
 - You can now upgrade a rune by placing: 2x rune -> next rune (up to Zod)
 - You can now downgrade a rune by placing: rune + antidote -> previous rune.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell

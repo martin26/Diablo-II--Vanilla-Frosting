@@ -1,6 +1,6 @@
-Vanilla Frosting 5.6.1 for 1.13d
+Vanilla Frosting 5.6.2 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, November 19, 2014
+Released on Saturday, January 10, 2015
 -----------------------------------------------
 
 D2Game.dll:
@@ -9,10 +9,11 @@ D2Game.dll:
 
 D2gfx.dll:
 	- Multiple Diablo II Windows
-	
+
+CharStats.txt - Horadric Cube at Character Creation
 CubeMain.txt - Rune Upgrades/Downgrades, 1 TP = Cow Level
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
-Inventory.txt - Stash and Cube Size
+Inventory.txt - Stash, Cube, and Inventory Size
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
 MonStats.txt - Monster resistances and HP

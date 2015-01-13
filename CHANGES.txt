@@ -1,7 +1,19 @@
-Vanilla Frosting 5.7.0 for 1.13d
+Vanilla Frosting 5.8.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, January 10, 2015
+Released on Monday, January 12, 2015
 -----------------------------------------------
+
+5.8.0 Changes
+------------
+- Removed the ethereal cube recipes
+- Fixed a bug where a character can reach level 100 (99 is the norm)
+- Drop rates have been increased
+- Chests have been massively improved. They now drop better equipment for the act
+  they are on, they can drop any gem, and the same jewelry on any act/difficulty,
+  and they can drop the same runes as Countess can drop on that difficulty.
+- All monsters (including bosses) now have the probability of dropping the best equipment
+  that they can on their specific act and difficulty. This means they can drop stuff from
+  a higher treasure class.
 
 5.7.0 Changes
 ------------

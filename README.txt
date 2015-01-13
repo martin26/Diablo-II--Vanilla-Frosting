@@ -1,6 +1,6 @@
-Vanilla Frosting 5.7.0 for 1.13d
+Vanilla Frosting 5.8.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, January 10, 2015
+Released on Monday, January 12, 2015
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -15,6 +15,10 @@ Released on Saturday, January 10, 2015
 - Ladder Runewords are now enabled on Single Player.
 - The size of the stash, cube, and inventory have been increased.
 - All characters start out with a Horadric Cube
+- Massively improved drop rates for monsters, bosses, and chests.
+  Chests can drop a variety of more items, and monsters/bosses not only have
+  a higher probability of dropping uniques, sets, and rares, but can also drop
+  higher treasure classes.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
 	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
 	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
@@ -30,7 +34,6 @@ Released on Saturday, January 10, 2015
 New Cube Recipes:
 - Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
 - Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
-- Make Item Ethereal: Non-ethereal destructible armor or weapon + Stamina Potion + Town Portal Scroll
 - Unsocket and Preserve Gems/Runes and Item: Any weapon or Armor + Hel Rune + Antidote + Town Portal Scroll
 
 **** Client Enhancements ****

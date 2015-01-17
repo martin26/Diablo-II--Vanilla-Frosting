@@ -1,6 +1,6 @@
-Vanilla Frosting 5.8.0 for 1.13d
+Vanilla Frosting 5.9.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, January 12, 2015
+Released on Saturday, January 17, 2015
 -----------------------------------------------
 
 D2Game.dll:
@@ -14,6 +14,7 @@ CharStats.txt - Horadric Cube at Character Creation
 CubeMain.txt - New Cube Recipes
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 Inventory.txt - Stash, Cube, and Inventory Size
+ItemRatio.txt - 1.09 Item Ratio for Drop Rates
 LvlMaze.txt - Room Sizes
 Misc.txt - Lysander sells TP/ID Books & Scrolls
 MonStats.txt - Monster resistances and HP

@@ -1,6 +1,6 @@
-Vanilla Frosting 5.8.0 for 1.13d
+Vanilla Frosting 5.9.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, January 12, 2015
+Released on Saturday, January 17, 2015
 -----------------------------------------------
 
 Installation:

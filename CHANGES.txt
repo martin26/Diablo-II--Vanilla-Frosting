@@ -1,7 +1,16 @@
-Vanilla Frosting 5.8.0 for 1.13d
+Vanilla Frosting 5.9.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, January 12, 2015
+Released on Saturday, January 17, 2015
 -----------------------------------------------
+
+5.9.0 Changes
+------------
+- Reverted most monsters to drop their normal treasure classes.
+  > Only bosses and some unique monsters now drop the highest treasure
+    classes for their act.
+  > The overall drop rate and improve chests are still in effect.
+- The item ratio has been changed to that of 1.09.
+- Integrated "Pack Rat" Inventory/Stash/Cube mod into Vanilla Frosting.
 
 5.8.0 Changes
 ------------

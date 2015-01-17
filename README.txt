@@ -1,6 +1,6 @@
-Vanilla Frosting 5.8.0 for 1.13d
+Vanilla Frosting 5.9.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, January 12, 2015
+Released on Saturday, January 17, 2015
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -9,20 +9,19 @@ Released on Monday, January 12, 2015
 - You will now once again receive experience beyond 2 screens.
 - Maps have the same size on all difficulties.
 - The cows have the same resistances as in 1.09.
+- The item ratio for all items are the same as in 1.09.
 
 **** New Changes ****
 
 - Ladder Runewords are now enabled on Single Player.
 - The size of the stash, cube, and inventory have been increased.
 - All characters start out with a Horadric Cube
-- Massively improved drop rates for monsters, bosses, and chests.
-  Chests can drop a variety of more items, and monsters/bosses not only have
-  a higher probability of dropping uniques, sets, and rares, but can also drop
-  higher treasure classes.
+- Improved drop rates for monsters, bosses, and runes.
+- Chests have been improved. They can drop better gems and also have the chance to 
+  drop any runes that The Countess for that difficulty can drop.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
 	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
 	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
-- Improved rune drop rates
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
 - Monster resistances/immunities have been removed.

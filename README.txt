@@ -1,6 +1,6 @@
-Vanilla Frosting 5.9.0 for 1.13d
+Vanilla Frosting 6.0.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, January 17, 2015
+Released on Friday, May 15, 2015
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -14,8 +14,6 @@ Released on Saturday, January 17, 2015
 **** New Changes ****
 
 - Ladder Runewords are now enabled on Single Player.
-- The size of the stash, cube, and inventory have been increased.
-- All characters start out with a Horadric Cube
 - Improved drop rates for monsters, bosses, and runes.
 - Chests have been improved. They can drop better gems and also have the chance to 
   drop any runes that The Countess for that difficulty can drop.
@@ -25,8 +23,6 @@ Released on Saturday, January 17, 2015
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
 - Monster resistances/immunities have been removed.
-- Monster HP is the same between /players 8 and /players 1 which means that
-  you should play on /players 8 so that you can get the maximum amount of item drops.
 - Essences for the Token of Absolution no longer drop. You will only have the 3 respecs
   provided by Akara. Use them wisely.
 

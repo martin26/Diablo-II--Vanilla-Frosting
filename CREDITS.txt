@@ -7,9 +7,7 @@ and resources. Without them none of this would be possible.
 
 - Pharphis for advice and feedback on several decisions I was planning to make.
 
-- Sheer_Cold for the Horadric Cube at character creation and some cube recipes.
-
-- Tweak for making the "Packrat" storage plugin
+- Sheer_Cold for some of the cube recipes.
 
 The respective communities can be found below:
 
@@ -19,4 +17,3 @@ Diablo IncGamers: Single Player Forum (SPF):
 http://diablo.incgamers.com/forums/forumdisplay.php?3-Single-Player-Forum
 
 Sheer_Cold's Perfect Drop Mod: http://www.moddb.com/mods/perfect-drop-mod-104/
-Packrat Storage Plugin: http://d2mods.info/filecenter/dload.php?action=file&file_id=1176

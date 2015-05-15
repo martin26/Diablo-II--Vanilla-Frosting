@@ -1,8 +1,19 @@
-Vanilla Frosting 5.9.0 for 1.13d
+Vanilla Frosting 6.0.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, January 17, 2015
+Released on Friday, May 15, 2015
 -----------------------------------------------
 
+6.0.0
+------------
+- The size of the stash, cube, and inventory have been restored to normal. Use GoMule.
+- Characters no longer start out with a Horadric Cube
+- Monster HP is no longer the same between /players 8 and /players 1. It is back to normal.
+  The game became way easier once the characters acquired top end gear.
+  
+* For players migrating over from 5.9.0, the inventory size is back to normal, so before you
+  upgrade, you need to move the items out of the extra space sections of the character before
+  you switch them over. Just make sure the items are in an appropriate position.
+  
 5.9.0 Changes
 ------------
 - Reverted most monsters to drop their normal treasure classes.

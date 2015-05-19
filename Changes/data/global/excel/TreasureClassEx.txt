@@ -208,66 +208,66 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 6	3										0
-Act 2 Good	5	12	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 6	3										0
-Act 3 Good	5	18	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 6	3										0
-Act 4 Good	5	26	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 6	3										0
-Act 5 Good	5	32	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 6	3										0
-Act 1 (N) Good	5	38	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 12	3										0
-Act 2 (N) Good	5	42	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 12	3										0
-Act 3 (N) Good	5	46	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 12	3										0
-Act 4 (N) Good	5	51	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 12	3										0
-Act 5 (N) Good	5	57	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 12	3										0
-Act 1 (H) Good	5	66	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 17	3										0
-Act 2 (H) Good	5	72	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 17	3										0
-Act 3 (H) Good	5	78	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 17	3										0
-Act 4 (H) Good	5	82	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 17	3										0
-Act 5 (H) Good	5	85	1						Jewelry C	15	Chipped Gem	3	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 17	3										0
-Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip C	10	Act 1 Good	2																0
-Act 1 Chest B	6	5	4					100	gld	15	Act 1 Junk	15	Act 1 Equip C	10	Act 1 Good	2																0
-Act 1 Chest C	6	9	4					100	gld	15	Act 1 Junk	15	Act 1 Equip C	10	Act 1 Good	2																0
-Act 2 Chest A	6	12	4					100	gld	15	Act 2 Junk	15	Act 2 Equip C	10	Act 2 Good	2																0
-Act 2 Chest B	6	15	4					100	gld	15	Act 2 Junk	15	Act 2 Equip C	10	Act 2 Good	2																0
-Act 2 Chest C	6	18	4					100	gld	15	Act 2 Junk	15	Act 2 Equip C	10	Act 2 Good	2																0
-Act 3 Chest A	6	20	4					100	gld	15	Act 3 Junk	15	Act 3 Equip C	10	Act 3 Good	2																0
-Act 3 Chest B	6	22	4					100	gld	15	Act 3 Junk	15	Act 3 Equip C	10	Act 3 Good	2																0
+Act 1 Good	5	0	1						Jewelry C	60	Chipped Gem	10	Flawed Gem	10	Normal Gem	5	Flawless Gem	5	Perfect Gem	5	Runes 6	5										0
+Act 2 Good	5	12	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
+Act 3 Good	5	18	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
+Act 4 Good	5	26	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
+Act 5 Good	5	32	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
+Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 12	14										0
+Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 12	14										0
+Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 12	14										0
+Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 12	14										0
+Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 12	14										0
+Act 1 (H) Good	5	66	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 17	14										0
+Act 2 (H) Good	5	72	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 17	14										0
+Act 3 (H) Good	5	78	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 17	14										0
+Act 4 (H) Good	5	82	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 17	14										0
+Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 17	14										0
+Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
+Act 1 Chest B	6	5	4					100	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
+Act 1 Chest C	6	9	4					100	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
+Act 2 Chest A	6	12	4					100	gld	15	Act 2 Junk	15	Act 2 Equip A	10	Act 2 Good	2																0
+Act 2 Chest B	6	15	4					100	gld	15	Act 2 Junk	15	Act 2 Equip B	10	Act 2 Good	2																0
+Act 2 Chest C	6	18	4					100	gld	15	Act 2 Junk	12	Act 3 Junk	3	Act 2 Equip C	15	Act 2 Good	2														0
+Act 3 Chest A	6	20	4					100	gld	15	Act 3 Junk	15	Act 3 Equip A	10	Act 3 Good	2																0
+Act 3 Chest B	6	22	4					100	gld	15	Act 3 Junk	15	Act 3 Equip B	10	Act 3 Good	2																0
 Act 3 Chest C	6	24	4					100	gld	15	Act 3 Junk	15	Act 3 Equip C	10	Act 3 Good	2																0
-Act 4 Chest A	6	26	4					100	gld	15	Act 4 Junk	15	Act 4 Equip B	10	Act 4 Good	2																0
+Act 4 Chest A	6	26	4					100	gld	15	Act 4 Junk	15	Act 4 Equip A	10	Act 4 Good	2																0
 Act 4 Chest B	6	28	4					100	gld	15	Act 4 Junk	15	Act 4 Equip B	10	Act 4 Good	2																0
 Act 4 Chest C	6	30	4					100	gld	15	Act 4 Junk	15	Act 4 Equip B	10	Act 4 Good	2																0
-Act 5 Chest A	6	32	4					100	gld	15	Act 5 Junk	15	Act 5 Equip C	10	Act 5 Good	2																0
-Act 5 Chest B	6	34	4					100	gld	15	Act 5 Junk	15	Act 5 Equip C	10	Act 5 Good	2																0
-Act 5 Chest C	6	36	4					100	gld	15	Act 5 Junk	15	Act 5 Equip C	10	Act 5 Good	2																0
-Act 1 (N) Chest A	6	38	4					100	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip C	10	Act 1 (N) Good	2																0
-Act 1 (N) Chest B	6	40	4					100	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip C	10	Act 1 (N) Good	2																0
-Act 1 (N) Chest C	6	42	4					100	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip C	10	Act 1 (N) Good	2																0
-Act 2 (N) Chest A	6	44	4					100	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip C	10	Act 2 (N) Good	2																0
-Act 2 (N) Chest B	6	46	4					100	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip C	10	Act 2 (N) Good	2																0
-Act 2 (N) Chest C	6	48	4					100	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip C	10	Act 2 (N) Good	2																0
-Act 3 (N) Chest A	6	50	4					100	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip C	10	Act 3 (N) Good	2																0
-Act 3 (N) Chest B	6	52	4					100	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip C	10	Act 3 (N) Good	2																0
-Act 3 (N) Chest C	6	54	4					100	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip C	10	Act 3 (N) Good	2																0
-Act 4 (N) Chest A	6	56	4					100	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip C	10	Act 4 (N) Good	2																0
-Act 4 (N) Chest B	6	58	4					100	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip C	10	Act 4 (N) Good	2																0
+Act 5 Chest A	6	32	4					100	gld	15	Act 5 Junk	15	Act 5 Equip A	10	Act 5 Good	2																0
+Act 5 Chest B	6	34	4					100	gld	15	Act 5 Junk	15	Act 5 Equip B	10	Act 5 Good	2																0
+Act 5 Chest C	6	36	4					100	gld	15	Act 5 Junk	15	Act 5 Equip B	10	Act 5 Good	2																0
+Act 1 (N) Chest A	6	38	4					100	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip A	10	Act 1 (N) Good	2																0
+Act 1 (N) Chest B	6	40	4					100	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip B	10	Act 1 (N) Good	2																0
+Act 1 (N) Chest C	6	42	4					100	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip B	10	Act 1 (N) Good	2																0
+Act 2 (N) Chest A	6	44	4					100	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip A	10	Act 2 (N) Good	2																0
+Act 2 (N) Chest B	6	46	4					100	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip B	10	Act 2 (N) Good	2																0
+Act 2 (N) Chest C	6	48	4					100	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip B	10	Act 2 (N) Good	2																0
+Act 3 (N) Chest A	6	50	4					100	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip A	10	Act 3 (N) Good	2																0
+Act 3 (N) Chest B	6	52	4					100	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip B	10	Act 3 (N) Good	2																0
+Act 3 (N) Chest C	6	54	4					100	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip B	10	Act 3 (N) Good	2																0
+Act 4 (N) Chest A	6	56	4					100	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip A	10	Act 4 (N) Good	2																0
+Act 4 (N) Chest B	6	58	4					100	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip B	10	Act 4 (N) Good	2																0
 Act 4 (N) Chest C	6	60	4					100	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip C	10	Act 4 (N) Good	2																0
-Act 5 (N) Chest A	6	62	4					100	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip C	10	Act 5 (N) Good	2																0
-Act 5 (N) Chest B	6	64	4					100	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip C	10	Act 5 (N) Good	2																0
-Act 5 (N) Chest C	6	66	4					100	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip C	10	Act 5 (N) Good	2																0
-Act 1 (H) Chest A	6	68	4					100	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip C	10	Act 1 (H) Good	2																0
-Act 1 (H) Chest B	6	70	4					100	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip C	10	Act 1 (H) Good	2																0
-Act 1 (H) Chest C	6	71	4					100	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip C	10	Act 1 (H) Good	2																0
-Act 2 (H) Chest A	6	72	4					100	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip C	10	Act 2 (H) Good	2																0
-Act 2 (H) Chest B	6	74	4					100	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip C	10	Act 2 (H) Good	2																0
-Act 2 (H) Chest C	6	75	4					100	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip C	10	Act 2 (H) Good	2																0
-Act 3 (H) Chest A	6	76	4					100	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip C	10	Act 3 (H) Good	2																0
-Act 3 (H) Chest B	6	78	4					100	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip C	10	Act 3 (H) Good	2																0
-Act 3 (H) Chest C	6	79	4					100	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip C	10	Act 3 (H) Good	2																0
-Act 4 (H) Chest A	6	80	4					100	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip C	10	Act 4 (H) Good	2																0
-Act 4 (H) Chest B	6	81	4					100	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip C	10	Act 4 (H) Good	2																0
-Act 4 (H) Chest C	6	82	4					100	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip C	10	Act 4 (H) Good	2																0
-Act 5 (H) Chest A	6	83	4					100	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip C	10	Act 5 (H) Good	2																0
-Act 5 (H) Chest B	6	84	4					100	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip C	10	Act 5 (H) Good	2																0
-Act 5 (H) Chest C	6	85	4					100	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip C	10	Act 5 (H) Good	2																0
+Act 5 (N) Chest A	6	62	4					100	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip A	10	Act 5 (N) Good	2																0
+Act 5 (N) Chest B	6	64	4					100	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip B	10	Act 5 (N) Good	2																0
+Act 5 (N) Chest C	6	66	4					100	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip B	10	Act 5 (N) Good	2																0
+Act 1 (H) Chest A	6	68	4					100	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip A	10	Act 1 (H) Good	2																0
+Act 1 (H) Chest B	6	70	4					100	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip B	10	Act 1 (H) Good	2																0
+Act 1 (H) Chest C	6	71	4					100	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip B	10	Act 1 (H) Good	2																0
+Act 2 (H) Chest A	6	72	4					100	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip A	10	Act 2 (H) Good	2																0
+Act 2 (H) Chest B	6	74	4					100	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip B	10	Act 2 (H) Good	2																0
+Act 2 (H) Chest C	6	75	4					100	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip B	10	Act 2 (H) Good	2																0
+Act 3 (H) Chest A	6	76	4					100	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip A	10	Act 3 (H) Good	2																0
+Act 3 (H) Chest B	6	78	4					100	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip B	10	Act 3 (H) Good	2																0
+Act 3 (H) Chest C	6	79	4					100	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip B	10	Act 3 (H) Good	2																0
+Act 4 (H) Chest A	6	80	4					100	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip A	10	Act 4 (H) Good	2																0
+Act 4 (H) Chest B	6	81	4					100	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip B	10	Act 4 (H) Good	2																0
+Act 4 (H) Chest C	6	82	4					100	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip B	10	Act 4 (H) Good	2																0
+Act 5 (H) Chest A	6	83	4					100	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip A	10	Act 5 (H) Good	2																0
+Act 5 (H) Chest B	6	84	4					100	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip B	10	Act 5 (H) Good	2																0
+Act 5 (H) Chest C	6	85	4					100	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip B	10	Act 5 (H) Good	2																0
 Act 1 H2H A	7	0	1					100	gld	21	Act 1 Equip A	16	Act 1 Junk	21	Act 1 Good	2																0
 Act 1 H2H B	7	5	1					100	gld	21	Act 1 Equip B	16	Act 1 Junk	21	Act 1 Good	2																0
 Act 1 H2H C	7	9	1					100	gld	21	Act 1 Equip C	16	Act 1 Junk	21	Act 1 Good	2																0
@@ -824,7 +824,7 @@ Act 4 (H) Super Cx	18	87	-4	950	950	995	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpo
 Act 5 (H) Super Ax	18	90	-4	950	950	995	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
 Act 5 (H) Super Bx	18	93	-4	950	950	995	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
 Act 5 (H) Super Cx	18	96	-4	950	950	995	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
-Cow King			5	950	950	995	1024	0	Act 1 Uitem C	1	Act 1 Melee C	2																				0
+Cow King			5	950	950	995	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Cow King (N)			5	950	950	995	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Cow King (H)			5	950	950	995	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Duriel			5					0	tsc	1	Duriel - Base	2																				0

@@ -184,5 +184,3 @@ rune 05 + antidote -> rune 04	1			100					2	r05	yps						r04																				
 rune 04 + antidote -> rune 03	1			100					2	r04	yps						r03																																																																																							0
 rune 03 + antidote -> rune 02	1			100					2	r03	yps						r02																																																																																							0
 rune 02 + antidote -> rune 01	1			100					2	r02	yps						r01																																																																																							0
-any weapon + r15 + antidote + tsc -> Unsocket and Keep Gems (For Weapon)	1			100					4	"weap,any"	r15	yps	tsc				"useitem,rem"																																																																																							0
-any armor + r15 + antidote + tsc  -> Unsocket and Keep Gems (For Armor)	1			100					4	"armo,any"	r15	yps	tsc				"useitem,rem"																																																																																							0

@@ -1,7 +1,15 @@
-Vanilla Frosting 6.0.0 for 1.13d
+Vanilla Frosting 6.0.1 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, May 15, 2015
+Released on Tuesday, May 19, 2015
 -----------------------------------------------
+
+6.0.1
+------------
+- The rune extraction/preserve recipes have been removed since they allow a person to
+  pretty much re-roll with no penalty.
+ (Plus rune drop rates, methods of finding them have been improved for a while so it won't take
+  forever to actually find the runes - and don't forget that there are rune upgrade/downgrade recipes).
+- The chest drops rates have been redone.
 
 6.0.0
 ------------

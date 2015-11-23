@@ -5,7 +5,11 @@ and resources. Without them none of this would be possible.
   
 - Thyiad from the Diablo IncGamers Community for her kindness and support.
 
-- Pharphis for advice and feedback on several decisions I was planning to make.
+- Pharphis from the Diablo IncGamers Community for advice and feedback on
+  several decisions I was planning to make.
+
+- devurandom and lolet at PhrozenKeep for helping me with the /players 1 <> /players 8
+  experience, life, and item drop calc code.
 
 The respective communities can be found below:
 

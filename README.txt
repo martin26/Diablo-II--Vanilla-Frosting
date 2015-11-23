@@ -1,6 +1,6 @@
-Vanilla Frosting 6.0.1 for 1.13d
+Vanilla Frosting 6.1.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, May 19, 2015
+Released on Sunday, November 22, 2015
 -----------------------------------------------
 
 **** Back from 1.09 ****
@@ -17,13 +17,13 @@ Released on Tuesday, May 19, 2015
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
 	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
 	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
-- Improved drop rates for monsters, bosses, and runes.
-- Chests have been improved. They can drop better gems and also have the chance to 
-  drop any runes that The Countess for that difficulty can drop.
+- Improved drop rates for monsters, bosses, chests, and runes.
+  > Monsters, Bosses, and Chests will now have the chance of dropping:
+     > Jewelry from a higher tier, have a chance to drop a higher quality gem.
+     > A rune from the same group of runes that The Countess on that difficulty can drop.
+  > Rune drop rate probabilities have been improved.
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
-- Monster resistances/immunities have been mostly removed
-  * You might still encounter some immunes, but these are almost non-existent).
 - Essences for the Token of Absolution no longer drop. You will only have the 3 respecs
   provided by Akara. Use them wisely.
 
@@ -42,4 +42,4 @@ New Cube Recipes:
 
 **** Bug Fixes ****
 
-- Smith now has proper nightmare loot table.
+- Smith and Griswold now have a proper loot table for Nightmare difficulty.

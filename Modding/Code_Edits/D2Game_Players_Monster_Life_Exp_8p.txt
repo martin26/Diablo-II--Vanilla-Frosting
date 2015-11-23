@@ -1,0 +1,101 @@
+Version: 1.13d
+
+Old Monster Experience Code:
+
+6FC9DCCD    CC              INT3
+6FC9DCCE    CC              INT3
+6FC9DCCF    CC              INT3
+
+6FC9DCD0    83F8 09         CMP EAX,9
+6FC9DCD3    7D 08           JGE SHORT D2Game.6FC9DCDD
+6FC9DCD5    8B0485 2CBCD16F MOV EAX,DWORD PTR DS:[EAX*4+6FD1BC2C]
+6FC9DCDC    C3              RETN
+6FC9DCDD    8D8480 82000000 LEA EAX,DWORD PTR DS:[EAX+EAX*4+82]
+6FC9DCE4    D1E0            SHL EAX,1
+6FC9DCE6    C3              RETN
+
+6FC9DCE7    CC              INT3
+6FC9DCE8    CC              INT3
+6FC9DCE9    CC              INT3
+
+We want to basically NOP the condition since we don't need it anymore. Make the code jump to the EAX calcutation and make it
+set the experience to the same we would get as 8 players. Then NOP the last shift (SHL). After that we can return and call it a day.
+It should look as follows:
+
+New Monster Experience Code:
+
+6FC9DCCD    CC              INT3
+6FC9DCCE    CC              INT3
+6FC9DCCF    CC              INT3
+
+6FC9DCD0    90              NOP
+6FC9DCD1    90              NOP
+6FC9DCD2    90              NOP
+6FC9DCD3    EB 08           JMP SHORT D2Game.6FC9DCDD
+6FC9DCD5    8B0485 2CBCD16F MOV EAX,DWORD PTR DS:[EAX*4+6FD1BC2C]
+6FC9DCDC    C3              RETN
+6FC9DCDD    B8 5E010000     MOV EAX,15E
+6FC9DCE2    90              NOP
+6FC9DCE3    90              NOP
+6FC9DCE4    90              NOP
+6FC9DCE5    90              NOP
+6FC9DCE6    C3              RETN
+
+6FC9DCE7    CC              INT3
+6FC9DCE8    CC              INT3
+6FC9DCE9    CC              INT3
+
+A similar approach is done to the hit points (life) code of the monster. The code is a little below the code changes we made above
+and it looks as follows:
+
+Old Monster Life Code:
+
+6FC9DCED    CC              INT3
+6FC9DCEE    CC              INT3
+6FC9DCEF    CC              INT3
+
+6FC9DCF0    83F8 09         CMP EAX,9
+6FC9DCF3    7D 08           JGE SHORT D2Game.6FC9DCFD
+6FC9DCF5    8B0485 50BCD16F MOV EAX,DWORD PTR DS:[EAX*4+6FD1BC50]
+6FC9DCFC    C3              RETN
+6FC9DCFD    83C0 FE         ADD EAX,-2
+6FC9DD00    6BC0 32         IMUL EAX,EAX,32
+6FC9DD03    C3              RETN
+
+6FC9DD04    CC              INT3
+6FC9DD05    CC              INT3
+6FC9DD06    CC              INT3
+
+A similar approach is done here but at the body of the code at 6FC9DCFD, we will be changing ADD to MOV EAX,0 which basically
+means we will not increase the HP by anything (Keep it at the /players 1 value). The IMUL (Multiplication) should be removed automatically once
+you switch ADD to MOV. It should look as follows:
+
+New Monster Life Code:
+
+6FC9DCED    CC              INT3
+6FC9DCEE    CC              INT3
+6FC9DCEF    CC              INT3
+
+6FC9DCF0    90              NOP
+6FC9DCF1    90              NOP
+6FC9DCF2    90              NOP
+6FC9DCF3    EB 08           JMP SHORT D2Game.6FC9DCFD
+6FC9DCF5    8B0485 50BCD16F MOV EAX,DWORD PTR DS:[EAX*4+6FD1BC50]
+6FC9DCFC    C3              RETN
+6FC9DCFD    B8 00000000     MOV EAX,0
+6FC9DD02    90              NOP
+6FC9DD03    C3              RETN
+
+6FC9DD04    CC              INT3
+6FC9DD05    CC              INT3
+6FC9DD06    CC              INT3
+
+Sequence of Commands:
+CMP EAX,9
+JGE SHORT const
+MOV EAX,[EAX*4+const]
+
+There will be three hits. The first two are the ones we want.
+
+1.13d Experience Offset: 7DCD0
+1.13d Life Offset      : 7DCF0

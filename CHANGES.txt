@@ -1,8 +1,24 @@
-Vanilla Frosting 6.0.1 for 1.13d
+Vanilla Frosting 6.1.0 for 1.13d
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, May 19, 2015
+Released on Sunday, November 22, 2015
 -----------------------------------------------
 
+6.1.0
+------------
+- Resistances and Immunities are back to Normal (Stock). Cows resistances have been kept as 0 (1.09).
+- The /players command is basically useless now. At /players 1, the users will now have the /players 8
+  benefits, without the consequences:
+
+  - Monster experience is the same as /players 8
+  - Monster hit points are the same as /players 1
+  - Monster item drops and chest item drops are the same as /players 8.
+
+  At the moment, the only thing /players 8 is used for is if you want to increase the monster's
+  damage and attack rating. This might be removed in the future.
+- Slightly adjusted monster, bosses, chests - jewelery, gems, runes drop rates in Act 1 Normal.
+- Drop rates are back to stock for all monsters except for the improvements done to jewelry, gems, and runes.
+- Fixed Griswold's Nightmare loot table. Had same problem as Smith (Probably copied pasted by Blizzard).
+  
 6.0.1
 ------------
 - The rune extraction/preserve recipes have been removed since they allow a person to

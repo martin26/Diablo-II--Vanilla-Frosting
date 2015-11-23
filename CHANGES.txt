@@ -15,7 +15,7 @@ Released on Sunday, November 22, 2015
 
   At the moment, the only thing /players 8 is used for is if you want to increase the monster's
   damage and attack rating. This might be removed in the future.
-- Slightly adjusted monster, bosses, chests - jewelery, gems, runes drop rates in Act 1 Normal.
+- Slightly adjusted monster, bosses, chests - jewelry, gems, runes drop rates in Act 1 Normal.
 - Drop rates are back to stock for all monsters except for the improvements done to jewelry, gems, and runes.
 - Fixed Griswold's Nightmare loot table. Had same problem as Smith (Probably copied pasted by Blizzard).
   

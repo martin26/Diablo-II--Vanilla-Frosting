@@ -13,6 +13,16 @@ Released on Sunday, November 22, 2015
 
 **** New Changes ****
 
+- /players 1 is now the same as /players 8 but without the consequence of
+  the monsters having increased damage and attack rating.
+  
+  At /players 1:
+  - Monster experience is the same as /players 8
+  - Monster hit points is the same as /players 1
+  - Monster item drops and chest item drops are the same as /players 8.
+
+  Just open Diablo II, start a game, and enjoy :).
+
 - Ladder Runewords are now enabled on Single Player.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
 	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]

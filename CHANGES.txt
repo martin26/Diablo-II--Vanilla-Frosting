@@ -1,7 +1,11 @@
-Vanilla Frosting 7.0.0 [1.09d, 1.13d]
+Vanilla Frosting 7.0.1 [1.09b, 1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, April 17, 2016
+Released on Monday, April 18, 2016
 -----------------------------------------------
+
+7.0.1
+------------
+- Switched 1.09 base from 1.09d to 1.09b so that we have working CtC.
 
 7.0.0
 ------------

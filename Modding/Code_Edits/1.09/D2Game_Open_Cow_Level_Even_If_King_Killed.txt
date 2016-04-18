@@ -25,3 +25,10 @@ Switch line 6FC8E457 from TEST to XOR.
 6FC8E462   85C0             TEST EAX,EAX
 6FC8E464   75 28            JNZ SHORT D2Game.6FC8E48E
 6FC8E466   57               PUSH EDI
+
+Offsets:
+1.09b: 6FC8DFF7   85C0           TEST EAX,EAX
+1.09d: 6FC8E457   33C0           TEST EAX,EAX
+
+
+

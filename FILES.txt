@@ -1,10 +1,10 @@
-Vanilla Frosting 7.0.0 [1.09d, 1.13d]
+Vanilla Frosting 7.0.1 [1.09b, 1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, April 17, 2016
+Released on Monday, April 18, 2016
 -----------------------------------------------
 
 .
-├── 1.09d
+├── 1.09b
 │   ├── D2Game.dll
 │   ├── D2gfx.dll
 │   ├── D2Launch.dll
@@ -14,12 +14,12 @@ Released on Sunday, April 17, 2016
 │   ├── D2gfx.dll
 │   └── Patch_D2.mpq
 ├── Changes
-│   ├── 1.09
+│   ├── 1.09b
 │   │   └── data
 │   │       └── global
 │   │           └── excel
 │   │               └── CubeMain.txt
-│   └── 1.13
+│   └── 1.13d
 │       └── data
 │           └── global
 │               └── excel

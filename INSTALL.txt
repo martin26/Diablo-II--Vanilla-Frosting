@@ -1,6 +1,6 @@
-Vanilla Frosting 6.1.0 for 1.13d
+Vanilla Frosting 7.0.0 [1.09d, 1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, November 22, 2015
+Released on Sunday, April 17, 2016
 -----------------------------------------------
 
 Installation:
@@ -8,11 +8,8 @@ Installation:
 1. Backup your current Diablo II directory before installing. 
    A simple copy/paste of your current Diablo II folder will do.
 
-2. Extract and replace the following files into your Diablo II directory:
-
--> D2Game.dll
--> D2gfx.dll
--> Patch_D2.mpq
+2. Extract and replace all the files that are included in the target version
+   you want to play, and place them in your Diablo II folder.
 
 3. Enjoy.
 

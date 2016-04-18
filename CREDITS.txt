@@ -11,9 +11,14 @@ and resources. Without them none of this would be possible.
 - devurandom and lolet at PhrozenKeep for helping me with the /players 1 <> /players 8
   experience, life, and item drop calc code.
 
+- Myhrginoc at the PhrozenKeep for the 1.09 Cow King Check location and Allow Hardcore
+  http://d2mods.info/forum/viewtopic.php?f=8&t=39923&view=next
+  http://d2mods.info/forum/viewtopic.php?f=8&t=38106&hilit=enable+hardcore+1.09
+
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/
 
 Diablo IncGamers: Single Player Forum (SPF): 
 http://diablo.incgamers.com/forums/forumdisplay.php?3-Single-Player-Forum
+

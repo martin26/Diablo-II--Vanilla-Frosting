@@ -1,7 +1,23 @@
-Vanilla Frosting 6.1.0 for 1.13d
+Vanilla Frosting 7.0.0 [1.09d, 1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, November 22, 2015
+Released on Sunday, April 17, 2016
 -----------------------------------------------
+
+7.0.0
+------------
+- Vanilla Frosting now supports 1.09d.
+
+Since VF primarily re-implemented 1.09 features in 1.10+,
+it makes logical sense to just use 1.09d and include only the
+specific components that are necessary to enhance the 1.09 experience.
+
+> Hardcore characters can be made even without beating Softcore.
+> The 'players' command is no longer needed as well and the statistics are
+  the same as the VF 1.13d stuff (exp and item drops are the same as an 8 player group,
+  but HP is the same as a 1 player game).
+> Multiple 1.09d clients are allowed.
+> You can now open the Cow Level with just a town portal book.
+> You can now open the Cow Level even if you kill the King.
 
 6.1.0
 ------------

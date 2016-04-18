@@ -29,6 +29,3 @@ Switch line 6FC8E457 from TEST to XOR.
 Offsets:
 1.09b: 6FC8DFF7   85C0           TEST EAX,EAX
 1.09d: 6FC8E457   33C0           TEST EAX,EAX
-
-
-

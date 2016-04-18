@@ -1,4 +1,4 @@
-Vanilla Frosting 7.0.1 [1.09b, 1.13d]
+Vanilla Frosting 7.0.2 [1.09d, 1.13d]
 By Jonathan Vasquez (fearedbliss)
 Released on Monday, April 18, 2016
 -----------------------------------------------
@@ -6,7 +6,7 @@ Released on Monday, April 18, 2016
 Vanilla Frosting is a Diablo II mod that was designed to try to keep Diablo II as Vanilla
 as possible, while enhancing and tailoring it to the Single Player experience.
 
-**** Shared changes between 1.09b and 1.13d ****
+**** Shared changes between 1.09d and 1.13d ****
 
 - The 'players' command is no longer used. In exchange, you will
   automatically have the following benefits enabled:
@@ -21,9 +21,10 @@ as possible, while enhancing and tailoring it to the Single Player experience.
 - You can now open the Cow Level even if you kill the King.
 - You can now run multiple instances of Diablo II.
 
-**** 1.09b Specific Changes ****
+**** 1.09d Specific Changes ****
 
 - You can make a hardcore character even if you didn't beat softcore.
+- Chance to Cast bug has now been fixed.
 
 **** 1.13d Specific Changes ****
 

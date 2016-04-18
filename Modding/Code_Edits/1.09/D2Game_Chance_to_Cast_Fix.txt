@@ -1,0 +1,32 @@
+By FoxBat, with a lot of help from Myhrginoc
+
+This is a dll for 1.09d that will enable chance-to-cast-skill 
+item effects that were broken by this patch.  In normal 1.09d you can
+see the effects but they don't actually do anything, this d2game.dll
+will fix that.  This dll also allows players to open the cow portal even
+if they have previously killed the cow king.
+
+If you would like to copy the cast-effect fix to your own mod dll or such, this is what must be done.
+
+B52EE: E8 6D 0D 02 00    Call D6060
+
+B538D: E8 CE 0C 02 00    Call D6060
+
+Then, go to the included dll, and copy from D6060 to D6225. 
+Delete this area from the new dll, and then copy this into it's place.
+
+The two hand changes are the two calls to the cast-effect function. 
+We are changing them because we copied a larger version of the function
+from 1.09b to D6060.  This is unused code area in D2game.dll 1.09d.
+If you are copying to a mod's dll, be sure that the space between d6060 and d6225
+is full of 00s (which should mean the modder hasn't used this space for anything).
+
+You can relocate the cast-effect function, but if you do so, you will need
+to change all of the function calls in the cast-effect function, both internal
+and external, to match the new location.  Obviously you will also need to
+change the two calls to the function detailed above.  You can even put this
+in a d2extra if you like, but I kept it in d2game as d2gs server software
+does not like d2extra.
+
+Since we are ignoring the old 1.09d cast effect function, you should now be
+able to use that area (B5310 - B5388) for your own new code if you like.

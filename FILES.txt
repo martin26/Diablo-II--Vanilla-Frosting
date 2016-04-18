@@ -1,10 +1,10 @@
-Vanilla Frosting 7.0.1 [1.09b, 1.13d]
+Vanilla Frosting 7.0.2 [1.09d, 1.13d]
 By Jonathan Vasquez (fearedbliss)
 Released on Monday, April 18, 2016
 -----------------------------------------------
 
 .
-├── 1.09b
+├── 1.09d
 │   ├── D2Game.dll
 │   ├── D2gfx.dll
 │   ├── D2Launch.dll
@@ -14,7 +14,7 @@ Released on Monday, April 18, 2016
 │   ├── D2gfx.dll
 │   └── Patch_D2.mpq
 ├── Changes
-│   ├── 1.09b
+│   ├── 1.09d
 │   │   └── data
 │   │       └── global
 │   │           └── excel
@@ -38,6 +38,7 @@ Released on Monday, April 18, 2016
 ├── Modding
 │   ├── Code_Edits
 │   │   ├── 1.09
+│   │   │   ├── D2Game_Chance_to_Cast_Fix.txt
 │   │   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
 │   │   │   ├── D2Game_Player_Settings.txt
 │   │   │   └── D2Launch_Enable_Hardcore.txt
@@ -51,4 +52,4 @@ Released on Monday, April 18, 2016
 │   └── WHATIS.txt
 └── README.txt
 
-15 directories, 31 files
+15 directories, 32 files

@@ -208,7 +208,7 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry C	60	Chipped Gem	60	Flawed Gem	3	Normal Gem	3	Flawless Gem	3	Perfect Gem	3	Runes 6	3										0
+Act 1 Good	5	0	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
 Act 2 Good	5	12	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
 Act 3 Good	5	18	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
 Act 4 Good	5	26	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Perfect Gem	4	Runes 6	14										0
@@ -705,7 +705,7 @@ Council			3	650	800	800	1024	19	"gld,mul=1280"	9	Act 4 Equip A	15	Act 4 Junk	5	A
 Council (N)			3	650	800	800	1024	19	"gld,mul=1536"	9	Act 4 (N) Equip A	15	Act 4 (N) Junk	5	Act 4 (N) Good	3	Act 4 (N) Magic A	4														0
 Council (H)			3	650	800	800	1024	19	"gld,mul=2048"	9	Act 4 (H) Equip A	15	Act 4 (H) Junk	5	Act 4 (H) Good	3	Act 4 (H) Magic A	4														0
 Griswold			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
-Griswold (N)			-3					0	Act 1 (N) Uitem C	1	Act 1 (N) Melee B	2																				0
+Griswold (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Cow			1					100	gld	19	Act 5 Equip A	19	Act 5 Junk	19	Act 5 Good	3																0
 Cow (N)			1					100	gld	19	Act 5 (N) Equip A	19	Act 5 (N) Junk	19	Act 5 (N) Good	3																0
@@ -729,7 +729,7 @@ Blood Raven			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 1 Equip B	19	Act 1 Jun
 Blood Raven (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 1 (N) Equip B	19	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
 Blood Raven (H)			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 1 (H) Equip B	19	Act 1 (H) Junk	5	Act 1 (H) Good	3																0
 Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
-Smith (N)			-3					0	Act 1 (N) Uitem C	1	Act 1 (N) Melee B	2																				0
+Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
 Izual			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
 Izual (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
@@ -827,12 +827,12 @@ Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpo
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Cow King (N)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Cow King (H)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Duriel			5					0	tsc	1	Duriel - Base	2																				0
-Duriel (N)			5					0	tsc	1	Duriel (N) - Base	2																				0
-Duriel (H)			5					0	tsc	1	Duriel (H) - Base	2																				0
-Durielq			5					0	tsc	1	Durielq - Base	2																				0
-Durielq (N)			5					0	tsc	1	Durielq (N) - Base	2																				0
-Durielq (H)			5					0	tsc	1	Durielq (H) - Base	2																				0
+Duriel			-2					0	tsc	1	Duriel - Base	1																				0
+Duriel (N)			-2					0	tsc	1	Duriel (N) - Base	1																				0
+Duriel (H)			-2					0	tsc	1	Duriel (H) - Base	1																				0
+Durielq			-2					0	tsc	1	Durielq - Base	1																				0
+Durielq (N)			-2					0	tsc	1	Durielq (N) - Base	1																				0
+Durielq (H)			-2					0	tsc	1	Durielq (H) - Base	1																				0
 ROP			1	1024				0	Diablo	1																						0
 ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
 ROP (H)			1	1024				0	Annihilus	1																						0
@@ -845,10 +845,3 @@ Countess Item (H)			5					19	"gld,mul=2048"	11	Act 1 (H) Equip C	19	Act 2 (H) Ju
 Countess			-2	883	883	883	1024	0	Countess Item	1	Countess Rune	1																				0
 Countess (N)			-2	883	883	983	1024	0	Countess Item (N)	1	Countess Rune (N)	1																				0
 Countess (H)			-2	883	883	983	1024	0	Countess Item (H)	1	Countess Rune (H)	1																				0
-Uber Andariel			1	1024				0	dhn	1																						0
-Uber Duriel			1	1024				0	bey	1																						0
-Uber Izual			1	1024				0	mbr	1																						0
-Pandemonium Key A			1	1024				0	pk1	1																						0
-Pandemonium Key B			1	1024				0	pk2	1																						0
-Pandemonium Key C			1	1024				0	pk3	1																						0
-																																0

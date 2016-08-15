@@ -11,9 +11,10 @@ and resources. Without them none of this would be possible.
 - devurandom and lolet at PhrozenKeep for helping me with the /players 1 <> /players 8
   experience, life, and item drop calc code.
 
-- Myhrginoc at the PhrozenKeep for the 1.09 Cow King Check location and Allow Hardcore
+- Myhrginoc at the PhrozenKeep for the 1.09/1.10 Cow King Check location and Allow Hardcore
   http://d2mods.info/forum/viewtopic.php?f=8&t=39923&view=next
   http://d2mods.info/forum/viewtopic.php?f=8&t=38106&hilit=enable+hardcore+1.09
+  http://d2mods.info/forum/viewtopic.php?f=8&t=43562&hilit=1.10+cow+king+portal
 
 - FoxBat and Myhrginoc for the 1.09d Chance to Cast Fix
 

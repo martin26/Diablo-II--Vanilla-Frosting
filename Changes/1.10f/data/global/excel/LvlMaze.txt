@@ -79,5 +79,3 @@ Act 5 - Baal 1	128	9	9	9	16	16	500	0
 Act 5 - Baal 1	129	9	9	9	16	16	500	0
 Act 5 - Baal 1	130	9	9	9	16	16	500	0
 Act 5 - Baal 1	132	9	9	9	16	16	500	0
-Act 5 - Pandemonium Run 1	133	12	12	12	8	8	500	0
-Act 5 - Pandemonium Run 3	135	3	3	3	24	24	500	0

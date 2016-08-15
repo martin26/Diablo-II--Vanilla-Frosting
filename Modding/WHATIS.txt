@@ -1,27 +1,25 @@
-Vanilla Frosting 7.0.2 [1.09d, 1.13d]
+Vanilla Frosting 8.0.0 (1.09d, 1.10f)
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, April 18, 2016
+Released on Sunday, August 14, 2016
 -----------------------------------------------
 
 D2Game.dll:
 	- Ability to open Cow Level even if King was killed
 	- Experience beyond two screens
-        - Monster HP and Experience and Item Drop Amounts are the same between /players 1 and /players 8
+    - Monster HP, Experience, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
 
 D2gfx.dll:
 	- Multiple Diablo II Windows
 
+D2Launch.dll
+	- Allow Hardcore
+
 CubeMain.txt - New Cube Recipes
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
-ItemRatio.txt - 1.09 Item Ratio for Drop Rates
 LvlMaze.txt - Room Sizes
-Misc.txt - Lysander sells TP/ID Books & Scrolls
 MonStats.txt - Cow resistances
 Runes.txt - Runewords
-TreasureClassEx.txt - 
+TreasureClassEx.txt:
     - Improved rune drop rates
     - Improved jewelry, gems, and runes drop rates for all act monsters and chests.
-    - Keys no longer drop from Countess/Summoner/Nihlathak
-    - Essences no longer drop
-    - Smith and Griswold now have a proper Nightmare loot table.
     - Countess can drop up to Zod

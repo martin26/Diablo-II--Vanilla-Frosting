@@ -28,10 +28,15 @@ HOW TO FIND THE OFFSET:
    You probably will get a window that says "Copy selection to executable file", press "Copy all"
    
    A new window will open up with a "D" at the top left. Right click the window and press "Save file" and save it. That's it. You now have a new Modified D2gfx.dll.
-   
+
+1.00 - 1.06 Offset: N/A [Re-using DLL from FrozenKeep. Check the CREDITS file for Thanks!]
 1.07 Offset : 445C
 1.08 Offset : 447C
+1.09a Offset: 447C
+1.09b Offset: 447C
 1.09d Offset: 447C
+1.10b Offset: 446A
+1.10s Offset: 446A
 1.10f Offset: 446A
 1.11b Offset: 84AF
 1.12a Offset: 894F

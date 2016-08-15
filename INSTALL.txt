@@ -1,6 +1,6 @@
-Vanilla Frosting 7.0.2 [1.09d, 1.13d]
+Vanilla Frosting 8.0.0 (1.09d, 1.10f)
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, April 18, 2016
+Released on Sunday, August 14, 2016
 -----------------------------------------------
 
 Installation:

@@ -1,8 +1,19 @@
-Vanilla Frosting 7.0.2 [1.09d, 1.13d]
+Vanilla Frosting 8.0.0 (1.09d, 1.10f)
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, April 18, 2016
+Released on Sunday, August 14, 2016
 -----------------------------------------------
 
+8.0.0
+------------
+- Rebased the mod from 1.13d version of Diablo II back to 1.10f. 1.10 was the last 
+  version of Diablo II developed by Blizzard North. This brings the game back
+  to before keys, essences, and respecs were introduced.
+  
+- For the 1.10f, a few things are no longer included from the 1.13d stuff that VF 7.0.2 had:
+  > Item Ratios are back to what they were in original 1.10 (rather than bringing them back to 1.09).
+  > Smith and Griswold loot tables are back to what they were (with wrong loot table - hell drops in NM) for Nightmare difficulty.
+  > Lysander no longer sells TP/ID Books & Scrolls (since he didn't in the original game).
+  
 7.0.2
 ------------
 - Switched 1.09 back to 1.09d and just fixed the Chance to Cast bug only.

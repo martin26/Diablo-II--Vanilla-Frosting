@@ -99,3 +99,52 @@ There will be three hits. The first two are the ones we want.
 
 1.13d Experience Offset: 7DCD0
 1.13d Life Offset      : 7DCF0
+
+--------------------
+
+1.10f
+
+Old:
+
+00030EFD   83F8 09          CMP EAX,9
+00030F00   7D 09            JGE SHORT 00030F0B
+00030F02   8B0C85 BC86D26F  MOV ECX,DWORD PTR DS:[EAX*4+6FD286BC]
+00030F09   EB 09            JMP SHORT 00030F14
+00030F0B   8D4C80 F6        LEA ECX,DWORD PTR DS:[EAX+EAX*4-A]
+00030F0F   8D0C89           LEA ECX,DWORD PTR DS:[ECX+ECX*4]
+00030F12   03C9             ADD ECX,ECX
+00030F14   83F8 09          CMP EAX,9
+00030F17   890E             MOV DWORD PTR DS:[ESI],ECX
+00030F19   7D 0F            JGE SHORT 00030F2A
+00030F1B   8B0C85 E486D26F  MOV ECX,DWORD PTR DS:[EAX*4+6FD286E4]
+00030F22   8946 10          MOV DWORD PTR DS:[ESI+10],EAX
+00030F25   894E 04          MOV DWORD PTR DS:[ESI+4],ECX
+
+New:
+00030EFD   90               NOP
+00030EFE   90               NOP
+00030EFF   90               NOP
+00030F00   90               NOP
+00030F01   90               NOP
+00030F02   B9 00000000      MOV ECX,0                   ; Set life to 0% increase
+00030F07   90               NOP
+00030F08   90               NOP
+00030F09   EB 09            JMP SHORT 00030F14
+00030F0B   8D4C80 F6        LEA ECX,DWORD PTR DS:[EAX+EAX*4-A]
+00030F0F   8D0C89           LEA ECX,DWORD PTR DS:[ECX+ECX*4]
+00030F12   03C9             ADD ECX,ECX
+00030F14   90               NOP
+00030F15   90               NOP
+00030F16   90               NOP
+00030F17   890E             MOV DWORD PTR DS:[ESI],ECX
+00030F19   90               NOP
+00030F1A   90               NOP
+00030F1B   B9 5E010000      MOV ECX,15E                 ; Get exp from array and set it MAX = 15E
+00030F20   90               NOP
+00030F21   90               NOP
+00030F22   8946 10          MOV DWORD PTR DS:[ESI+10],EAX  ; Not sure what this variable is using the player count for, but keep EAX consistent with max players 8
+00030F25   894E 04          MOV DWORD PTR DS:[ESI+4],ECX
+00030F28   EB 18            JMP SHORT 00030F42
+
+
+

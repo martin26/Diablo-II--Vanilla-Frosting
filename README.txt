@@ -1,12 +1,19 @@
-Vanilla Frosting 8.0.0 (1.09d, 1.10f)
+Vanilla Frosting 8.1.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, August 14, 2016
------------------------------------------------
+Released on Tuesday, August 16, 2016
+----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to try to keep Diablo II as Vanilla
 as possible, while enhancing and tailoring it to the Single Player experience.
 
-**** Shared changes between 1.09d and 1.10f ****
+>> Back from 1.09 <<
+
+- The experience penalty after level 70 has been removed.
+- You will now once again receive experience beyond 2 screens.
+- Maps have the same size on all difficulties.
+- The cows have the same resistances as in 1.09 (0).
+
+>> Newer Changes <<
 
 - The 'players' command is no longer used. In exchange, you will
   automatically have the following benefits enabled:
@@ -21,30 +28,14 @@ as possible, while enhancing and tailoring it to the Single Player experience.
 - You can now open the Cow Level even if you kill the King.
 - You can now run multiple instances of Diablo II.
 
-**** 1.09d Specific Changes ****
-
-- You can make a hardcore character even if you didn't beat softcore.
-- Chance to Cast bug has now been fixed.
-
-**** 1.10f Specific Changes ****
-
->> Back from 1.09 <<
-
-- The experience penalty after level 70 has been removed.
-- You will now once again receive experience beyond 2 screens.
-- Maps have the same size on all difficulties.
-- The cows have the same resistances as in 1.09 (0).
-
->> Newer Changes <<
-
 - Ladder Runewords are now enabled on Single Player.
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
-	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
-	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
+    Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
+    After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
 - Improved drop rates for monsters, bosses, chests, and runes.
   > Monsters, Bosses, and Chests will now have the chance of dropping:
     > Jewelry from a higher tier
-	> Chance to drop a higher quality gem.
+    > Chance to drop a higher quality gem.
     > A rune from the same group of runes that The Countess on that difficulty can drop.
   > Rune drop rate probabilities have been improved.
 

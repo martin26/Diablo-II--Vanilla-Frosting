@@ -1,18 +1,18 @@
-Vanilla Frosting 8.0.0 (1.09d, 1.10f)
+Vanilla Frosting 8.1.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, August 14, 2016
------------------------------------------------
+Released on Tuesday, August 16, 2016
+----------------------------------------
 
 Installation:
 -------------
 1. Backup your current Diablo II directory before installing. 
    A simple copy/paste of your current Diablo II folder will do.
 
-2. Extract and replace all the files that are included in the target version
-   you want to play, and place them in your Diablo II folder.
+2. Copy all of the files in the "Files" folder in this mod into your
+   Diablo II folder, replacing the files that are already there.
 
 3. Enjoy.
 
 Uninstallation:
-Copy and Replace all the files in your Diablo II directory with the ones in
-the "Stock" folder.
+1. Copy all of the files in the "Stock" folder in this mod into your
+   Diablo II folder, replacing the files that are already there.

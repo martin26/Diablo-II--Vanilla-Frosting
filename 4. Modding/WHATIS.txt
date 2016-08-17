@@ -1,23 +1,20 @@
-Vanilla Frosting 8.0.0 (1.09d, 1.10f)
+Vanilla Frosting 8.1.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, August 14, 2016
------------------------------------------------
+Released on Tuesday, August 16, 2016
+----------------------------------------
 
 D2Game.dll:
-	- Ability to open Cow Level even if King was killed
-	- Experience beyond two screens
+    - Ability to open Cow Level even if King was killed
+    - Experience beyond two screens
     - Monster HP, Experience, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
 
 D2gfx.dll:
-	- Multiple Diablo II Windows
-
-D2Launch.dll
-	- Allow Hardcore
+    - Multiple Diablo II Windows
 
 CubeMain.txt - New Cube Recipes
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
 LvlMaze.txt - Room Sizes
-MonStats.txt - Cow resistances
+MonStats.txt - Cow Resistances
 Runes.txt - Runewords
 TreasureClassEx.txt:
     - Improved rune drop rates

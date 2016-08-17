@@ -1,8 +1,17 @@
-Vanilla Frosting 8.0.0 (1.09d, 1.10f)
+Vanilla Frosting 8.1.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, August 14, 2016
------------------------------------------------
+Released on Tuesday, August 16, 2016
+----------------------------------------
 
+8.1.0
+------------
+- 1.09 support has been completely removed and the mod is rebased back to 1.13d.
+- Some loot tables in Normal Act 1 will now only drop Jewelry and Chipped Gems.
+- Item Ratios are back to what they were in original 1.10 (rather than bringing them back to 1.09).
+- Smith and Griswold loot tables are back to what they were (with wrong loot table - hell drops in NM) for Nightmare difficulty.
+- Lysander no longer sells TP/ID Books & Scrolls (since he didn't in the original game).
+- Including the original files that this mod changes in case you want to easily uninstall the mod.
+  
 8.0.0
 ------------
 - Rebased the mod from 1.13d version of Diablo II back to 1.10f. 1.10 was the last 

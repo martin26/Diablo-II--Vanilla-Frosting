@@ -1,8 +1,14 @@
-Vanilla Frosting 8.1.0 [1.13d]
+Vanilla Frosting 8.2.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, August 16, 2016
+Released on Wednesday, August 31, 2016
 ----------------------------------------
 
+8.2.0
+------------
+- Reverted the chest/monster item drops to be the same as vanilla,
+  with the exception that any difficulty that can drop a rune, will still
+  drop any run up to what The Countess can drop in that difficulty.
+  
 8.1.0
 ------------
 - 1.09 support has been completely removed and the mod is rebased back to 1.13d.

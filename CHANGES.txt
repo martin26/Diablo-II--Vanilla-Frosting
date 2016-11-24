@@ -1,7 +1,31 @@
-Vanilla Frosting 8.2.0 [1.13d]
+Vanilla Frosting 8.3.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, August 31, 2016
+Released on Thursday, November 24, 2016
 ----------------------------------------
+
+8.3.0
+------------
+- The infinite loop bug that caused the game to use a lot of CPU resources (25%-50%+)
+  is now fixed in game (still happens in menu and character creation screen).
+- Smith and Griswold Nightmare loot table is now fixed.
+- Lysander in Act 2 now sells TP/ID Books & Scrolls.
+- All new characters start out with a horadric cube.
+- Increased the size of the stash and cube in order to encourage players to:
+  1. Balance the pros/cons of keeping an item
+  2. Keep the players actively engaged in their current games
+  3. Reduce frequency of having to leave the game to mule
+  4. Make VF independent from external applications (ATMA/GoMule)
+ 
+* Notes *
+  - This means VF is no longer compatible with external muling applications like ATMA or GoMule.
+    
+  - TLDR; Don't use GoMule with Classic characters or you will lose all your items.
+  
+    GoMule (by design) doesn't support Classic characters and if you open a Classic
+    character in GoMule and save, you will get a "dead bodies" error when
+    loading that character. The solution to recover your character is to take all of that character's
+    items off that character permanently. You will _not_ be able to get those items back.
+    This is not a VF issue, GoMule just _doesn't support_ Classic.
 
 8.2.0
 ------------
@@ -112,9 +136,9 @@ specific components that are necessary to enhance the 1.09 experience.
 5.7.0 Changes
 ------------
 - 4 New Cube Recipes (Weapon and Armor are each a recipe):
-	Non-ethereal destructible armor or weapon + Stamina Potion + Town Portal Scroll = Makes the item Ethereal
-	Any weapon or Armor + Hel Rune + Antidote + Town Portal Scroll = Unsockets Item and keeps both gems/runes and the item (Preserve)
-	
+    Non-ethereal destructible armor or weapon + Stamina Potion + Town Portal Scroll = Makes the item Ethereal
+    Any weapon or Armor + Hel Rune + Antidote + Town Portal Scroll = Unsockets Item and keeps both gems/runes and the item (Preserve)
+    
 5.6.2 Changes
 ------------
 - The inventory space has now been increased.
@@ -144,8 +168,8 @@ specific components that are necessary to enhance the 1.09 experience.
 5.5.1 Changes
 ------------
 - Major improvements to rune drop rates
-	Runes 19+ have about 1% chance to drop
-	Runes below 19 have been equalized depending on their previous values.
+    Runes 19+ have about 1% chance to drop
+    Runes below 19 have been equalized depending on their previous values.
 - Monsters will once again have a chance to not drop something
 
 5.5.0 Changes
@@ -184,27 +208,27 @@ but without having the monster's HP increase.
 - Monster levels and resistances have been restored to 1.13d defaults, and then all resistances
   have been reduced to a maximum of 100 (Thus immunities that drop below 100 are broken).
 - The levels and resistances for the following bosses and monsters have been changed to those similar in 1.09:
-	- Andariel
-	- Duriel
-	- Mephisto
-	- Diablo
-	- Baal
-	- Ancients
-	- Cows
+    - Andariel
+    - Duriel
+    - Mephisto
+    - Diablo
+    - Baal
+    - Ancients
+    - Cows
 - Removed the "Vanilla Frosting" label from the main screen
 - The following items no longer drop since they are useless on Single Player, and TCP/IP:
-	- Key of Terror from The Countess
-	- Key of Hate from the Summoner
-	- Key of Destruction from Nihlathak
-	
+    - Key of Terror from The Countess
+    - Key of Hate from the Summoner
+    - Key of Destruction from Nihlathak
+    
 5.1.0 Changes
 ------------
 - The following is back to vanilla: Pindleskin, Tresh Socket, Shenk the Overseer, Eldritch the Rectifier, Council Members, and Ancients.
 - Akara no longer sells the token of absolution but rather essences can now drop on all difficulties.
 - Countess now has an even rune distribution throughout difficulties which go up to Zod.
-	Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
-	After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
-	
+    Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
+    After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
+    
 5.0.1 Changes
 ------------
 - Rune colors are now back to normal
@@ -223,11 +247,11 @@ but without having the monster's HP increase.
 - (From 1.09): Act Bosses, Council Members, Countess, and Ancients have resistances similar to those in 1.09.
 
 - Runes are now colored based on their value range. This allows you to quickly detect the worth of the rune.
-	> Runes 1 - 11 (El-Amn) are Orange
-	> Runes 12 - 22 (Sol-Um) are Blue
-	> Runes 23 - 33 (Mal-Zod) are Purple
-	
-- The Countess can now drop up to Zod	
+    > Runes 1 - 11 (El-Amn) are Orange
+    > Runes 12 - 22 (Sol-Um) are Blue
+    > Runes 23 - 33 (Mal-Zod) are Purple
+    
+- The Countess can now drop up to Zod   
 - You can now open the Cow Level with just 1 Town Portal Book (No Leg Needed).
 - You can now open the Cow Level even if you kill the King.
 - Akara now sells the Token of Absolution, and Essences no longer drop from Act Bosses.
@@ -273,7 +297,7 @@ but without having the monster's HP increase.
 ------------
 - Runes are now red
 - Changed the CubeMain.txt back to default settings (except 1 tp to cow level). 
-	* This basically restores the cube recipes so that some only work on ladder (Doesn't affect Single Player, only non-ladder).
+    * This basically restores the cube recipes so that some only work on ladder (Doesn't affect Single Player, only non-ladder).
 
 4.5.0 Changes
 ------------

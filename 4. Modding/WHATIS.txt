@@ -1,8 +1,12 @@
-Vanilla Frosting 8.2.0 [1.13d]
+Vanilla Frosting 8.3.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, August 31, 2016
+Released on Thursday, November 24, 2016
 ----------------------------------------
 
+D2Client.dll:
+    - Fixes the infinite loop CPU bug that caused the CPU to stay at 25%~+ and 50%~+ CPU usage in single player
+      and multi-player games respectively.
+      
 D2Game.dll:
     - Ability to open Cow Level even if King was killed
     - Experience beyond two screens
@@ -11,9 +15,12 @@ D2Game.dll:
 D2gfx.dll:
     - Multiple Diablo II Windows
 
+CharStats.txt - Horadric Cube at Character Creation
 CubeMain.txt - New Cube Recipes
 Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
+Inventory.txt - Stash & Cube Size
 LvlMaze.txt - Room Sizes
+Misc.txt - Lysander sells TP/ID Books & Scrolls
 MonStats.txt - Cow Resistances
 Runes.txt - Runewords
 TreasureClassEx.txt:

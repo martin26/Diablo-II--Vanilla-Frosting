@@ -10,6 +10,8 @@ and resources. Without them none of this would be possible.
 
 - devurandom and lolet at PhrozenKeep for helping me with the /players 1 <> /players 8
   experience, life, and item drop calc code.
+ 
+- devurandom and killer-gorilla for the infinite loop cpu fix
 
 The respective communities can be found below:
 

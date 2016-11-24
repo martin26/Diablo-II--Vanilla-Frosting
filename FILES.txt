@@ -1,37 +1,48 @@
-Vanilla Frosting 8.2.0 [1.13d]
+Vanilla Frosting 8.3.0 [1.13d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, August 31, 2016
+Released on Thursday, November 24, 2016
 ----------------------------------------
 
 .
 ├── 1. Files
+│   ├── D2Client.dll
 │   ├── D2Game.dll
 │   ├── D2gfx.dll
 │   └── Patch_D2.mpq
 ├── 2. Stock
+│   ├── D2Client.dll
 │   ├── D2Game.dll
 │   ├── D2gfx.dll
 │   └── Patch_D2.mpq
 ├── 3. Changes
-│   └── 1.13d
-│       └── data
-│           └── global
-│               └── excel
-│                   ├── CubeMain.txt
-│                   ├── Experience.txt
-│                   ├── LvlMaze.txt
-│                   ├── MonStats.txt
-│                   ├── Runes.txt
-│                   └── TreasureClassEx.txt
+│   └── data
+│       └── global
+│           ├── excel
+│           │   ├── CharStats.txt
+│           │   ├── CubeMain.txt
+│           │   ├── Experience.txt
+│           │   ├── Inventory.txt
+│           │   ├── LvlMaze.txt
+│           │   ├── Misc.txt
+│           │   ├── MonStats.txt
+│           │   ├── Runes.txt
+│           │   └── TreasureClassEx.txt
+│           └── ui
+│               └── PANEL
+│                   ├── supertransmogrifier.dc6
+│                   └── TradeStash.dc6
 ├── 4. Modding
 │   ├── Code_Edits
-│   │   └── 1.13d
-│   │       ├── D2Game_Experience_Beyond_Two_Screens.txt
-│   │       ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
-│   │       ├── D2Game_Players_Item_Drop_Count.txt
-│   │       ├── D2Game_Players_Monster_Life_Exp_8p.txt
-│   │       ├── D2Gfx_Multiple_D2_Windows.txt
-│   │       └── D2Launch_Allow_Hardcore.txt
+│   │   ├── D2Client_Infinite_Loop_CPU_Fix.txt
+│   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
+│   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
+│   │   ├── D2Game_Players_Item_Drop_Count.txt
+│   │   ├── D2Game_Players_Monster_Life_Exp_8p.txt
+│   │   ├── D2Gfx_Multiple_D2_Windows.txt
+│   │   └── D2Launch_Allow_Hardcore.txt
+│   ├── GIMP Images
+│   │   ├── supertransmogrifier.xcf
+│   │   └── TradeStash.xcf
 │   ├── RESOURCES.txt
 │   └── WHATIS.txt
 ├── CHANGES.txt
@@ -40,4 +51,4 @@ Released on Wednesday, August 31, 2016
 ├── INSTALL.txt
 └── README.txt
 
-10 directories, 25 files
+11 directories, 35 files

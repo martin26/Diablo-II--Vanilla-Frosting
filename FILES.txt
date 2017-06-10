@@ -1,18 +1,14 @@
-Vanilla Frosting 8.3.0 [1.13d]
+Vanilla Frosting 9.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, November 24, 2016
+Released on Saturday, June 10, 2017
 ----------------------------------------
 
 .
 ├── 1. Files
-│   ├── D2Client.dll
-│   ├── D2Game.dll
-│   ├── D2gfx.dll
+│   ├── Game.exe
 │   └── Patch_D2.mpq
 ├── 2. Stock
-│   ├── D2Client.dll
-│   ├── D2Game.dll
-│   ├── D2gfx.dll
+│   ├── Game.exe
 │   └── Patch_D2.mpq
 ├── 3. Changes
 │   └── data
@@ -33,22 +29,34 @@ Released on Thursday, November 24, 2016
 │                   └── TradeStash.dc6
 ├── 4. Modding
 │   ├── Code_Edits
-│   │   ├── D2Client_Infinite_Loop_CPU_Fix.txt
-│   │   ├── D2Game_Experience_Beyond_Two_Screens.txt
-│   │   ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
-│   │   ├── D2Game_Players_Item_Drop_Count.txt
-│   │   ├── D2Game_Players_Monster_Life_Exp_8p.txt
-│   │   ├── D2Gfx_Multiple_D2_Windows.txt
-│   │   └── D2Launch_Allow_Hardcore.txt
+│   │   ├── 1. Multiple_D2_Windows.txt
+│   │   ├── 2. Experience_Beyond_Two_Screens.txt
+│   │   ├── 3. Players_Monster_Life_Exp_8p.txt
+│   │   ├── 4. Players_Item_Drop_Count.txt
+│   │   ├── 5. Open_Cow_Level_Even_If_King_Killed.txt
+│   │   └── Pre-1.14d
+│   │       ├── D2Client_Infinite_Loop_CPU_Fix.txt
+│   │       ├── D2Game_Experience_Beyond_Two_Screens.txt
+│   │       ├── D2Game_Open_Cow_Level_Even_If_King_Killed.txt
+│   │       ├── D2Game_Players_Item_Drop_Count.txt
+│   │       ├── D2Game_Players_Monster_Life_Exp_8p.txt
+│   │       ├── D2Gfx_Multiple_D2_Windows.txt
+│   │       └── D2Launch_Allow_Hardcore.txt
 │   ├── GIMP Images
 │   │   ├── supertransmogrifier.xcf
 │   │   └── TradeStash.xcf
 │   ├── RESOURCES.txt
 │   └── WHATIS.txt
+├── 5. Extras
+│   └── GlideWrapper_gl32ogl14e
+│       ├── glide3x.dll
+│       ├── glide-init.exe
+│       ├── glide-liesmich.txt
+│       └── glide-readme.txt
 ├── CHANGES.txt
 ├── CREDITS.txt
 ├── FILES.txt
 ├── INSTALL.txt
 └── README.txt
 
-11 directories, 35 files
+14 directories, 40 files

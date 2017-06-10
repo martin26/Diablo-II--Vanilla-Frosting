@@ -1,6 +1,6 @@
-Vanilla Frosting 8.3.0 [1.13d]
+Vanilla Frosting 9.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, November 24, 2016
+Released on Saturday, June 10, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to try to keep
@@ -53,7 +53,3 @@ New Cube Recipes:
 **** Bug Fixes ****
 
 - Smith and Griswold now have proper nightmare loot table.
-- The Infinite Loop bug that caused the CPU to stay at 25% CPU usage in
-  Single Player games, and 50%+ CPU usage in Battle.Net and TCP/IP games,
-  is now fixed. The issue still happens in the Main Menu/Character Creation
-  screen.

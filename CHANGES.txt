@@ -1,7 +1,13 @@
-Vanilla Frosting 8.3.0 [1.13d]
+Vanilla Frosting 9.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, November 24, 2016
+Released on Saturday, June 10, 2017
 ----------------------------------------
+
+9.0.0
+------------
+- Updated the Mod to 1.14d, and with that comes Blizzard's improved compatibility fixes.
+- Glide Wrapper is now bundled with the Mod. Check the Extras directory.
+- CPU fix no longer needs to be applied since Blizzard fixed this in the 1.14b update.
 
 8.3.0
 ------------

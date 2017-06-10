@@ -1,0 +1,16 @@
+1.14d Base: 400000
+1.14d Offset: F562A
+
+CODE:
+
+004F5622  |. 50             PUSH EAX                                 ; |Class => "Diablo II"
+004F5623  |. FF15 00C56C00  CALL DWORD PTR DS:[<&USER32.FindWindowA>>; \FindWindowA
+004F5629  |. 85C0           TEST EAX,EAX
+004F562B  |. 74 45          JE SHORT Game.004F5672
+004F562D  |. 8D8D E0FEFFFF  LEA ECX,DWORD PTR SS:[EBP-120]
+004F5633  |. 68 E4C56D00    PUSH Game.006DC5E4                       ;  ASCII "Diablo II Critical Error"
+004F5638  |. 51             PUSH ECX
+
+WHAT TO DO:
+
+Change from JE SHORT Game.004F5672 -> JMP SHORT Game.004F5672

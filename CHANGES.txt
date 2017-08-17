@@ -1,7 +1,28 @@
-Vanilla Frosting 9.0.0 [1.14d]
+Vanilla Frosting 9.1.0 [1.09b, 1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, June 10, 2017
+Released on Wednesday, August 16, 2017
 ----------------------------------------
+
+9.1.0
+------------
+- Adding back Vanilla Frosting 1.09b support (From VF 7.0.0/7.0.1)
+
+Since VF primarily re-implemented 1.09 features in 1.10+,
+it makes logical sense to just use 1.09d and include only the
+specific components that are necessary to enhance the 1.09 experience.
+
+> Hardcore characters can be made even without beating Softcore.
+> The 'players' command is no longer needed as well and the statistics are
+  the same as the VF 1.14d stuff (exp and item drops are the same as an 8 player group,
+  but HP is the same as a 1 player game).
+> Multiple 1.09b clients are allowed.
+> You can now open the Cow Level with just a town portal book.
+> You can now open the Cow Level even if you kill the King.
+> All new characters start out with the Horadric Cube.
+> The size of the stash and cube have been increased.
+
+> I'm including all of the No CD exes (Unpacked/Clean EXEs) from version 1.00 to 1.11.
+  All credits goes to GalaXyHaXz since I'm just redistributing them from his release.
 
 9.0.0
 ------------

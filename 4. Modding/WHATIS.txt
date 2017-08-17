@@ -1,6 +1,6 @@
-Vanilla Frosting 9.0.0 [1.14d]
+Vanilla Frosting 9.1.0 [1.09b, 1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Saturday, June 10, 2017
+Released on Wednesday, August 16, 2017
 ----------------------------------------
 
 Game.exe:
@@ -8,16 +8,17 @@ Game.exe:
     - Experience beyond two screens
     - Monster HP, Experience, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
     - Multiple Diablo II Windows
+    - Unpacked (No SecuROM) .exe for 1.09b (No CD).
 
 Patch_D2.mpq:
-CharStats.txt - Horadric Cube at Character Creation
-CubeMain.txt - New Cube Recipes
-Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
-Inventory.txt - Stash & Cube Size
-LvlMaze.txt - Room Sizes
-Misc.txt - Lysander sells TP/ID Books & Scrolls
-MonStats.txt - Cow Resistances
-Runes.txt - Runewords
-TreasureClassEx.txt:
-    - Improved rune drop rates (including monsters & chests)
-    - Countess can drop up to Zod
+    - CharStats.txt - Horadric Cube at Character Creation
+    - CubeMain.txt - New Cube Recipes
+    - Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
+    - Inventory.txt - Stash & Cube Size
+    - LvlMaze.txt - Room Sizes
+    - Misc.txt - Lysander sells TP/ID Books & Scrolls
+    - MonStats.txt - Cow Resistances
+    - Runes.txt - Runewords
+    - TreasureClassEx.txt:
+        - Improved rune drop rates (including monsters & chests)
+        - Countess can drop up to Zod

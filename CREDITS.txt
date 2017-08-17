@@ -13,6 +13,14 @@ and resources. Without them none of this would be possible.
  
 - devurandom and killer-gorilla for the infinite loop cpu fix [Pre 1.14d]
 
+- Myhrginoc at the PhrozenKeep for the 1.09/1.10 Cow King Check location and Allow Hardcore
+  http://d2mods.info/forum/viewtopic.php?f=8&t=39923&view=next
+  http://d2mods.info/forum/viewtopic.php?f=8&t=38106&hilit=enable+hardcore+1.09
+  http://d2mods.info/forum/viewtopic.php?f=8&t=43562&hilit=1.10+cow+king+portal
+
+- Thanks to GalaXyHaXz for unpacking all of the pre-1.12 .exes so that we don't need to use
+  the cd (or mini-images). http://d2mods.info/forum/viewtopic.php?f=7&t=61484
+
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

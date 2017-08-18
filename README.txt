@@ -1,6 +1,6 @@
-Vanilla Frosting 9.1.0 [1.09b, 1.14d]
+Vanilla Frosting 9.2.0 [1.09b, 1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, August 16, 2017
+Released on Friday, August 18, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to try to keep
@@ -40,24 +40,8 @@ the Single Player experience.
 - The experience penalty after level 70 has been removed.
 - You will now once again receive experience beyond 2 screens.
 - Maps have the same size on all difficulties.
-- The cows have the same resistances as in 1.09 (0).
 
 **** New Changes ****
 
 - Ladder Runewords are now enabled on Single Player.
-- The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
-    Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
-    After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
 - Rune drop rates have been improved.
-
-New Cube Recipes:
-- Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
-- Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
-
-**** Minor Changes ****
-
-- Lysander now sells TP/ID Books & Scrolls.
-
-**** Bug Fixes ****
-
-- Smith and Griswold now have proper nightmare loot table.

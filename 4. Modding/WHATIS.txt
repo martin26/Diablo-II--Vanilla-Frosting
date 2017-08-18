@@ -1,6 +1,6 @@
-Vanilla Frosting 9.1.0 [1.09b, 1.14d]
+Vanilla Frosting 9.2.0 [1.09b, 1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, August 16, 2017
+Released on Friday, August 18, 2017
 ----------------------------------------
 
 Game.exe:
@@ -12,13 +12,10 @@ Game.exe:
 
 Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation
-    - CubeMain.txt - New Cube Recipes
+    - CubeMain.txt - Require only Town Portal for Cow Level
     - Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
     - Inventory.txt - Stash & Cube Size
     - LvlMaze.txt - Room Sizes
-    - Misc.txt - Lysander sells TP/ID Books & Scrolls
-    - MonStats.txt - Cow Resistances
-    - Runes.txt - Runewords
+    - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
-        - Improved rune drop rates (including monsters & chests)
-        - Countess can drop up to Zod
+        - Improved rune drop rates

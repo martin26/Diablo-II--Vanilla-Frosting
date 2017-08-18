@@ -1,7 +1,18 @@
-Vanilla Frosting 9.1.0 [1.09b, 1.14d]
+Vanilla Frosting 9.2.0 [1.09b, 1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, August 16, 2017
+Released on Friday, August 18, 2017
 ----------------------------------------
+
+9.2.0
+------------
+** 1.14d Specific Changes **
+
+- The Countess rune drops have been restored back to Vanilla.
+- Rune Upgrade/Downgrade recipes have been removed.
+- Lysander's shop inventory is back to Vanilla. [Doesn't sell TP/ID Books & Scrolls].
+- Smith and Griswold's Drop Table have been restored back to Vanilla.
+- Essences and Keys now drop again.
+- Cow resistances are back to normal.
 
 9.1.0
 ------------

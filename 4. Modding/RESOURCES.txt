@@ -1,8 +1,10 @@
 Modding resources:
 
 http://phrozenkeep.hugelaser.com/
+https://x64dbg.com/
 
 Tools Used:
 WinMPQ 1.64
 AFJ Sheet Editor 0.6.1 Beta
+x32dbg
 OllyDbg 1.10

@@ -73,3 +73,17 @@ NOP these two since we will tell the function to increase the exp by the maximum
 00573915   8B048D B4156E00  MOV EAX,DWORD PTR DS:[ECX*4+6E15B4]
 
 Change this to MOV EAX,15E which represents increase the exp by 350%.
+
+OLD POSSIBLE MONSTER ATTACK RATING/DAMAGE CODE:
+00573994 | 89 4E 10                 | MOV DWORD PTR DS:[ESI+10],ECX           | Not sure what this does but might be attack rating related since it sets a value for this monster based on # of players.
+00573997 | EB 07                    | JMP game.5739A0                         |
+00573999 | C7 46 10 01 00 00 00     | MOV DWORD PTR DS:[ESI+10],1             |
+
+OLD POSSIBLE MONSTER ATTACK RATING/DAMAGE CODE:
+00573994 | 89 4E 10                 | MOV DWORD PTR DS:[ESI+10],ECX           |
+00573997 | 90                       | NOP                                     |
+00573998 | 90                       | NOP                                     |
+00573999 | C7 46 10 01 00 00 00     | MOV DWORD PTR DS:[ESI+10],1             |
+
+WHAT TO DO:
+NOP the JMP so that the second assignment overrides the first. (ESI+10 is set to 1).

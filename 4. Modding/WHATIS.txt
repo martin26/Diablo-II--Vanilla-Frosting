@@ -1,6 +1,6 @@
-Vanilla Frosting 9.2.0 [1.09b, 1.14d]
+Vanilla Frosting 9.3.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, August 18, 2017
+Released on Tuesday, September 26, 2017
 ----------------------------------------
 
 Game.exe:
@@ -8,7 +8,6 @@ Game.exe:
     - Experience beyond two screens
     - Monster HP, Experience, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
     - Multiple Diablo II Windows
-    - Unpacked (No SecuROM) .exe for 1.09b (No CD).
 
 Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation
@@ -19,3 +18,7 @@ Patch_D2.mpq:
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
         - Improved rune drop rates
+
+0. Patches.1337
+    - This file includes all of the patches that were done by hand and recorded
+      in the code edits file. You can use x32dbg to apply them all to a clean Game.exe.

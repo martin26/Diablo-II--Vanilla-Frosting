@@ -14,6 +14,11 @@ and resources. Without them none of this would be possible.
   http://d2mods.info/forum/viewtopic.php?f=8&t=38106&hilit=enable+hardcore+1.09
   http://d2mods.info/forum/viewtopic.php?f=8&t=43562&hilit=1.10+cow+king+portal
 
+- mrnorris for providing code in 1.13c that allowed me to find the equivalent 1.14d attack
+  rating and damage code which was used to confirm if my previous attack rating/damage
+  change works.
+  http://d2mods.info/forum/viewtopic.php?f=8&t=63578
+
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

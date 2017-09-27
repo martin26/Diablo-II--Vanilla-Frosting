@@ -1,0 +1,92 @@
+1.14d Base: 400000
+1.14d Life Code Offset: 1738F0
+1.14d Experience Code Offset: 173910
+1.14d Attack Rating/Damage Variable Offset: 173994
+
+OLD MONSTER LIFE CODE:
+
+005738F0   83F9 09          CMP ECX,9
+005738F3   7D 08            JGE SHORT Game.005738FD
+005738F5   8B048D 90156E00  MOV EAX,DWORD PTR DS:[ECX*4+6E1590]
+005738FC   C3               RETN
+005738FD   8D41 FE          LEA EAX,DWORD PTR DS:[ECX-2]
+00573900   6BC0 32          IMUL EAX,EAX,32
+00573903   C3               RETN
+
+NEW MONSTER LIFE CODE:
+
+005738F0   90               NOP
+005738F1   90               NOP
+005738F2   90               NOP
+005738F3   90               NOP
+005738F4   90               NOP
+005738F5   B8 00000000      MOV EAX,0
+005738FA   90               NOP
+005738FB   90               NOP
+005738FC   C3               RETN
+005738FD   8D41 FE          LEA EAX,DWORD PTR DS:[ECX-2]
+00573900   6BC0 32          IMUL EAX,EAX,32
+00573903   C3               RETN
+
+WHAT TO DO:
+
+005738F0   83F9 09          CMP ECX,9
+005738F3   7D 08            JGE SHORT Game.005738FD
+
+NOP these two since we will tell the function to not increase the life by any %.
+
+005738F5   8B048D 90156E00  MOV EAX,DWORD PTR DS:[ECX*4+6E1590]
+
+Change the above to MOV EAX,0 which represents no % increase to life.
+
+OLD MONSTER EXPERIENCE CODE:
+
+00573910   83F9 09          CMP ECX,9
+00573913   7D 08            JGE SHORT Game.0057391D
+00573915   8B048D B4156E00  MOV EAX,DWORD PTR DS:[ECX*4+6E15B4]
+0057391C   C3               RETN
+0057391D   8D8489 82000000  LEA EAX,DWORD PTR DS:[ECX+ECX*4+82]
+00573924   03C0             ADD EAX,EAX
+00573926   C3               RETN
+
+NEW MONSTER EXPERIENCE CODE:
+
+00573910   90               NOP
+00573911   90               NOP
+00573912   90               NOP
+00573913   90               NOP
+00573914   90               NOP
+00573915   B8 5E010000      MOV EAX,15E
+0057391A   90               NOP
+0057391B   90               NOP
+0057391C   C3               RETN
+0057391D   8D8489 82000000  LEA EAX,DWORD PTR DS:[ECX+ECX*4+82]
+00573924   03C0             ADD EAX,EAX
+00573926   C3               RETN
+
+WHAT TO DO:
+
+00573910   83F9 09          CMP ECX,9
+00573913   7D 08            JGE SHORT Game.0057391D
+
+NOP these two since we will tell the function to increase the exp by the maximum /players 8 amount (15E = 350%)
+
+00573915   8B048D B4156E00  MOV EAX,DWORD PTR DS:[ECX*4+6E15B4]
+
+Change this to MOV EAX,15E which represents increase the exp by 350%.
+
+OLD CODE THAT SETS VARIABLE THAT WILL BE USED FOR MONSTER ATTACK RATING/DAMAGE CODE:
+00573994 | 89 4E 10                 | MOV DWORD PTR DS:[ESI+10],ECX           | Save number of players with this monster (Will be used for attack rating/damage increase)
+00573997 | EB 07                    | JMP game.5739A0                         |
+00573999 | C7 46 10 01 00 00 00     | MOV DWORD PTR DS:[ESI+10],1             |
+
+NEW CODE THAT SETS VARIABLE THAT WILL BE USED FOR MONSTER ATTACK RATING/DAMAGE CODE:
+00573994 | 89 4E 10                 | MOV DWORD PTR DS:[ESI+10],ECX           |
+00573997 | 90                       | NOP                                     |
+00573998 | 90                       | NOP                                     |
+00573999 | C7 46 10 01 00 00 00     | MOV DWORD PTR DS:[ESI+10],1             |
+
+WHAT TO DO:
+NOP the JMP so that the second assignment overrides the first. We will set ESI+10
+to 1 which means that when the attack rating/damage calculation for this monster
+is run later, it will not increase the attack rating/damage.

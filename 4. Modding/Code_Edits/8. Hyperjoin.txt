@@ -1,0 +1,32 @@
+1.14d Offset: 781AC
+
+OLD:
+0047819D | F7 7D FC                 | IDIV DWORD PTR SS:[EBP-4]                     |
+004781A0 | A3 B4 B3 7B 00           | MOV DWORD PTR DS:[7BB3B4],EAX                 |
+004781A5 | 33 C9                    | XOR ECX,ECX                                   |
+004781A7 | E8 34 E4 FD FF           | CALL <game.sub_4565E0>                        |
+004781AC | 68 FA 00 00 00           | PUSH FA                                       |
+004781B1 | FF D3                    | CALL EBX                                      | ebx:Sleep
+004781B3 | 81 C6 00 01 00 00        | ADD ESI,100                                   |
+004781B9 | 83 EF 01                 | SUB EDI,1                                     |
+004781BC | 75 CA                    | JNE game.478188                               |
+
+NEW:
+0047819D | F7 7D FC                 | IDIV DWORD PTR SS:[EBP-4]                     |
+004781A0 | A3 B4 B3 7B 00           | MOV DWORD PTR DS:[7BB3B4],EAX                 |
+004781A5 | 33 C9                    | XOR ECX,ECX                                   |
+004781A7 | E8 34 E4 FD FF           | CALL <game.sub_4565E0>                        |
+004781AC | 6A 05                    | PUSH 5                                        |
+004781AE | 90                       | NOP                                           |
+004781AF | 90                       | NOP                                           |
+004781B0 | 90                       | NOP                                           |
+004781B1 | FF D3                    | CALL EBX                                      |
+004781B3 | 81 C6 00 01 00 00        | ADD ESI,100                                   |
+004781B9 | 83 EF 01                 | SUB EDI,1                                     |
+004781BC | 75 CA                    | JNE game.478188                               |
+
+WHAT TO DO:
+
+Switch PUSH FA to PUSH 5:
+004781AC | 68 FA 00 00 00           | PUSH FA                                       |
+004781AC | 6A 05                    | PUSH 5                                        |

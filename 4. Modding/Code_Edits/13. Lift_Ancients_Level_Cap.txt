@@ -1,0 +1,55 @@
+1.14d Offset: 18C64B
+
+OLD:
+0058C63A | 57                       | PUSH EDI                                |
+0058C63B | 51                       | PUSH ECX                                |
+0058C63C | 89 45 F0                 | MOV DWORD PTR SS:[EBP-10],EAX           |
+0058C63F | E8 BC 51 08 00           | CALL <game.sub_611800>                  |
+0058C644 | 8B 4D F0                 | MOV ECX,DWORD PTR SS:[EBP-10]           |
+0058C647 | 2B C8                    | SUB ECX,EAX                             |
+0058C649 | 3B D9                    | CMP EBX,ECX                             |
+0058C64B | 7E 03                    | JLE game.58C650                         |
+0058C64D | 8B D9                    | MOV EBX,ECX                             |
+0058C64F | 90                       | NOP                                     |
+0058C650 | 85 DB                    | TEST EBX,EBX                            |
+0058C652 | 74 72                    | JE game.58C6C6                          |
+0058C654 | 6A 00                    | PUSH 0                                  |
+0058C656 | 6A 1E                    | PUSH 1E                                 |
+0058C658 | 56                       | PUSH ESI                                |
+0058C659 | E8 52 8D 09 00           | CALL <game.sub_6253B0>                  |
+0058C65E | 6A 00                    | PUSH 0                                  |
+0058C660 | 6A 0D                    | PUSH D                                  |
+0058C662 | 8B F8                    | MOV EDI,EAX                             |
+0058C664 | 56                       | PUSH ESI                                |
+0058C665 | 89 7D F0                 | MOV DWORD PTR SS:[EBP-10],EDI           |
+0058C668 | E8 43 8D 09 00           | CALL <game.sub_6253B0>                  |
+
+NEW:
+0058C63A | 57                       | PUSH EDI                                |
+0058C63B | 51                       | PUSH ECX                                |
+0058C63C | 89 45 F0                 | MOV DWORD PTR SS:[EBP-10],EAX           |
+0058C63F | E8 BC 51 08 00           | CALL <game.sub_611800>                  |
+0058C644 | 8B 4D F0                 | MOV ECX,DWORD PTR SS:[EBP-10]           |
+0058C647 | 2B C8                    | SUB ECX,EAX                             |
+0058C649 | 3B D9                    | CMP EBX,ECX                             |
+0058C64B | EB 03                    | JMP game.58C650                         |
+0058C64D | 8B D9                    | MOV EBX,ECX                             |
+0058C64F | 90                       | NOP                                     |
+0058C650 | 85 DB                    | TEST EBX,EBX                            |
+0058C652 | 74 72                    | JE game.58C6C6                          |
+0058C654 | 6A 00                    | PUSH 0                                  |
+0058C656 | 6A 1E                    | PUSH 1E                                 |
+0058C658 | 56                       | PUSH ESI                                |
+0058C659 | E8 52 8D 09 00           | CALL <game.sub_6253B0>                  |
+0058C65E | 6A 00                    | PUSH 0                                  |
+0058C660 | 6A 0D                    | PUSH D                                  |
+0058C662 | 8B F8                    | MOV EDI,EAX                             |
+0058C664 | 56                       | PUSH ESI                                |
+0058C665 | 89 7D F0                 | MOV DWORD PTR SS:[EBP-10],EDI           |
+0058C668 | E8 43 8D 09 00           | CALL <game.sub_6253B0>                  |
+
+WHAT TO DO:
+
+Change JLE to JMP:
+0058C64B | 7E 03                    | JLE game.58C650                         |
+0058C64B | EB 03                    | JMP game.58C650                         |

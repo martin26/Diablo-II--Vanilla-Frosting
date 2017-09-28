@@ -1,0 +1,78 @@
+1.14d Offset: 135ABB
+
+OLD:
+
+00535AB0 | 55                       | PUSH EBP                                      |
+00535AB1 | 8B EC                    | MOV EBP,ESP                                   |
+00535AB3 | 53                       | PUSH EBX                                      |
+00535AB4 | 56                       | PUSH ESI                                      |
+00535AB5 | 57                       | PUSH EDI                                      |
+00535AB6 | 8B 7D 08                 | MOV EDI,DWORD PTR SS:[EBP+8]                  |
+00535AB9 | 8B D9                    | MOV EBX,ECX                                   |
+00535ABB | 57                       | PUSH EDI                                      |
+00535ABC | 8B F2                    | MOV ESI,EDX                                   |
+00535ABE | 53                       | PUSH EBX                                      |
+00535ABF | E8 0C FD FF FF           | CALL <game.sub_5357D0>                        |
+00535AC4 | 85 FF                    | TEST EDI,EDI                                  |
+00535AC6 | 74 15                    | JE game.535ADD                                |
+00535AC8 | 83 3F 00                 | CMP DWORD PTR DS:[EDI],0                      |
+00535ACB | 74 18                    | JE game.535AE5                                |
+00535ACD | 8B CF                    | MOV ECX,EDI                                   |
+00535ACF | E8 FC 95 05 00           | CALL <game.sub_58F0D0>                        |
+00535AD4 | 85 C0                    | TEST EAX,EAX                                  |
+00535AD6 | 74 05                    | JE game.535ADD                                |
+00535AD8 | 83 38 00                 | CMP DWORD PTR DS:[EAX],0                      |
+00535ADB | 74 08                    | JE game.535AE5                                |
+00535ADD | 56                       | PUSH ESI                                      |
+00535ADE | 8B C3                    | MOV EAX,EBX                                   |
+00535AE0 | E8 0B FF FF FF           | CALL <game.sub_5359F0>                        |
+00535AE5 | 5F                       | POP EDI                                       |
+00535AE6 | 5E                       | POP ESI                                       |
+00535AE7 | 5B                       | POP EBX                                       |
+00535AE8 | 5D                       | POP EBP                                       |
+00535AE9 | C2 04 00                 | RET 4                                         |
+
+NEW:
+00535AB0 | 55                       | PUSH EBP                                      |
+00535AB1 | 8B EC                    | MOV EBP,ESP                                   |
+00535AB3 | 53                       | PUSH EBX                                      |
+00535AB4 | 56                       | PUSH ESI                                      |
+00535AB5 | 57                       | PUSH EDI                                      |
+00535AB6 | 8B 7D 08                 | MOV EDI,DWORD PTR SS:[EBP+8]                  |
+00535AB9 | 8B D9                    | MOV EBX,ECX                                   |
+00535ABB | 90                       | NOP                                           |
+00535ABC | 90                       | NOP                                           |
+00535ABD | 90                       | NOP                                           |
+00535ABE | 90                       | NOP                                           |
+00535ABF | 90                       | NOP                                           |
+00535AC0 | 90                       | NOP                                           |
+00535AC1 | 90                       | NOP                                           |
+00535AC2 | 90                       | NOP                                           |
+00535AC3 | 90                       | NOP                                           |
+00535AC4 | 85 FF                    | TEST EDI,EDI                                  |
+00535AC6 | 74 15                    | JE game.535ADD                                |
+00535AC8 | 83 3F 00                 | CMP DWORD PTR DS:[EDI],0                      |
+00535ACB | 74 18                    | JE game.535AE5                                |
+00535ACD | 8B CF                    | MOV ECX,EDI                                   |
+00535ACF | E8 FC 95 05 00           | CALL <game.sub_58F0D0>                        |
+00535AD4 | 85 C0                    | TEST EAX,EAX                                  |
+00535AD6 | 74 05                    | JE game.535ADD                                |
+00535AD8 | 83 38 00                 | CMP DWORD PTR DS:[EAX],0                      |
+00535ADB | 74 08                    | JE game.535AE5                                |
+00535ADD | 56                       | PUSH ESI                                      |
+00535ADE | 8B C3                    | MOV EAX,EBX                                   |
+00535AE0 | E8 0B FF FF FF           | CALL <game.sub_5359F0>                        |
+00535AE5 | 5F                       | POP EDI                                       |
+00535AE6 | 5E                       | POP ESI                                       |
+00535AE7 | 5B                       | POP EBX                                       |
+00535AE8 | 5D                       | POP EBP                                       |
+00535AE9 | C2 04 00                 | RET 4                                         |
+
+WHAT TO DO:
+
+NOP the following lines:
+
+00535ABB | 57                       | PUSH EDI                                      |
+00535ABC | 8B F2                    | MOV ESI,EDX                                   |
+00535ABE | 53                       | PUSH EBX                                      |
+00535ABF | E8 0C FD FF FF           | CALL <game.sub_5357D0>                        |

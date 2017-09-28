@@ -1,13 +1,13 @@
-Vanilla Frosting 9.3.1 [1.14d]
+Vanilla Frosting 10.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, September 27, 2017
+Released on Thursday, September 28, 2017
 ----------------------------------------
 
-Vanilla Frosting is a Diablo II mod that was designed to try to keep
-Diablo II as vanilla as possible, while enhancing and tailoring it to
-the Single Player experience.
+Vanilla Frosting is a Diablo II mod that was designed to keep
+the feeling of Diablo II as vanilla as possible, while enhancing
+and tailoring it to the Single Player experience.
 
-**** New Changes ****
+**** Changes ****
 
 - The 'players' command is no longer used. In exchange, you will
   automatically have the following benefits enabled:
@@ -30,9 +30,14 @@ the Single Player experience.
 - The size of the stash and cube have been increased.
 - Ladder Runewords are now enabled on Single Player.
 - Rune drop rates have been improved.
-
-**** Changes that are back from 1.09 in order to emulate it ****
-
 - The experience penalty after level 70 has been removed.
 - You will now once again receive experience beyond 2 screens.
 - Maps have the same size on all difficulties.
+- The speed for creating and joining TCP/IP games has been massively increased.
+- Launch cinematics are now automatically skipped.
+- You no longer lose gold if you die (Death Tax).
+- Your shield block is no longer reduced while running.
+- Shield blocking is now the same as classic (Equal to your shield's block). No longer depends on Dexterity.
+- The Barbarian's Whirlwind now behaves the same as in Classic (No longer depends on IAS).
+- Ancients give you as many levels as it possibly can give you (Like 1.09)
+- Diablo II will now use less CPU power in Single Player and TCP/IP games.

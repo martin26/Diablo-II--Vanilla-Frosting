@@ -1,13 +1,21 @@
-Vanilla Frosting 9.3.1 [1.14d]
+Vanilla Frosting 10.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, September 27, 2017
+Released on Thursday, September 28, 2017
 ----------------------------------------
 
 Game.exe:
     - Ability to open Cow Level even if King was killed
     - Experience beyond two screens
-    - Monster HP, Experience, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
+    - Monster HP, Experience, Attack Rating/Damage, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
     - Multiple Diablo II Windows
+	- CPU Power Reduction
+	- Skip Intro Cinematics
+	- Hyperjoin (Fast TCP/IP creation/joining)
+	- Classic Shield Block
+	- Classic Whirlwind
+	- Shield block doesn't drop while running
+	- You don't lose gold when you die.
+	- Ancients level cap removal.
 
 Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation

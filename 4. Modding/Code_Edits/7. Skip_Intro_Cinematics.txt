@@ -1,0 +1,20 @@
+1.14d Offset: 35284
+
+OLD:
+00435279 | 0F 84 93 00 00 00        | JE game.435312                                |
+0043527F | E8 8C 98 FD FF           | CALL game.40EB10                              |
+00435284 | 85 C0                    | TEST EAX,EAX                                  |
+00435286 | 6A 00                    | PUSH 0                                        |
+00435288 | 75 16                    | JNE game.4352A0                               |
+0043528A | 50                       | PUSH EAX                                      |
+0043528B | 68 FC 4C 6D 00           | PUSH game.6D4CFC                              | 6D4CFC:"Data\\Local\\Video\\New_BLIZ640x480.bik"
+
+NEW:
+00435284 | EB 7A                    | JMP game.435300                               |
+
+WHAT TO DO:
+
+Switch TEST to JMP <address>:
+
+00435284 | 85 C0                    | TEST EAX,EAX                                  |
+00435284 | EB 7A                    | JMP game.435300                               |

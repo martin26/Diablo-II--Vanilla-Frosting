@@ -1,4 +1,4 @@
-Vanilla Frosting 10.0.0 [1.14d]
+Vanilla Frosting 10.1.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
 Released on Thursday, September 28, 2017
 ----------------------------------------
@@ -29,15 +29,35 @@ and tailoring it to the Single Player experience.
 - All new characters start out with the Horadric Cube.
 - The size of the stash and cube have been increased.
 - Ladder Runewords are now enabled on Single Player.
-- Rune drop rates have been improved.
-- The experience penalty after level 70 has been removed.
-- You will now once again receive experience beyond 2 screens.
-- Maps have the same size on all difficulties.
 - The speed for creating and joining TCP/IP games has been massively increased.
 - Launch cinematics are now automatically skipped.
 - You no longer lose gold if you die (Death Tax).
 - Your shield block is no longer reduced while running.
 - Shield blocking is now the same as classic (Equal to your shield's block). No longer depends on Dexterity.
 - The Barbarian's Whirlwind now behaves the same as in Classic (No longer depends on IAS).
-- Ancients give you as many levels as it possibly can give you (Like 1.09)
 - Diablo II will now use less CPU power in Single Player and TCP/IP games.
+- Rune drop rates have been improved.
+- Essences and keys no longer drop. You are limited to three respecs. Use them wisely.
+
+- The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
+    Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
+    After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
+
+New Cube Recipes:
+- Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
+- Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
+
+**** Back from 1.09 ****
+- Ancients quest reward experience rolls over. (Gives you as many levels as it can)
+- The cows have the same resistances as in 1.09 (0).
+- The experience penalty after level 70 has been removed.
+- You will now once again receive experience beyond 2 screens.
+- Maps have the same size on all difficulties.
+
+**** Minor Changes ****
+
+- Lysander now sells TP/ID Books & Scrolls.
+
+**** Bug Fixes ****
+
+- Smith and Griswold now have proper nightmare loot table.

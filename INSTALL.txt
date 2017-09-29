@@ -1,6 +1,6 @@
-Vanilla Frosting 10.1.0 [1.14d]
+Vanilla Frosting 10.2.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, September 28, 2017
+Released on Friday, September 29, 2017
 ----------------------------------------
 
 Installation:

@@ -1,6 +1,6 @@
-Vanilla Frosting 10.1.0 [1.14d]
+Vanilla Frosting 10.2.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Thursday, September 28, 2017
+Released on Friday, September 29, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -27,7 +27,7 @@ and tailoring it to the Single Player experience.
 - You can now open the Cow Level even if you kill the King.
 - You can now run multiple instances of Diablo II.
 - All new characters start out with the Horadric Cube.
-- The size of the stash and cube have been increased.
+- The size of the stash, cube, and inventory have been increased.
 - Ladder Runewords are now enabled on Single Player.
 - The speed for creating and joining TCP/IP games has been massively increased.
 - Launch cinematics are now automatically skipped.

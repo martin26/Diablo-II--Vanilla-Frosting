@@ -24,6 +24,10 @@ and resources. Without them none of this would be possible.
   
 - devurandom and GalaXyHaXz for the CPU power fixes.
 
+- Shaky @ PhrozenKeep for providing the Inventory.txt and graphics from his
+  "Unltimate Inventory, Stash & Cube Plug-In for 1.10" mod. This allowed me to
+  quickly increase the inventory size.
+  
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

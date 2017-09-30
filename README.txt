@@ -7,8 +7,7 @@ Vanilla Frosting is a Diablo II mod that was designed to keep
 the feeling of Diablo II as vanilla as possible, while enhancing
 and tailoring it to the Single Player experience.
 
-**** Changes ****
-
+**** New Features ****
 - The 'players' command is no longer used. In exchange, you will
   automatically have the following benefits enabled:
 
@@ -23,42 +22,38 @@ and tailoring it to the Single Player experience.
     Multi Player due to Multi Player monsters having double the HP of their Single Player
     counterparts, and having monsters experience capped to 200 exp per player level.
 
-- General monster immunity and resistances have been removed throughout the whole game.
-  You'll still see some super uniques spawn with immunity though.
-- You can now open the Cow Level with just a town portal book.
-- You can now open the Cow Level even if you kill the King.
-- You can now run multiple instances of Diablo II.
-- All new characters start out with the Horadric Cube.
-- The size of the stash, cube, and inventory have been increased.
-- Ladder Runewords are now enabled on Single Player.
-- The speed for creating and joining TCP/IP games has been massively increased.
-- Launch cinematics are now automatically skipped.
-- Your shield block is no longer reduced while running.
-- Shield blocking is now the same as classic (Equal to your shield's block). No longer depends on Dexterity.
-- The Barbarian's Whirlwind now behaves the same as in Classic (No longer depends on IAS).
-- Diablo II will now use less CPU power in Single Player and TCP/IP games.
-- Rune drop rates have been improved.
-- Essences and keys no longer drop. You are limited to three respecs. Use them wisely.
-
 - The Countess now drops up to Sol in Normal, Ist in Nightmare, and Zod in Hell
     Before: Runes 4 [Ral], Runes 8 [Io], Runes 12 [Ist]
     After : Runes 6 [Sol], Runes 12 [Ist], Runes 17 [Zod]
 
-New Cube Recipes:
-- Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
-- Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
+- [Rune Recipe] Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
+- [Rune Recipe] Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
+- You can now open the Cow Level with just a town portal book.
+- You can now open the Cow Level even if you kill the King.
+- The size of the stash, cube, and inventory have been increased.
+- All new characters start out with the Horadric Cube.
+- Ladder Runewords are now enabled on Single Player.
 
-**** Back from 1.09 ****
-- Ancients quest reward experience rolls over. (Gives you as many levels as it can)
-- The experience penalty after level 70 has been removed.
-- You will now once again receive experience beyond 2 screens.
-- Maps have the same size on all difficulties.
-- You are no longer taxed gold when you die on Nightmare and Hell difficulties.
-
-**** Minor Changes ****
-
+**** Gameplay and Mechanic Changes ****
+- General monster immunity and resistances have been removed throughout the whole game.
+    You'll still see some super uniques spawn with immunity though.
+- Rune drop rates have been improved.
+- Essences and keys no longer drop. You are limited to three respecs. Use them wisely.
 - Lysander now sells TP/ID Books & Scrolls.
+- Blocking is no longer reduced while running.
+- [From Classic] Shield blocking is now the same as your shield's block chance. No longer depends on Dexterity.
+- [From Classic] The Barbarian's Whirlwind no longer depends on Increase Attack Speed.
+- [From 1.09] Ancients quest reward experience rolls over. (Gives you as many levels as it can)
+- [From 1.09] The experience penalty after level 70 has been removed.
+- [From 1.09] You will now once again receive experience beyond 2 screens.
+- [From 1.09] Maps have the same size on all difficulties.
+- [From 1.09] You are no longer taxed gold when you die on Nightmare and Hell difficulties.
+
+**** Optimizations ****
+- You can now run multiple instances of Diablo II.
+- The speed for creating and joining TCP/IP games has been massively increased.
+- Launch cinematics are now automatically skipped.
+- Diablo II will now use less CPU power in Single Player and TCP/IP games.
 
 **** Bug Fixes ****
-
 - Smith and Griswold now have proper nightmare loot table.

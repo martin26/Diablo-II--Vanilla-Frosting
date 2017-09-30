@@ -1,8 +1,3 @@
-Vanilla Frosting 10.2.0 [1.14d]
-By Jonathan Vasquez (fearedbliss)
-Released on Friday, September 29, 2017
-----------------------------------------
-
 Installation:
 -------------
 1. Backup your current Diablo II directory before installing. 

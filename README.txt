@@ -1,4 +1,4 @@
-Vanilla Frosting 10.2.0 [1.14d]
+Vanilla Frosting 11.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
 Released on Friday, September 29, 2017
 ----------------------------------------
@@ -23,6 +23,8 @@ and tailoring it to the Single Player experience.
     Multi Player due to Multi Player monsters having double the HP of their Single Player
     counterparts, and having monsters experience capped to 200 exp per player level.
 
+- General monster immunity and resistances have been removed throughout the whole game.
+  You'll still see some super uniques spawn with immunity though.
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
 - You can now run multiple instances of Diablo II.
@@ -31,7 +33,6 @@ and tailoring it to the Single Player experience.
 - Ladder Runewords are now enabled on Single Player.
 - The speed for creating and joining TCP/IP games has been massively increased.
 - Launch cinematics are now automatically skipped.
-- You no longer lose gold if you die (Death Tax).
 - Your shield block is no longer reduced while running.
 - Shield blocking is now the same as classic (Equal to your shield's block). No longer depends on Dexterity.
 - The Barbarian's Whirlwind now behaves the same as in Classic (No longer depends on IAS).
@@ -49,10 +50,10 @@ New Cube Recipes:
 
 **** Back from 1.09 ****
 - Ancients quest reward experience rolls over. (Gives you as many levels as it can)
-- The cows have the same resistances as in 1.09 (0).
 - The experience penalty after level 70 has been removed.
 - You will now once again receive experience beyond 2 screens.
 - Maps have the same size on all difficulties.
+- You are no longer taxed gold when you die on Nightmare and Hell difficulties.
 
 **** Minor Changes ****
 

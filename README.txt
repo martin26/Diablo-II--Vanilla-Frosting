@@ -1,6 +1,6 @@
-Vanilla Frosting 11.0.0 [1.14d]
+Vanilla Frosting 11.1.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Friday, September 29, 2017
+Released on Saturday, September 30, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -33,12 +33,12 @@ and tailoring it to the Single Player experience.
 - The size of the stash, cube, and inventory have been increased.
 - All new characters start out with the Horadric Cube.
 - Ladder Runewords are now enabled on Single Player.
+- You now have unlimited respecs through Akara on all difficulties. Essences & Keys do not drop.
 
 **** Gameplay and Mechanic Changes ****
 - General monster immunity and resistances have been removed throughout the whole game.
     You'll still see some super uniques spawn with immunity though.
 - Rune drop rates have been improved.
-- Essences and keys no longer drop. You are limited to three respecs. Use them wisely.
 - Lysander now sells TP/ID Books & Scrolls.
 - Blocking is no longer reduced while running.
 - [From Classic] Shield blocking is now the same as your shield's block chance. No longer depends on Dexterity.

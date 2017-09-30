@@ -3,14 +3,15 @@ Game.exe:
     - Experience beyond two screens
     - Monster HP, Experience, Attack Rating/Damage, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
     - Multiple Diablo II Windows
-	- CPU Power Reduction
-	- Skip Intro Cinematics
-	- Hyperjoin (Fast TCP/IP creation/joining)
-	- Classic Shield Block
-	- Classic Whirlwind
-	- Shield block doesn't drop while running
-	- You don't lose gold when you die.
-	- Ancients level cap removal.
+    - CPU Power Reduction
+    - Skip Intro Cinematics
+    - Hyperjoin (Fast TCP/IP creation/joining)
+    - Classic Shield Block
+    - Classic Whirlwind
+    - Shield block doesn't drop while running
+    - You don't lose gold when you die.
+    - Ancients level cap removal.
+    - Unlimited respecs through Akara on all difficulties.
 
 Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation
@@ -24,8 +25,8 @@ Patch_D2.mpq:
     - TreasureClassEx.txt:
         - Improved rune drop rates
         - Countess can drop up to Zod
-	- Essences and keys no longer drop
-	- Griswold and Smith Loot Table Fix
+    - Essences and keys no longer drop
+    - Griswold and Smith Loot Table Fix
 
 0. Patches.1337
     - This file includes all of the patches that were done by hand and recorded

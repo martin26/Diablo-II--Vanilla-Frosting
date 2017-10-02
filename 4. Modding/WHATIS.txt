@@ -13,6 +13,7 @@ Game.exe:
     - Ancients level cap removal.
     - Unlimited respecs through Akara on all difficulties.
     - Disable connect to Battle.Net
+    - Blocking quests are removed (A party member is allowed to access another party member's portal).
 
 Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation

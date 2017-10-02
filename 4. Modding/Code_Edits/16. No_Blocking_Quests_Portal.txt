@@ -1,0 +1,22 @@
+1.14d Offset: 184A10
+
+*** This allows a party member to access another party member's town portal.
+    Thus blocking quests are removed and behavior is like 1.09. ***
+
+OLD CODE:
+00584A0B | 8B 47 04                 | MOV EAX,DWORD PTR DS:[EDI+4]            | eax:sub_584870
+00584A0E | 85 C0                    | TEST EAX,EAX                            | eax:sub_584870
+00584A10 | 7E 36                    | JLE game.584A48                         |
+00584A12 | 8B 55 F8                 | MOV EDX,DWORD PTR SS:[EBP-8]            |
+00584A15 | 6A 00                    | PUSH 0                                  |
+
+NEW CODE:
+00584A0B | 8B 47 04                 | MOV EAX,DWORD PTR DS:[EDI+4]            | eax:sub_584870
+00584A0E | 85 C0                    | TEST EAX,EAX                            | eax:sub_584870
+00584A10 | EB 36                    | JMP game.584A48                         |
+00584A12 | 8B 55 F8                 | MOV EDX,DWORD PTR SS:[EBP-8]            |
+00584A15 | 6A 00                    | PUSH 0                                  |
+
+WHAT TO DO:
+
+Switch JLE to JMP

@@ -1,4 +1,4 @@
-Vanilla Frosting 11.2.0 [1.14d]
+Vanilla Frosting 11.3.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
 Released on Monday, October 2, 2017
 ----------------------------------------
@@ -48,6 +48,7 @@ and tailoring it to the Single Player experience.
 - [From 1.09] You will now once again receive experience beyond 2 screens.
 - [From 1.09] Maps have the same size on all difficulties.
 - [From 1.09] You are no longer taxed gold when you die on Nightmare and Hell difficulties.
+- [From 1.09] Blocking quests are removed. A party member can go through another party member's town portal.
 
 **** Optimizations ****
 - You can now run multiple instances of Diablo II.

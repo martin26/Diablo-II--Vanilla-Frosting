@@ -1,0 +1,19 @@
+1.14d Offset: 3BF60
+
+OLD CODE:
+0043BF5E | CC                       | INT3                                               |
+0043BF5F | CC                       | INT3                                               |
+0043BF60 | 55                       | PUSH EBP                                           |
+0043BF61 | 8B EC                    | MOV EBP,ESP                                        |
+0043BF63 | 83 EC 18                 | SUB ESP,18                                         |
+
+NEW CODE:
+0043BF5E | CC                       | INT3                                               |
+0043BF5F | CC                       | INT3                                               |
+0043BF60 | C3                       | RET                                                |
+0043BF61 | 8B EC                    | MOV EBP,ESP                                        |
+0043BF63 | 83 EC 18                 | SUB ESP,18                                         |
+
+WHAT TO DO:
+
+Change PUSH EBP to RET so that as soon as this function is called, we return from it.

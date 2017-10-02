@@ -1,6 +1,6 @@
-Vanilla Frosting 11.1.1 [1.14d]
+Vanilla Frosting 11.2.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Sunday, October 1, 2017
+Released on Monday, October 2, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -39,7 +39,7 @@ and tailoring it to the Single Player experience.
 - General monster immunity and resistances have been removed throughout the whole game.
     You'll still see some super uniques spawn with immunity though.
 - Rune drop rates have been improved.
-- Fara now sells all Act 2 TP/ID/Pots/Keys. Lysander & Drognan do not.
+- Fara (Act 2) now also sells TP/ID/Pots/Keys/Etc (Lysander + Drognan)
 - Blocking is no longer reduced while running.
 - [From Classic] Shield blocking is now the same as your shield's block chance. No longer depends on Dexterity.
 - [From Classic] The Barbarian's Whirlwind no longer depends on Increase Attack Speed.
@@ -54,6 +54,7 @@ and tailoring it to the Single Player experience.
 - The speed for creating and joining TCP/IP games has been massively increased.
 - Launch cinematics are now automatically skipped.
 - Diablo II will now use less CPU power in Single Player and TCP/IP games.
+- Connect to battle.net has been disabled.
 
 **** Bug Fixes ****
 - Smith and Griswold now have proper nightmare loot table.

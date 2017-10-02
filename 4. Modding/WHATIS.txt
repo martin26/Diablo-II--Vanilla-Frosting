@@ -12,6 +12,7 @@ Game.exe:
     - You don't lose gold when you die.
     - Ancients level cap removal.
     - Unlimited respecs through Akara on all difficulties.
+    - Disable connect to Battle.Net
 
 Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation
@@ -19,7 +20,7 @@ Patch_D2.mpq:
     - Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
     - Inventory.txt - Stash, Cube, & Inventory Size
     - LvlMaze.txt - Room Sizes
-    - Misc.txt - Lysander sells TP/ID Books & Scrolls
+    - Misc.txt - Fara (Act 2) also sells TD/ID/Pots/Keys/Etc
     - MonStats.txt - Monster Resistances/Immunities
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:

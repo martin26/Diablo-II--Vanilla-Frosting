@@ -22,13 +22,12 @@ Patch_D2.mpq:
     - Inventory.txt - Stash, Cube, & Inventory Size
     - LvlMaze.txt - Room Sizes
     - Misc.txt - Fara (Act 2) also sells TD/ID/Pots/Keys/Etc
-    - MonStats.txt - Monster Resistances/Immunities
+    - MonStats.txt - Cows have zero resistances.
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
-        - Improved rune drop rates
-        - Countess can drop up to Zod
-    - Essences and keys no longer drop
-    - Griswold and Smith Loot Table Fix
+        - Improved rune drop rates (Runes 19+ are at 0.01% drop rate)
+        - Essences and keys no longer drop
+        - Griswold and Smith Loot Table Fix
 
 0. Patches.1337
     - This file includes all of the patches that were done by hand and recorded

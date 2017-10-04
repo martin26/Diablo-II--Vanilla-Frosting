@@ -24,13 +24,6 @@ and resources. Without them none of this would be possible.
   
 - devurandom and GalaXyHaXz for the CPU power fixes.
 
-- Shaky @ PhrozenKeep for providing the Inventory.txt and graphics from his
-  "Ultimate Inventory, Stash & Cube Plug-In for 1.10" mod. This allowed me to
-  quickly increase the inventory size.
-
-- Median XL for the cleaned up invchar6.dc6 file. The one from the Ultimate Inventory
-  Mod had a cyan outline around the borders that was annoying.
-
 The respective communities can be found below:
 
 PhrozenKeep: http://phrozenkeep.hugelaser.com/

@@ -1,6 +1,6 @@
-Vanilla Frosting 12.0.1 [1.14d]
+Vanilla Frosting 12.1.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Tuesday, October 3, 2017
+Released on Wednesday, October 4, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -13,8 +13,8 @@ and tailoring it to the Single Player experience.
 
   > Monster hit points is the same as /players 1.
   > Monster experience is the same as /players 8.
-  > Monster damage and attack rating is the same as /players 1 on all difficulties.
-  > Monster item drops and chest item drops are the same as /players 8.
+  > Monster damage and attack rating is the same as /players 1.
+  > Monster and chest item drops are the same as /players 8.
 
   Just open Diablo II, start a game, and enjoy :).
 
@@ -22,7 +22,7 @@ and tailoring it to the Single Player experience.
     Multi Player due to Multi Player monsters having double the HP of their Single Player
     counterparts, and having monsters experience capped to 200 exp per player level.
 
-- The size of the stash, cube, and inventory have been increased.
+- The size of the stash and cube have been increased.
 - All new characters start out with the Horadric Cube.
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
@@ -34,11 +34,8 @@ and tailoring it to the Single Player experience.
   > Before: Fal through Zod would scale down from 0.0082% to 0.0001%.
   > After : All runes Fal and above have a stable 0.01%.
 
-**** Gameplay and Mechanic Changes ****
+**** Gameplay Changes ****
 - Fara (Act 2) now also sells TP/ID/Pots/Keys/Etc (Lysander + Drognan).
-- Blocking is no longer reduced while running.
-- [From Classic] Shield blocking is now the same as your shield's block chance. No longer depends on Dexterity.
-- [From Classic] The Barbarian's Whirlwind no longer depends on Increase Attack Speed.
 - [From 1.09] Ancients quest reward experience rolls over. (Gives you as many levels as it can)
 - [From 1.09] The experience penalty after level 70 has been removed.
 - [From 1.09] You will now once again receive experience beyond 2 screens.

@@ -1,14 +1,13 @@
 Game.exe:
     - Ability to open Cow Level even if King was killed
     - Experience beyond two screens
-    - Monster HP, Experience, Attack Rating/Damage, and Monster/Chest Item Drop Amounts are the same between /players 1 and /players 8
+    - Monster and Chest Item Drop Amounts are the same between /players 1 and /players 8
     - Multiple Diablo II Windows
     - CPU Power Reduction
     - Skip Intro Cinematics
     - Hyperjoin (Fast TCP/IP creation/joining)
     - You don't lose gold when you die.
     - Ancients level cap removal.
-    - Unlimited respecs through Akara on all difficulties.
     - Disable connect to Battle.Net
     - Blocking quests are removed (A party member is allowed to access another party member's portal).
 
@@ -29,5 +28,3 @@ Patch_D2.mpq:
 0. Patches.1337
     - This file includes all of the patches that were done by hand and recorded
       in the code edits file. You can use x32dbg to apply them all to a clean Game.exe.
-
- 

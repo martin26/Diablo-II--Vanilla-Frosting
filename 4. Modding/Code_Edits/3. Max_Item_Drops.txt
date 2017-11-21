@@ -1,0 +1,22 @@
+The /players command also controls how many times the game should
+loop when determining how many items to drop from a monster kill,
+or from opening a chest.
+
+1.14d Offset: 15A8F4
+
+OLD CODE:
+0055A8E9 | BF 08 00 00 00           | MOV EDI,8                                          |
+0055A8EE | 8B 8D D8 FA FF FF        | MOV ECX,DWORD PTR SS:[EBP-528]                     |
+0055A8F4 | E8 97 AE FD FF           | CALL <game.sub_535790>                             | # of players is placed in EAX.
+0055A8F9 | 2B C7                    | SUB EAX,EDI                                        |
+0055A8FB | 99                       | CDQ                                                |
+
+NEW CODE:
+0055A8E9 | BF 08 00 00 00           | MOV EDI,8                               |
+0055A8EE | 8B 8D D8 FA FF FF        | MOV ECX,DWORD PTR SS:[EBP-528]          |
+0055A8F4 | B8 08 00 00 00           | MOV EAX,8                               |
+0055A8F9 | 2B C7                    | SUB EAX,EDI                             |
+0055A8FB | 99                       | CDQ                                     |
+
+Change the CALL to MOV EAX,8 so that we can set the players amount to the maximum
+needed for the max drops.

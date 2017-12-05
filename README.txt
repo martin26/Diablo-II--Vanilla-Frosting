@@ -1,6 +1,6 @@
-Vanilla Frosting 13.0.0 [1.14d]
+Vanilla Frosting 13.0.1 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, November 20, 2017
+Released on Monday, December 4, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -19,8 +19,8 @@ and tailoring it to the Single Player experience.
 - [Recipe] Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
 - [Recipe] Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
 - Improved Rune Drop Rates.
-  > Before: Fal through Zod would scale down from 0.0082% to 0.0001%.
-  > After : All runes Fal and above have a stable 0.01%.
+  > Before: Fal through Zod scaled down from 0.80% to 0.01%.
+  > After : Fal through Zod have a stable 1.00%.
 
 **** Gameplay Changes ****
 - [Act 2] Fara now also sells TP/ID/Pots/Keys/Etc (Lysander + Drognan).

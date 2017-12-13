@@ -21,9 +21,16 @@ Patch_D2.mpq:
     - MonStats.txt - Cows have zero resistances.
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
-        - Improved rune drop rates (Runes 19+ are at 0.01% drop rate)
+        - Improved Rune drop rates
+	    - Improved TC 84/87/90 drop rates
+		- Act bosses always have quest drop rates
+		- Improved Cow drop rates
         - Essences and keys no longer drop
         - Griswold and Smith Loot Table Fix
+		- Chests can drop higher runes
+			> Normal (A2+): Up to Sol
+		    > Nightmare: Up to Ist
+		    > Hell: Up to Zod
 
 0. Patches.1337
     - This file includes all of the patches that were done by hand and recorded

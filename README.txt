@@ -1,6 +1,6 @@
-Vanilla Frosting 13.0.1 [1.14d]
+Vanilla Frosting 13.1.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, December 4, 2017
+Released on Wednesday, December 13, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -18,9 +18,16 @@ and tailoring it to the Single Player experience.
   > Essences & Keys do not drop. Choose your stats and skills wisely.
 - [Recipe] Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
 - [Recipe] Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
-- Improved Rune Drop Rates.
-  > Before: Fal through Zod scaled down from 0.80% to 0.01%.
-  > After : Fal through Zod have a stable 1.00%.
+
+**** Balancing ****
+- Improved Rune Drop Rates
+- Improved TC 84/87/90 Drop Rates.
+- Improved Cow Drop Rates.
+- Act bosses always have quest drops and drop rates.
+- Chests can drop higher runes.
+  > Normal (A2+): Up to Sol
+  > Nightmare: Up to Ist
+  > Hell: Up to Zod
 
 **** Gameplay Changes ****
 - [Act 2] Fara now also sells TP/ID/Pots/Keys/Etc (Lysander + Drognan).

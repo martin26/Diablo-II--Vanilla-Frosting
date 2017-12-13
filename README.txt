@@ -1,4 +1,4 @@
-Vanilla Frosting 13.1.0 [1.14d]
+Vanilla Frosting 13.1.1 [1.14d]
 By Jonathan Vasquez (fearedbliss)
 Released on Wednesday, December 13, 2017
 ----------------------------------------
@@ -20,11 +20,11 @@ and tailoring it to the Single Player experience.
 - [Recipe] Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
 
 **** Balancing ****
-- Improved Rune Drop Rates
-- Improved TC 84/87/90 Drop Rates.
+- Improved Rune Drop Rates.
+- Improved TC 84 & 87 Drop Rates.
 - Improved Cow Drop Rates.
-- Act bosses always have quest drops and drop rates.
-- Chests can drop higher runes.
+- Act Bosses always have Quest Drops and Drop Rates.
+- Chests can drop higher runes on each difficulty.
   > Normal (A2+): Up to Sol
   > Nightmare: Up to Ist
   > Hell: Up to Zod

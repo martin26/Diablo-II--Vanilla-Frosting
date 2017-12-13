@@ -22,12 +22,12 @@ Patch_D2.mpq:
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
         - Improved Rune drop rates
-	    - Improved TC 84/87/90 drop rates
-		- Act bosses always have quest drop rates
+	    - Improved TC 84 & 87 drop rates
+		- Act bosses always have quest drops and drop rates
 		- Improved Cow drop rates
         - Essences and keys no longer drop
         - Griswold and Smith Loot Table Fix
-		- Chests can drop higher runes
+		- Chests can drop higher runes on each difficulty.
 			> Normal (A2+): Up to Sol
 		    > Nightmare: Up to Ist
 		    > Hell: Up to Zod

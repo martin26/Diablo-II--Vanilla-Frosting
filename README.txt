@@ -1,6 +1,6 @@
-Vanilla Frosting 13.1.1 [1.14d]
+Vanilla Frosting 13.2.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Wednesday, December 13, 2017
+Released on Thursday, December 14, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -8,26 +8,22 @@ the feeling of Diablo II as vanilla as possible, while enhancing
 and tailoring it to the Single Player experience.
 
 **** New Features ****
-- The size of the stash and cube have been increased.
+- The size of the stash, cube, and inventory have been increased.
 - All new characters start out with the Horadric Cube.
 - You can now open the Cow Level with just a town portal book.
 - You can now open the Cow Level even if you kill the King.
 - Ladder Runewords are now enabled on Single Player.
 - The amount of items dropped by Monsters and Chests are the same as /players 8.
+- Chests can now drop higher runes on each difficulty (N (A2+): Sol, Nm: Ist, H: Zod)
 - You now only get three respecs total per character (One per difficulty).
   > Essences & Keys do not drop. Choose your stats and skills wisely.
 - [Recipe] Upgrade a rune by placing: 2x Rune -> Next Rune (up to Zod)
 - [Recipe] Downgrade a rune by placing: Rune + Antidote -> Previous Rune.
 
-**** Balancing ****
+**** Drop Balancing ****
 - Improved Rune Drop Rates.
 - Improved TC 84 & 87 Drop Rates.
-- Improved Cow Drop Rates.
 - Act Bosses always have Quest Drops and Drop Rates.
-- Chests can drop higher runes on each difficulty.
-  > Normal (A2+): Up to Sol
-  > Nightmare: Up to Ist
-  > Hell: Up to Zod
 
 **** Gameplay Changes ****
 - [Act 2] Fara now also sells TP/ID/Pots/Keys/Etc (Lysander + Drognan).

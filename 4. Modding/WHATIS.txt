@@ -15,22 +15,21 @@ Patch_D2.mpq:
     - CharStats.txt - Horadric Cube at Character Creation
     - CubeMain.txt - New Cube Recipes
     - Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
-    - Inventory.txt - Stash & Cube Size
+    - Inventory.txt - Stash, Cube, & Inventory Size
     - LvlMaze.txt - Room Sizes
     - Misc.txt - Fara (Act 2) also sells TD/ID/Pots/Keys/Etc
     - MonStats.txt - Cows have zero resistances.
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
-        - Improved Rune drop rates
-	    - Improved TC 84 & 87 drop rates
-		- Act bosses always have quest drops and drop rates
-		- Improved Cow drop rates
-        - Essences and keys no longer drop
+        - Improved Rune Drop Rates
+        - Improved TC 84 & 87 Drop Rates
+        - Act Bosses always have Quest Drops and Drop Rates
+        - Essences and Keys no longer drop
         - Griswold and Smith Loot Table Fix
-		- Chests can drop higher runes on each difficulty.
-			> Normal (A2+): Up to Sol
-		    > Nightmare: Up to Ist
-		    > Hell: Up to Zod
+        - Chests can drop higher runes on each difficulty.
+            > Normal (A2+): Up to Sol
+            > Nightmare: Up to Ist
+            > Hell: Up to Zod
 
 0. Patches.1337
     - This file includes all of the patches that were done by hand and recorded

@@ -10,7 +10,8 @@ and resources. Without them none of this would be possible.
   experience, life, and item drop calc code.
   
 - devurandom for the code edits collection. I used a bunch of his patches
-  as a basis to find the 1.14d equivalents.
+  as a basis to find the 1.14d equivalents. Also thanks for the improvements
+  to my "Disable to Connect to Battle.Net" patch.
 
 - Myhrginoc at the PhrozenKeep for the 1.09/1.10 Cow King Check location and Allow Hardcore
   http://d2mods.info/forum/viewtopic.php?f=8&t=39923&view=next
@@ -23,6 +24,8 @@ and resources. Without them none of this would be possible.
   http://d2mods.info/forum/viewtopic.php?f=8&t=63578
   
 - devurandom and GalaXyHaXz for the CPU power fixes.
+
+- Ewok (Xios) for ideas on what can be a good balance for coloring runes/gems.
 
 The respective communities can be found below:
 

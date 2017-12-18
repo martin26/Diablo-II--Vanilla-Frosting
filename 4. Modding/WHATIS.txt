@@ -17,7 +17,11 @@ Patch_D2.mpq:
     - Experience.txt - Experience Table (Experience Ratio doesn't decrease after 70)
     - Inventory.txt - Stash, Cube, & Inventory Size
     - LvlMaze.txt - Room Sizes
-    - Misc.txt - Fara (Act 2) also sells TD/ID/Pots/Keys/Etc
+    - Misc.txt
+		- Fara (Act 2) also sells TD/ID/Pots/Keys/Etc
+		- Ormus (Act 3) now also sells Stamina/Thawing/Antidote Potions and Keys.
+		- Arrows/Bolts stack up to 500.
+		- TP/ID Books and Keys stack up to 100.
     - MonStats.txt - Cows have zero resistances.
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
@@ -30,6 +34,14 @@ Patch_D2.mpq:
             > Normal (A2+): Up to Sol
             > Nightmare: Up to Ist
             > Hell: Up to Zod
+	- string.tbl (English)
+		- Gems and Skulls are now colored Dark Green.
+	- trademarkscreenEXP.dc6 - VF version addition to first screen
+	- gameselectscreenEXP.dc6 - VF version addition to main screen
+	- invchar.dc6 - Expanded Inventory (Classic)
+	- invchar6.dc6 - Expanded Inventory (Expansion)
+	- supertransmogrifier.dc6 - Expanded Cube
+	- TradeStash.dc6 - Expanded Stash (Expansion)
 
 0. Patches.1337
     - This file includes all of the patches that were done by hand and recorded

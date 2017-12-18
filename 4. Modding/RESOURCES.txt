@@ -8,3 +8,5 @@ WinMPQ 1.64
 AFJ Sheet Editor 0.6.1 Beta
 x32dbg
 OllyDbg 1.10
+DC6Con
+DC6 Creator 1.02

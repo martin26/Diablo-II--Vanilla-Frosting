@@ -1,6 +1,6 @@
-Vanilla Frosting 13.3.0 [1.14d]
+Vanilla Frosting 14.0.0 [1.14d]
 By Jonathan Vasquez (fearedbliss)
-Released on Monday, December 18, 2017
+Released on Wednesday, December 27, 2017
 ----------------------------------------
 
 Vanilla Frosting is a Diablo II mod that was designed to keep
@@ -19,6 +19,9 @@ and tailoring it to the Single Player experience.
   > Arrows & Bolts now stack up to 500.
 
 **** Gameplay Changes ****
+- [From 1.06] Monster resistances are capped at 90% (Excluding Enchanted Monsters).
+  > Pre-LOD files have a maximum cap of 100%. I will use 90% to compensate for the
+    1.10+ difficulty increase.
 - [From 1.09] The experience penalty after level 70 has been removed.
 - [From 1.09] You will now once again receive experience beyond 2 screens.
 - [From 1.09] Maps have the same size on all difficulties.

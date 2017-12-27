@@ -22,7 +22,9 @@ Patch_D2.mpq:
 		- Ormus (Act 3) now also sells Stamina/Thawing/Antidote Potions and Keys.
 		- Arrows/Bolts stack up to 500.
 		- TP/ID Books and Keys stack up to 100.
-    - MonStats.txt - Cows have zero resistances.
+    - MonStats.txt:
+		- Cows have zero resistances.
+		- Monster resistances are capped at 90%.
     - Runes.txt - Ladder only runewords enabled on Single Player
     - TreasureClassEx.txt:
         - Improved Rune Drop Rates
